@@ -29,6 +29,8 @@ export async function ablageLaden() {
 
 /** Stories aus der Ablage (Ordner stories-<kanal>, meta.typ "story"), getrennt von den Videos. */
 export const ablageStories = () => videos.filter((v) => v.typ === "story");
+/** Story-Pool eines Kanals (Ordner stories-<kanal>/pool, meta.typ "story-pool"): alle Einträge mit Vorschaubild. */
+export const ablagePool = (projekt) => videos.find((v) => v.typ === "story-pool" && (v.projekt || "").toLowerCase() === projekt.toLowerCase()) || null;
 
 export const zuEintrag = (e) => (e?.planKey && videos.find((v) => v.key === e.planKey)) || null;
 export const istErledigt = (v) => !!v?.status?.erledigt;
