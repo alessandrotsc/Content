@@ -94,7 +94,8 @@
       },
       {
        "titel": "Skincare-Produkte gegen Rizinusöl",
-       "status": "offen"
+       "status": "online",
+       "id": "K11_Rizinusoel"
       },
       {
        "titel": "Kulturheidelbeeren gegen Wildheidelbeeren",
@@ -151,11 +152,11 @@
       }
      ],
      "anzahl": 16,
-     "fertig": 1
+     "fertig": 2
     }
    ],
    "anzahl": 16,
-   "fertig": 1
+   "fertig": 2
   },
   {
    "name": "Supplemente",
@@ -819,12 +820,25 @@
    "lang": true,
    "thema": "Skincare-Produkte gegen Rizinusöl",
    "titel": "Skincare-Produkte gegen Rizinusöl",
-   "status": "offen",
+   "status": "online",
    "key": "KU|Gut vs Schlecht|Skincare-Produkte gegen Rizinusöl",
-   "skript": "K11_Rizinusoel",
+   "id": "K11_Rizinusoel",
+   "gepostet_am": "2026-11-04",
+   "nr": 12
+  },
+  {
+   "runde": 1,
+   "saeule": "Gut vs Schlecht",
+   "format": "Gut vs Schlecht",
+   "unterformat": "Gut vs Schlecht",
+   "lang": true,
+   "thema": "Fluorid-Zahnpasta gegen Fluoridfreie Zahnpasta",
+   "titel": "Fluorid-Zahnpasta gegen Fluoridfreie Zahnpasta",
+   "status": "offen",
+   "key": "KU|Gut vs Schlecht|Fluorid-Zahnpasta gegen Fluoridfreie Zahnpasta",
    "datum": "2026-11-04",
    "zeit": "19:00",
-   "nr": 12
+   "nr": 13
   },
   {
    "runde": 1,
@@ -838,7 +852,7 @@
    "key": "KU|Supplemente|Ashwagandha",
    "datum": "2026-11-05",
    "zeit": "19:00",
-   "nr": 13
+   "nr": 14
   },
   {
    "runde": 1,
@@ -852,7 +866,7 @@
    "key": "KU|Tee Sorten|Mate Tee",
    "datum": "2026-11-06",
    "zeit": "19:00",
-   "nr": 14
+   "nr": 15
   },
   {
    "runde": 1,
@@ -866,7 +880,7 @@
    "key": "KU|Zurück zum Ursprung|Fasten",
    "datum": "2026-11-07",
    "zeit": "19:00",
-   "nr": 15
+   "nr": 16
   },
   {
    "runde": 1,
@@ -880,7 +894,7 @@
    "key": "KU|Top 3|Top 3: Mehr Energie",
    "datum": "2026-11-08",
    "zeit": "19:00",
-   "nr": 16
+   "nr": 17
   },
   {
    "runde": 1,
@@ -894,7 +908,7 @@
    "key": "KU|Was passiert, wenn …|Was passiert, wenn du täglich Karotten isst?",
    "datum": "2026-11-09",
    "zeit": "19:00",
-   "nr": 17
+   "nr": 18
   },
   {
    "runde": 1,
@@ -908,7 +922,7 @@
    "key": "KU|Wahrheit oder Mythos|Eier Cholesterin",
    "datum": "2026-11-10",
    "zeit": "19:00",
-   "nr": 18
+   "nr": 19
   },
   {
    "runde": 1,
@@ -916,13 +930,13 @@
    "format": "Gut vs Schlecht",
    "unterformat": "Gut vs Schlecht",
    "lang": true,
-   "thema": "Fluorid-Zahnpasta gegen Fluoridfreie Zahnpasta",
-   "titel": "Fluorid-Zahnpasta gegen Fluoridfreie Zahnpasta",
+   "thema": "Protein Shake gegen Eier",
+   "titel": "Protein Shake gegen Eier",
    "status": "offen",
-   "key": "KU|Gut vs Schlecht|Fluorid-Zahnpasta gegen Fluoridfreie Zahnpasta",
+   "key": "KU|Gut vs Schlecht|Protein Shake gegen Eier",
    "datum": "2026-11-11",
    "zeit": "19:00",
-   "nr": 19
+   "nr": 20
   },
   {
    "runde": 1,
@@ -936,7 +950,7 @@
    "key": "KU|Supplemente|Omega 3",
    "datum": "2026-11-12",
    "zeit": "19:00",
-   "nr": 20
+   "nr": 21
   },
   {
    "runde": 1,
@@ -950,7 +964,7 @@
    "key": "KU|Tee Sorten|Blue pia Tee",
    "datum": "2026-11-13",
    "zeit": "19:00",
-   "nr": 21
+   "nr": 22
   },
   {
    "runde": 1,
@@ -964,7 +978,7 @@
    "key": "KU|Zurück zum Ursprung|Stress",
    "datum": "2026-11-14",
    "zeit": "19:00",
-   "nr": 22
+   "nr": 23
   },
   {
    "runde": 1,
@@ -978,7 +992,7 @@
    "key": "KU|Top 3|Top 3: Mehr Testosteron",
    "datum": "2026-11-15",
    "zeit": "19:00",
-   "nr": 23
+   "nr": 24
   },
   {
    "runde": 1,
@@ -992,7 +1006,7 @@
    "key": "KU|Was passiert, wenn …|Was passiert, wenn du täglich Pornos schaust?",
    "datum": "2026-11-16",
    "zeit": "19:00",
-   "nr": 24
+   "nr": 25
   },
   {
    "runde": 1,
@@ -1006,7 +1020,7 @@
    "key": "KU|Wahrheit oder Mythos|Weisheitszähne",
    "datum": "2026-11-17",
    "zeit": "19:00",
-   "nr": 25
+   "nr": 26
   },
   {
    "runde": 1,
@@ -1014,13 +1028,13 @@
    "format": "Gut vs Schlecht",
    "unterformat": "Gut vs Schlecht",
    "lang": true,
-   "thema": "Protein Shake gegen Eier",
-   "titel": "Protein Shake gegen Eier",
+   "thema": "Deo gegen Eigenes Deo",
+   "titel": "Deo gegen Eigenes Deo",
    "status": "offen",
-   "key": "KU|Gut vs Schlecht|Protein Shake gegen Eier",
+   "key": "KU|Gut vs Schlecht|Deo gegen Eigenes Deo",
    "datum": "2026-11-18",
    "zeit": "19:00",
-   "nr": 26
+   "nr": 27
   },
   {
    "runde": 1,
@@ -1034,7 +1048,7 @@
    "key": "KU|Supplemente|Kreatin",
    "datum": "2026-11-19",
    "zeit": "19:00",
-   "nr": 27
+   "nr": 28
   },
   {
    "runde": 1,
@@ -1048,7 +1062,7 @@
    "key": "KU|Tee Sorten|Schwarzer Tee",
    "datum": "2026-11-20",
    "zeit": "19:00",
-   "nr": 28
+   "nr": 29
   },
   {
    "runde": 1,
@@ -1062,7 +1076,7 @@
    "key": "KU|Zurück zum Ursprung|Zimmerpflanzen",
    "datum": "2026-11-21",
    "zeit": "19:00",
-   "nr": 29
+   "nr": 30
   },
   {
    "runde": 1,
@@ -1076,7 +1090,7 @@
    "key": "KU|Top 3|Top 3: Gegen Haarausfall",
    "datum": "2026-11-22",
    "zeit": "19:00",
-   "nr": 30
+   "nr": 31
   },
   {
    "runde": 1,
@@ -1090,7 +1104,7 @@
    "key": "KU|Was passiert, wenn …|Was passiert, wenn du täglich Knoblauch isst?",
    "datum": "2026-11-23",
    "zeit": "19:00",
-   "nr": 31
+   "nr": 32
   },
   {
    "runde": 1,
@@ -1104,7 +1118,7 @@
    "key": "KU|Wahrheit oder Mythos|Brille kann man nicht heilen",
    "datum": "2026-11-24",
    "zeit": "19:00",
-   "nr": 32
+   "nr": 33
   },
   {
    "runde": 1,
@@ -1112,13 +1126,13 @@
    "format": "Gut vs Schlecht",
    "unterformat": "Gut vs Schlecht",
    "lang": true,
-   "thema": "Deo gegen Eigenes Deo",
-   "titel": "Deo gegen Eigenes Deo",
+   "thema": "Sonnenblumenöl gegen Weidenrute, Ghee",
+   "titel": "Sonnenblumenöl gegen Weidenrute, Ghee",
    "status": "offen",
-   "key": "KU|Gut vs Schlecht|Deo gegen Eigenes Deo",
+   "key": "KU|Gut vs Schlecht|Sonnenblumenöl gegen Weidenrute, Ghee",
    "datum": "2026-11-25",
    "zeit": "19:00",
-   "nr": 33
+   "nr": 34
   },
   {
    "runde": 1,
@@ -1132,7 +1146,7 @@
    "key": "KU|Supplemente|Kollagen",
    "datum": "2026-11-26",
    "zeit": "19:00",
-   "nr": 34
+   "nr": 35
   },
   {
    "runde": 1,
@@ -1146,18 +1160,6 @@
    "key": "KU|Tee Sorten|Pfefferminztee",
    "datum": "2026-11-27",
    "zeit": "19:00",
-   "nr": 35
-  },
-  {
-   "runde": 1,
-   "saeule": "Gut vs Schlecht",
-   "format": "Gut vs Schlecht",
-   "unterformat": "Gut vs Schlecht",
-   "lang": true,
-   "thema": "Sonnenblumenöl gegen Weidenrute, Ghee",
-   "titel": "Sonnenblumenöl gegen Weidenrute, Ghee",
-   "status": "offen",
-   "key": "KU|Gut vs Schlecht|Sonnenblumenöl gegen Weidenrute, Ghee",
    "nr": 36
   },
   {
