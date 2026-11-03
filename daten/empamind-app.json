@@ -1,0 +1,14 @@
+{
+ "typ": "projekt-import",
+ "projekt": "EmpaMind",
+ "farbe": "#C9A85C",
+ "plattformen": [
+  {"typ": "instagram", "handle": "@empaminds"},
+  {"typ": "tiktok", "handle": "@empamind"},
+  {"typ": "youtube", "handle": "EmpaMind"},
+  {"typ": "facebook", "handle": "EmpaMind"},
+  {"typ": "pinterest", "handle": "enempamind"}
+ ],
+ "stand": "2026-11-03",
+ "formate": []
+}
