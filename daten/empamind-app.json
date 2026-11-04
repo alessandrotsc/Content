@@ -3,12 +3,5113 @@
  "projekt": "EmpaMind",
  "farbe": "#C9A85C",
  "plattformen": [
-  {"typ": "instagram", "handle": "@empaminds"},
-  {"typ": "tiktok", "handle": "@empamind"},
-  {"typ": "youtube", "handle": "EmpaMind"},
-  {"typ": "facebook", "handle": "EmpaMind"},
-  {"typ": "pinterest", "handle": "enempamind"}
+  {
+   "typ": "instagram",
+   "handle": "@empaminds"
+  },
+  {
+   "typ": "tiktok",
+   "handle": "@empamind"
+  },
+  {
+   "typ": "youtube",
+   "handle": "EmpaMind"
+  },
+  {
+   "typ": "facebook",
+   "handle": "EmpaMind"
+  },
+  {
+   "typ": "pinterest",
+   "handle": "enempamind"
+  }
  ],
- "stand": "2026-11-03",
- "formate": []
+ "stand": "2026-11-04",
+ "saeulen": [
+  {
+   "name": "Warum Menschen …",
+   "muster": [
+    "Warum Menschen …"
+   ]
+  },
+  {
+   "name": "Konter-Satz",
+   "muster": [
+    "Konter-Satz"
+   ]
+  },
+  {
+   "name": "Körpersprache",
+   "muster": [
+    "Körpersprache"
+   ]
+  },
+  {
+   "name": "Lektion als Szene",
+   "muster": [
+    "Lektion als Szene"
+   ]
+  },
+  {
+   "name": "Sag das statt das",
+   "muster": [
+    "Sag das statt das"
+   ]
+  },
+  {
+   "name": "So bringst du jemanden dazu …",
+   "muster": [
+    "So bringst du jemanden dazu …"
+   ]
+  },
+  {
+   "name": "Welcher bist du?",
+   "muster": [
+    "Welcher bist du?"
+   ]
+  },
+  {
+   "name": "Frage und Antwort",
+   "muster": [
+    "Frage und Antwort"
+   ]
+  },
+  {
+   "name": "Karussell 15 Uhr",
+   "muster": [
+    "Karussell 15 Uhr"
+   ]
+  }
+ ],
+ "stufen": [
+  "Start: täglich Karussell 10:00, Karussell 15:00, Reel 20:00 (nur Englisch)",
+  "Später: Langvideos auf YouTube aus den stärksten Reel-Themen"
+ ],
+ "regeln": [
+  "Dem User alles auf Deutsch zeigen, produziert und hochgeladen wird die englische Fassung (Feld en).",
+  "Jede Aussage belegbar (Studie oder anerkannte Fachquelle), keine Therapie- oder Heilversprechen, keine Diagnosen.",
+  "Manipulation immer als Erkennen und Schützen, nie als Anleitung.",
+  "Fester Titelbalken oben, Schlüsselwort in Gold, Nachtblau. Keine Stock-Fotos echter Menschen.",
+  "Ende mit Entlastung oder Frage an die Kommentare, kein „Folge mir“.",
+  "Vorbilder: 06_Formate/Archiv/. Aufbau übernehmen, nie fremde Videos oder Texte kopieren."
+ ],
+ "formate": [
+  {
+   "name": "Warum Menschen …",
+   "saeule": "Warum Menschen …",
+   "en": "Why People …",
+   "laenge": "30 bis 45 s",
+   "spur": "Reel 20:00",
+   "beschreibung": "Reel jeden Montag 20:00, KI-Stimme. Ein Verhalten, die verborgene Ursache, am Ende Entlastung statt Urteil. Stärkstes Format im Archiv (TikTok Ø 6 Mio.).",
+   "unterformate": [
+    {
+     "name": "Ursache in der Kindheit",
+     "en": "Childhood Root",
+     "videos": [
+      {
+       "titel": "Warum manche Menschen sich für alles entschuldigen",
+       "en": "Why some people apologize for everything",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen keine Komplimente annehmen können",
+       "en": "Why some people can't accept compliments",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen sich ständig rechtfertigen",
+       "en": "Why some people over-explain everything",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen nie um Hilfe bitten",
+       "en": "Why some people never ask for help",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen sich beim Ausruhen schuldig fühlen",
+       "en": "Why some people feel guilty when they rest",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen immer beschäftigt sein müssen",
+       "en": "Why some people always need to be busy",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen nicht Nein sagen können",
+       "en": "Why some people can't say no",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen jede Stimmungsänderung sofort bemerken",
+       "en": "Why some people notice every mood change",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen Angst bekommen, wenn alles gut läuft",
+       "en": "Why some people panic when things go well",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Schutzmechanismus",
+     "en": "Survival Response",
+     "videos": [
+      {
+       "titel": "Warum manche Menschen verstummen, wenn sie verletzt sind",
+       "en": "Why some people go quiet when they're hurt",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen in ernsten Momenten lachen",
+       "en": "Why some people laugh in serious moments",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen die wegstoßen, die sie lieben",
+       "en": "Why some people push away the people they love",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen immer das Schlimmste erwarten",
+       "en": "Why some people always expect the worst",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen in einem stillen Haus nicht entspannen können",
+       "en": "Why some people can't relax in a quiet house",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen mit laufendem Fernseher schlafen",
+       "en": "Why some people sleep with the TV on",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen nie vor anderen weinen",
+       "en": "Why some people never cry in front of others",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen Witze über ihren Schmerz machen",
+       "en": "Why some people joke about their pain",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen in toxischen Beziehungen bleiben",
+       "en": "Why some people stay in toxic relationships",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Was es wirklich bedeutet",
+     "en": "What It Really Means",
+     "videos": [
+      {
+       "titel": "Warum manche Menschen immer zu spät kommen",
+       "en": "Why some people are always late",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen nur mit „ok“ antworten",
+       "en": "Why some people reply with just \"k\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen aufs Handy schauen, während du redest",
+       "en": "Why some people check their phone while you talk",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen über alle lästern",
+       "en": "Why some people gossip about everyone",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen nie zugeben, dass sie falsch liegen",
+       "en": "Why some people never admit they're wrong",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen immer das letzte Wort brauchen",
+       "en": "Why some people always need the last word",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen Fremden zu viel erzählen",
+       "en": "Why some people overshare with strangers",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen ghosten, statt sich zu verabschieden",
+       "en": "Why some people ghost instead of saying goodbye",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum manche Menschen zu dir nett, aber zur Bedienung unhöflich sind",
+       "en": "Why some people are nice to you but rude to waiters",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Konter-Satz",
+   "saeule": "Konter-Satz",
+   "en": "If Someone Does This, Say This",
+   "laenge": "30 bis 45 s",
+   "spur": "Reel 20:00",
+   "beschreibung": "Reel jeden Dienstag 20:00, KI-Stimme. Eine Situation, ein wörtlicher Satz zum Kontern, kurz warum er wirkt. Ruhig und souverän, nie fies (YouTube Ø 7,3 Mio.).",
+   "unterformate": [
+    {
+     "name": "Respektlosigkeit",
+     "en": "Disrespect",
+     "videos": [
+      {
+       "titel": "Wenn dich jemand unterbricht, sag das",
+       "en": "If someone interrupts you, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand von oben herab mit dir redet, sag das",
+       "en": "If someone talks down to you, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand einen Witz auf deine Kosten macht, sag das",
+       "en": "If someone makes a joke at your expense, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand deine Nachricht tagelang ignoriert, mach das",
+       "en": "If someone ignores your message for days, do this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn sich jemand mit deiner Arbeit schmückt, sag das",
+       "en": "If someone takes credit for your work, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn dich jemand vor anderen kritisiert, sag das",
+       "en": "If someone criticizes you in front of others, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand „Beruhig dich“ sagt, sag das",
+       "en": "If someone tells you to \"calm down\", say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn dich jemand immer warten lässt, mach das",
+       "en": "If someone always keeps you waiting, do this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand deinen Traum belächelt, sag das",
+       "en": "If someone laughs at your dream, say this",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Manipulation",
+     "en": "Manipulators",
+     "videos": [
+      {
+       "titel": "Wenn jemand sagt „Du bist zu empfindlich“, sag das",
+       "en": "If someone says \"you're too sensitive\", say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand sagt „War doch nur Spaß“, sag das",
+       "en": "If someone says \"I was just joking\", say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn dich jemand anschweigt, mach das",
+       "en": "If someone gives you the silent treatment, do this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn dir jemand Schuldgefühle macht, sag das",
+       "en": "If someone guilt-trips you, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand sagt „Nach allem, was ich für dich getan habe“, sag das",
+       "en": "If someone says \"after everything I've done for you\", say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn dir jemand die Worte im Mund umdreht, sag das",
+       "en": "If someone twists your words, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn dich jemand drängt, sofort zu entscheiden, sag das",
+       "en": "If someone pressures you to decide right now, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand sagt „Das sehen alle so“, sag das",
+       "en": "If someone says \"everyone agrees with me\", say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand sagt „Du übertreibst“, sag das",
+       "en": "If someone says \"you're overreacting\", say this",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Alltag",
+     "en": "Everyday Power Moves",
+     "videos": [
+      {
+       "titel": "Wenn jemand eine Frage stellt, die ihn nichts angeht, sag das",
+       "en": "If someone asks a question that's none of their business, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand fragt, was du verdienst, sag das",
+       "en": "If someone asks how much you earn, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand sagt „Du hast dich verändert“, sag das",
+       "en": "If someone says \"you've changed\", say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn sich jemand immer etwas leiht und nie zurückgibt, sag das",
+       "en": "If someone always borrows and never gives back, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn dich jemand mit anderen vergleicht, sag das",
+       "en": "If someone compares you to others, say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand fragt „Warum bist du noch Single?“, sag das",
+       "en": "If someone asks \"why are you still single?\", say this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand dein Geheimnis weitererzählt, mach das",
+       "en": "If someone tells your secret, do this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn dein Chef sagt „Hast du kurz Zeit?“, mach das",
+       "en": "If your boss says \"do you have a minute?\", do this",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand sagt „Tut mir leid, dass du dich so fühlst“, sag das",
+       "en": "If someone says \"sorry you feel that way\", say this",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Körpersprache",
+   "saeule": "Körpersprache",
+   "en": "Body Language",
+   "laenge": "15 bis 30 s",
+   "spur": "Reel 20:00",
+   "beschreibung": "Reel jeden Mittwoch 20:00, ohne Stimme, Musik. Zwei Szenen nebeneinander oder ein Signal, große Labels in Gold. Signale sind Hinweise, nie Beweise (YouTube Ø 1,5 Mio.).",
+   "unterformate": [
+    {
+     "name": "A gegen B",
+     "en": "Ignored vs Respected",
+     "videos": [
+      {
+       "titel": "Begrüßung: ignoriert gegen respektiert",
+       "en": "Greeting: ignored vs respected",
+       "status": "offen"
+      },
+      {
+       "titel": "Am Tisch: unsicher gegen selbstsicher",
+       "en": "At the table: insecure vs confident",
+       "status": "offen"
+      },
+      {
+       "titel": "Einen Raum betreten: unsichtbar gegen anziehend",
+       "en": "Entering a room: invisible vs magnetic",
+       "status": "offen"
+      },
+      {
+       "titel": "Zuhören: gelangweilt gegen interessiert",
+       "en": "Listening: bored vs interested",
+       "status": "offen"
+      },
+      {
+       "titel": "Händedruck: schwach gegen stark",
+       "en": "Handshake: weak vs strong",
+       "status": "offen"
+      },
+      {
+       "titel": "Blickkontakt: nervös gegen ruhig",
+       "en": "Eye contact: nervous vs calm",
+       "status": "offen"
+      },
+      {
+       "titel": "In der Gruppe: Außenseiter gegen Anführer",
+       "en": "In a group: outsider vs leader",
+       "status": "offen"
+      },
+      {
+       "titel": "Beim Date: kein Interesse gegen Interesse",
+       "en": "On a date: not interested vs interested",
+       "status": "offen"
+      },
+      {
+       "titel": "Im Streit: verliert die Kontrolle gegen behält sie",
+       "en": "In an argument: losing control vs in control",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "In 3 Sekunden lesen",
+     "en": "Read in 3 Seconds",
+     "videos": [
+      {
+       "titel": "Füße zeigen zur Tür",
+       "en": "Feet pointing to the door",
+       "status": "offen"
+      },
+      {
+       "titel": "Verschränkte Arme heißen nicht immer Abwehr",
+       "en": "Crossed arms don't always mean defensive",
+       "status": "offen"
+      },
+      {
+       "titel": "Echtes gegen falsches Lächeln",
+       "en": "Real smile vs fake smile",
+       "status": "offen"
+      },
+      {
+       "titel": "Der Griff an den Hals",
+       "en": "Touching the neck",
+       "status": "offen"
+      },
+      {
+       "titel": "Der kurze Augenbrauen-Gruß",
+       "en": "The eyebrow flash",
+       "status": "offen"
+      },
+      {
+       "titel": "Wenn jemand deine Haltung spiegelt",
+       "en": "When someone mirrors your posture",
+       "status": "offen"
+      },
+      {
+       "titel": "Wen jemand anschaut, wenn die Gruppe lacht",
+       "en": "Who they look at when the group laughs",
+       "status": "offen"
+      },
+      {
+       "titel": "Hände in den Taschen",
+       "en": "Hands hidden in pockets",
+       "status": "offen"
+      },
+      {
+       "titel": "Plötzliches Zurücklehnen",
+       "en": "Suddenly leaning back",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Stress-Signale",
+     "en": "Stress Signals",
+     "videos": [
+      {
+       "titel": "Zu viele Details",
+       "en": "Too many details",
+       "status": "offen"
+      },
+      {
+       "titel": "Die Frage wiederholen",
+       "en": "Repeating your question",
+       "status": "offen"
+      },
+      {
+       "titel": "Plötzliches Erstarren",
+       "en": "The sudden freeze",
+       "status": "offen"
+      },
+      {
+       "titel": "Ständig „ehrlich gesagt“",
+       "en": "Saying \"honestly\" a lot",
+       "status": "offen"
+      },
+      {
+       "titel": "Eine Geschichte perfekt der Reihe nach",
+       "en": "A story told perfectly in order",
+       "status": "offen"
+      },
+      {
+       "titel": "Eine andere Frage beantworten",
+       "en": "Answering a different question",
+       "status": "offen"
+      },
+      {
+       "titel": "Von „ich“ zu „man“ wechseln",
+       "en": "Switching from \"I\" to \"you\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Übertriebener Blickkontakt",
+       "en": "Too much eye contact",
+       "status": "offen"
+      },
+      {
+       "titel": "Erleichterung beim Themenwechsel",
+       "en": "Relief when the topic changes",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lektion als Szene",
+   "saeule": "Lektion als Szene",
+   "en": "Scene Lesson",
+   "laenge": "15 bis 30 s",
+   "spur": "Reel 20:00",
+   "beschreibung": "Reel jeden Donnerstag 20:00, ohne Stimme, Musik. Eine KI-Szene erzählt still eine Lektion, die feste Überschrift oben ist die Botschaft (YouTube Ø 4,4 Mio.).",
+   "unterformate": [
+    {
+     "name": "Harte Wahrheit",
+     "en": "Hard Truth",
+     "videos": [
+      {
+       "titel": "Das Richtige zu tun wird nicht immer belohnt",
+       "en": "Doing the right thing isn't always rewarded",
+       "status": "offen"
+      },
+      {
+       "titel": "Menschen behandeln dich so, wie du es zulässt",
+       "en": "People treat you the way you allow",
+       "status": "offen"
+      },
+      {
+       "titel": "Nicht jeder, der dich anlächelt, ist dein Freund",
+       "en": "Not everyone who smiles at you is your friend",
+       "status": "offen"
+      },
+      {
+       "titel": "Du heilst nicht dort, wo du verletzt wurdest",
+       "en": "You can't heal in the place that hurt you",
+       "status": "offen"
+      },
+      {
+       "titel": "Gebraucht werden ist nicht dasselbe wie geliebt werden",
+       "en": "Being needed is not the same as being loved",
+       "status": "offen"
+      },
+      {
+       "titel": "Schweigen ist auch eine Antwort",
+       "en": "Silence is also an answer",
+       "status": "offen"
+      },
+      {
+       "titel": "Manche melden sich nur, wenn sie etwas brauchen",
+       "en": "Some people only call when they need something",
+       "status": "offen"
+      },
+      {
+       "titel": "Wer immer verfügbar ist, wird weniger geschätzt",
+       "en": "Always available means less valued",
+       "status": "offen"
+      },
+      {
+       "titel": "Deine Komfortzone wird langsam kleiner",
+       "en": "Your comfort zone is slowly shrinking",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Stille Stärke",
+     "en": "Quiet Strength",
+     "videos": [
+      {
+       "titel": "Der Ruhigste im Raum hat die Macht",
+       "en": "The calmest person in the room has the power",
+       "status": "offen"
+      },
+      {
+       "titel": "Weggehen ist auch eine Antwort",
+       "en": "Walking away is also an answer",
+       "status": "offen"
+      },
+      {
+       "titel": "Du musst dich nicht jedem erklären",
+       "en": "You don't owe everyone an explanation",
+       "status": "offen"
+      },
+      {
+       "titel": "Freundlichkeit ist keine Schwäche",
+       "en": "Kindness is not weakness",
+       "status": "offen"
+      },
+      {
+       "titel": "Nicht reagieren ist die stärkste Reaktion",
+       "en": "Not reacting is the strongest reaction",
+       "status": "offen"
+      },
+      {
+       "titel": "Kleine Siege jeden Tag",
+       "en": "Small wins every day",
+       "status": "offen"
+      },
+      {
+       "titel": "Allein ist nicht einsam",
+       "en": "Alone is not lonely",
+       "status": "offen"
+      },
+      {
+       "titel": "Pause ist keine Faulheit",
+       "en": "Rest is not laziness",
+       "status": "offen"
+      },
+      {
+       "titel": "Dein Frieden ist mehr wert als Recht zu haben",
+       "en": "Your peace is worth more than being right",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Beziehungen",
+     "en": "Relationships",
+     "videos": [
+      {
+       "titel": "Liebe zeigt sich in kleinen Dingen",
+       "en": "Love shows in small things",
+       "status": "offen"
+      },
+      {
+       "titel": "Wer sich weniger kümmert, bestimmt die Beziehung",
+       "en": "The one who cares less controls the relationship",
+       "status": "offen"
+      },
+      {
+       "titel": "Echte Freunde freuen sich, wenn du gewinnst",
+       "en": "Real friends are happy when you win",
+       "status": "offen"
+      },
+      {
+       "titel": "Du kannst niemanden zwingen zu bleiben",
+       "en": "You can't make someone stay",
+       "status": "offen"
+      },
+      {
+       "titel": "Liebe ändert niemanden, der sich nicht ändern will",
+       "en": "Love can't change someone who doesn't want to change",
+       "status": "offen"
+      },
+      {
+       "titel": "Beständigkeit schlägt große Gesten",
+       "en": "Consistency beats grand gestures",
+       "status": "offen"
+      },
+      {
+       "titel": "Wie jemand streitet, zeigt, wer er ist",
+       "en": "The way someone argues shows who they are",
+       "status": "offen"
+      },
+      {
+       "titel": "Erst geht der Respekt, dann die Liebe",
+       "en": "Respect fades before love does",
+       "status": "offen"
+      },
+      {
+       "titel": "Achte darauf, wie jemand dich behandelt, wenn du krank bist",
+       "en": "Watch how they treat you when you're sick",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sag das statt das",
+   "saeule": "Sag das statt das",
+   "en": "Say This, Not That",
+   "laenge": "30 bis 45 s",
+   "spur": "Reel 20:00",
+   "beschreibung": "Reel jeden Freitag 20:00, KI-Stimme. Ein schwacher Satz, der bessere Satz, warum er wirkt (TikTok Ø 3 Mio.). Sammelt Material für das Produkt „100 Sätze“.",
+   "unterformate": [
+    {
+     "name": "Arbeit",
+     "en": "Work",
+     "videos": [
+      {
+       "titel": "Sag nicht „Sorry für die späte Antwort“",
+       "en": "Don't say \"sorry for the late reply\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Ich glaube“ im Meeting",
+       "en": "Don't say \"I think\" in meetings",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Ist das okay?“",
+       "en": "Don't say \"is that okay?\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Ich wollte nur mal nachhaken“",
+       "en": "Don't say \"just checking in\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Ich versuche es“",
+       "en": "Don't say \"I'll try\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Das ist nicht meine Aufgabe“",
+       "en": "Don't say \"that's not my job\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Ich weiß nicht“",
+       "en": "Don't say \"I don't know\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Kein Problem“",
+       "en": "Don't say \"no problem\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Sorry, dass ich störe“",
+       "en": "Don't say \"sorry to bother you\"",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Beziehung",
+     "en": "Love",
+     "videos": [
+      {
+       "titel": "Sag nicht „Du hörst nie zu“",
+       "en": "Don't say \"you never listen\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Beruhig dich“",
+       "en": "Don't say \"calm down\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Mir geht's gut“",
+       "en": "Don't say \"I'm fine\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Egal“",
+       "en": "Don't say \"whatever\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Das machst du immer“",
+       "en": "Don't say \"you always do this\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Tut mir leid, dass du so fühlst“",
+       "en": "Don't say \"I'm sorry you feel that way\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Warum hast du nichts gesagt?“",
+       "en": "Don't say \"why didn't you tell me?\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Wir müssen reden“",
+       "en": "Don't say \"we need to talk\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Ist doch nicht schlimm“",
+       "en": "Don't say \"it's not a big deal\"",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Streit",
+     "en": "Conflict",
+     "videos": [
+      {
+       "titel": "Sag nicht „Du liegst falsch“",
+       "en": "Don't say \"you're wrong\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Ist mir egal“",
+       "en": "Don't say \"I don't care\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Das ist dumm“",
+       "en": "Don't say \"that's stupid\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Du hast mich wütend gemacht“",
+       "en": "Don't say \"you made me angry\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Gut, mach doch“",
+       "en": "Don't say \"fine, do what you want\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Du übertreibst“",
+       "en": "Don't say \"you're overreacting\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Hab ich doch gesagt“",
+       "en": "Don't say \"I told you so\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Nichts für ungut, aber“",
+       "en": "Don't say \"no offense, but\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Sag nicht „Du bist schuld“",
+       "en": "Don't say \"it's your fault\"",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "So bringst du jemanden dazu …",
+   "saeule": "So bringst du jemanden dazu …",
+   "en": "How to Make Someone …",
+   "laenge": "30 bis 45 s",
+   "spur": "Reel 20:00",
+   "beschreibung": "Reel jeden Samstag 20:00, KI-Stimme. Ein Ziel, 2 bis 3 konkrete Schritte, immer fair und ohne Manipulation (TikTok Ø 1,1 Mio.).",
+   "unterformate": [
+    {
+     "name": "Respekt",
+     "en": "Respect",
+     "videos": [
+      {
+       "titel": "So respektiert dich jemand, ohne dass du ein Wort sagst",
+       "en": "How to make someone respect you without saying a word",
+       "status": "offen"
+      },
+      {
+       "titel": "So nimmt dich jemand ernst",
+       "en": "How to make someone take you seriously",
+       "status": "offen"
+      },
+      {
+       "titel": "So hört jemand auf, dich zu unterbrechen",
+       "en": "How to make someone stop interrupting you",
+       "status": "offen"
+      },
+      {
+       "titel": "So schätzt jemand deine Zeit",
+       "en": "How to make someone value your time",
+       "status": "offen"
+      },
+      {
+       "titel": "So hört jemand auf, dich aufzuziehen",
+       "en": "How to make someone stop teasing you",
+       "status": "offen"
+      },
+      {
+       "titel": "So hören dir Menschen zu, wenn du sprichst",
+       "en": "How to make people listen when you speak",
+       "status": "offen"
+      },
+      {
+       "titel": "So entschuldigt sich jemand bei dir",
+       "en": "How to make someone apologize",
+       "status": "offen"
+      },
+      {
+       "titel": "So hält dich niemand mehr für selbstverständlich",
+       "en": "How to make someone stop taking you for granted",
+       "status": "offen"
+      },
+      {
+       "titel": "So hört jemand auf zu schreien",
+       "en": "How to make someone stop yelling",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Vertrauen",
+     "en": "Trust",
+     "videos": [
+      {
+       "titel": "So öffnet sich jemand dir gegenüber",
+       "en": "How to make someone open up to you",
+       "status": "offen"
+      },
+      {
+       "titel": "So sagt dir jemand die Wahrheit",
+       "en": "How to make someone tell you the truth",
+       "status": "offen"
+      },
+      {
+       "titel": "So fühlt sich jemand bei dir sicher",
+       "en": "How to make someone feel safe with you",
+       "status": "offen"
+      },
+      {
+       "titel": "So vertraut dir jemand schnell",
+       "en": "How to make someone trust you quickly",
+       "status": "offen"
+      },
+      {
+       "titel": "So kommt eine schüchterne Person ins Reden",
+       "en": "How to make a shy person talk",
+       "status": "offen"
+      },
+      {
+       "titel": "So fühlt sich jemand verstanden",
+       "en": "How to make someone feel understood",
+       "status": "offen"
+      },
+      {
+       "titel": "So hilfst du jemandem, sich zu beruhigen",
+       "en": "How to help someone calm down",
+       "status": "offen"
+      },
+      {
+       "titel": "So hält jemand sein Versprechen",
+       "en": "How to make someone keep their promise",
+       "status": "offen"
+      },
+      {
+       "titel": "So verzeiht dir jemand",
+       "en": "How to make someone forgive you",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Sympathie",
+     "en": "Likeability",
+     "videos": [
+      {
+       "titel": "So mag dich jemand in 30 Sekunden",
+       "en": "How to make someone like you in 30 seconds",
+       "status": "offen"
+      },
+      {
+       "titel": "So erinnert sich jemand an dich",
+       "en": "How to make someone remember you",
+       "status": "offen"
+      },
+      {
+       "titel": "So vermisst dich jemand",
+       "en": "How to make someone miss you",
+       "status": "offen"
+      },
+      {
+       "titel": "So bringst du jeden zum Lächeln",
+       "en": "How to make anyone smile",
+       "status": "offen"
+      },
+      {
+       "titel": "So fühlt sich jemand wichtig",
+       "en": "How to make someone feel important",
+       "status": "offen"
+      },
+      {
+       "titel": "So lachen Menschen über deine Witze",
+       "en": "How to make people laugh at your jokes",
+       "status": "offen"
+      },
+      {
+       "titel": "So will dich jemand wiedersehen",
+       "en": "How to make someone want to see you again",
+       "status": "offen"
+      },
+      {
+       "titel": "So redet jemand gern mit dir",
+       "en": "How to make someone enjoy talking to you",
+       "status": "offen"
+      },
+      {
+       "titel": "So bleibst du jemandem im Kopf",
+       "en": "How to stay on someone's mind",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Welcher bist du?",
+   "saeule": "Welcher bist du?",
+   "en": "Which One Are You?",
+   "laenge": "15 bis 30 s",
+   "spur": "Reel 20:00",
+   "beschreibung": "Reel jeden Sonntag 20:00, ohne Stimme, Musik. Auswahl oder Typen, Auflösung im Video, Frage an die Kommentare (YouTube Ø 1 Mio.). Unterhaltung, keine Diagnose.",
+   "unterformate": [
+    {
+     "name": "Geschwisterposition",
+     "en": "Birth Order",
+     "videos": [
+      {
+       "titel": "Das älteste Kind: der versteckte Druck",
+       "en": "The oldest child: the hidden pressure",
+       "status": "offen"
+      },
+      {
+       "titel": "Das mittlere Kind: warum du dich unsichtbar fühlst",
+       "en": "The middle child: why you feel invisible",
+       "status": "offen"
+      },
+      {
+       "titel": "Das jüngste Kind: mehr als das Nesthäkchen",
+       "en": "The youngest child: more than the baby",
+       "status": "offen"
+      },
+      {
+       "titel": "Das Einzelkind: was alle falsch verstehen",
+       "en": "The only child: what people get wrong",
+       "status": "offen"
+      },
+      {
+       "titel": "Das Älteste-Tochter-Syndrom",
+       "en": "Oldest daughter syndrome",
+       "status": "offen"
+      },
+      {
+       "titel": "Welches Geschwisterkind bist du im Streit?",
+       "en": "Which sibling are you in an argument?",
+       "status": "offen"
+      },
+      {
+       "titel": "Geschwisterposition in der Liebe",
+       "en": "Birth order in love",
+       "status": "offen"
+      },
+      {
+       "titel": "Geschwisterposition im Job",
+       "en": "Birth order at work",
+       "status": "offen"
+      },
+      {
+       "titel": "Geschwisterposition und Geld",
+       "en": "Birth order and money",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Wähle eins",
+     "en": "Pick One",
+     "videos": [
+      {
+       "titel": "Wähle eine Tür",
+       "en": "Pick a door",
+       "status": "offen"
+      },
+      {
+       "titel": "Wähle einen Stuhl",
+       "en": "Pick a chair",
+       "status": "offen"
+      },
+      {
+       "titel": "Wähle einen Weg im Wald",
+       "en": "Pick a path in the forest",
+       "status": "offen"
+      },
+      {
+       "titel": "Wähle ein Fenster",
+       "en": "Pick a window",
+       "status": "offen"
+      },
+      {
+       "titel": "Wähle eine Tasse",
+       "en": "Pick a cup",
+       "status": "offen"
+      },
+      {
+       "titel": "Wähle einen Schlüssel",
+       "en": "Pick a key",
+       "status": "offen"
+      },
+      {
+       "titel": "Wähle ein Haus",
+       "en": "Pick a house",
+       "status": "offen"
+      },
+      {
+       "titel": "Wähle ein Licht",
+       "en": "Pick a light",
+       "status": "offen"
+      },
+      {
+       "titel": "Wähle eine Bank",
+       "en": "Pick a bench",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Typen",
+     "en": "Types",
+     "videos": [
+      {
+       "titel": "Introvertiert, ambivertiert, extrovertiert auf einer Party",
+       "en": "Introvert, ambivert, extrovert at a party",
+       "status": "offen"
+      },
+      {
+       "titel": "Introvertiert, ambivertiert, extrovertiert beim Schreiben",
+       "en": "Introvert, ambivert, extrovert when texting",
+       "status": "offen"
+      },
+      {
+       "titel": "Welcher Bindungstyp bist du?",
+       "en": "Which attachment style are you?",
+       "status": "offen"
+      },
+      {
+       "titel": "Grübler gegen Bauchmensch",
+       "en": "Overthinker vs gut feeling",
+       "status": "offen"
+      },
+      {
+       "titel": "Introvertiert, ambivertiert, extrovertiert nach der Arbeit",
+       "en": "Introvert, ambivert, extrovert after work",
+       "status": "offen"
+      },
+      {
+       "titel": "Welcher Zuhörer bist du?",
+       "en": "Which listener are you?",
+       "status": "offen"
+      },
+      {
+       "titel": "Welche Rolle hast du in deiner Clique?",
+       "en": "Which friend are you in the group?",
+       "status": "offen"
+      },
+      {
+       "titel": "Wie du mit Stress umgehst: 4 Typen",
+       "en": "How you handle stress: 4 types",
+       "status": "offen"
+      },
+      {
+       "titel": "Welche Liebessprache sprichst du?",
+       "en": "Which love language are you?",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Frage und Antwort",
+   "saeule": "Frage und Antwort",
+   "en": "Q&A",
+   "laenge": "2 Folien",
+   "spur": "Karussell 10:00",
+   "beschreibung": "Karussell jeden Tag 10:00. Folie 1 Frage, Folie 2 Antwort mit Pointe, altes Gemälde in Nachtblau und Gold (TikTok 1,7 bis 2,3 Mio.). Thema je Wochentag.",
+   "unterformate": [
+    {
+     "name": "Liebe",
+     "en": "Love",
+     "videos": [
+      {
+       "titel": "Warum vermisse ich jemanden, der mich schlecht behandelt hat?",
+       "en": "Why do I miss someone who treated me badly?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum verliere ich das Interesse, wenn mich jemand zurückmag?",
+       "en": "Why do I lose interest when someone likes me back?",
+       "status": "offen"
+      },
+      {
+       "titel": "Woran merke ich, dass jemand mich wirklich liebt?",
+       "en": "How do I know they really love me?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum zerdenke ich jede Nachricht?",
+       "en": "Why do I overthink every text?",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Manipulation",
+     "en": "Manipulation",
+     "videos": [
+      {
+       "titel": "Woran merke ich, dass ich manipuliert werde?",
+       "en": "How do I know if I'm being gaslit?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum fühle ich mich schuldig, wenn er/sie mich verletzt?",
+       "en": "Why do I feel guilty when they hurt me?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum gehe ich immer wieder zurück?",
+       "en": "Why do I keep going back?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum ist er/sie nur vor anderen nett?",
+       "en": "Why are they only nice in public?",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Freundschaft",
+     "en": "Friendship",
+     "videos": [
+      {
+       "titel": "Warum fühle ich mich nach Treffen mit manchen Menschen leer?",
+       "en": "Why do I feel empty after seeing certain people?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum melden sich meine Freunde nur, wenn sie etwas brauchen?",
+       "en": "Why do my friends only call when they need something?",
+       "status": "offen"
+      },
+      {
+       "titel": "Ist es normal, aus Freundschaften herauszuwachsen?",
+       "en": "Is it normal to outgrow friends?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum schreibe immer ich zuerst?",
+       "en": "Why am I always the one who texts first?",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Selbstwert",
+     "en": "Self-Worth",
+     "videos": [
+      {
+       "titel": "Warum fühle ich mich wie ein Hochstapler?",
+       "en": "Why do I feel like a fraud?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum kann ich kein Kompliment annehmen?",
+       "en": "Why can't I take a compliment?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum vergleiche ich mich mit allen?",
+       "en": "Why do I compare myself to everyone?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum fühle ich mich schuldig, wenn ich Nein sage?",
+       "en": "Why do I feel guilty saying no?",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Arbeit",
+     "en": "Work",
+     "videos": [
+      {
+       "titel": "Warum bin ich müde, obwohl ich nichts gemacht habe?",
+       "en": "Why am I tired even when I did nothing?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum schiebe ich gerade das auf, was mir wichtig ist?",
+       "en": "Why do I procrastinate on things I care about?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum macht mir „Wir müssen reden“ Angst?",
+       "en": "Why does \"we need to talk\" scare me?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum arbeite ich nachts besser?",
+       "en": "Why do I work better at night?",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Familie",
+     "en": "Family",
+     "videos": [
+      {
+       "titel": "Warum fühle ich mich bei meinen Eltern wieder wie ein Kind?",
+       "en": "Why do I feel like a child again at my parents' house?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum tun die Worte meiner Eltern immer noch weh?",
+       "en": "Why do my parents' words still hurt?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum fühle ich mich für die Laune aller verantwortlich?",
+       "en": "Why do I feel responsible for everyone's mood?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum kann ich mit meiner Familie nicht über Gefühle reden?",
+       "en": "Why can't I talk to my family about feelings?",
+       "status": "offen"
+      }
+     ]
+    },
+    {
+     "name": "Introvertierte",
+     "en": "Introverts",
+     "videos": [
+      {
+       "titel": "Warum brauche ich nach einer Party einen Tag für mich?",
+       "en": "Why do I need a day alone after a party?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum übe ich Telefonate vorher im Kopf?",
+       "en": "Why do I rehearse phone calls?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum hasse ich Smalltalk?",
+       "en": "Why do I hate small talk?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum bin ich erleichtert, wenn Pläne abgesagt werden?",
+       "en": "Why do I feel relieved when plans get cancelled?",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Niemals so",
+   "saeule": "Karussell 15 Uhr",
+   "en": "Never Do This",
+   "laenge": "6 bis 8 Folien",
+   "spur": "Karussell 15:00",
+   "beschreibung": "Karussell jeden Montag 15:00. Befehl auf Folie 1, 5 Taktiken mit Beispielsatz, Zusammenfassung, „Kommentiere WORT“ (@house_off_elite).",
+   "unterformate": [
+    {
+     "name": "Niemals so",
+     "en": "Never Do This",
+     "videos": [
+      {
+       "titel": "Entschuldige dich nie wie ein Fußabtreter",
+       "en": "Never apologize like a doormat",
+       "status": "offen"
+      },
+      {
+       "titel": "Rechtfertige dich nie zu viel",
+       "en": "Never over-explain yourself",
+       "status": "offen"
+      },
+      {
+       "titel": "Zeig nie alle deine Karten",
+       "en": "Never show all your cards",
+       "status": "offen"
+      },
+      {
+       "titel": "Lauf nie jemandem hinterher, der geht",
+       "en": "Never chase someone who is leaving",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Satz entlarvt",
+   "saeule": "Karussell 15 Uhr",
+   "en": "Phrase Decoded",
+   "laenge": "6 bis 8 Folien",
+   "spur": "Karussell 15:00",
+   "beschreibung": "Karussell jeden Dienstag 15:00. Ein bekannter Satz im Zitat-Look, was er wirklich bedeutet, besser reagieren (@psychologypeers 3.752 Likes).",
+   "unterformate": [
+    {
+     "name": "Satz entlarvt",
+     "en": "Phrase Decoded",
+     "videos": [
+      {
+       "titel": "„Darum hab ich dich nie gebeten“",
+       "en": "\"I never asked you to\"",
+       "status": "offen"
+      },
+      {
+       "titel": "„Du bist zu empfindlich“",
+       "en": "\"You're too sensitive\"",
+       "status": "offen"
+      },
+      {
+       "titel": "„Ich bin halt ehrlich“",
+       "en": "\"I'm just being honest\"",
+       "status": "offen"
+      },
+      {
+       "titel": "„Wenn du mich lieben würdest, würdest du …“",
+       "en": "\"If you loved me, you would …\"",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Denkfehler",
+   "saeule": "Karussell 15 Uhr",
+   "en": "Brain Bug",
+   "laenge": "6 bis 8 Folien",
+   "spur": "Karussell 15:00",
+   "beschreibung": "Karussell jeden Mittwoch 15:00. Ein Denkfehler mit Namen, Alltagsbeispiel, Studie, wie man ihn austrickst.",
+   "unterformate": [
+    {
+     "name": "Denkfehler",
+     "en": "Brain Bug",
+     "videos": [
+      {
+       "titel": "Der Spotlight-Effekt",
+       "en": "The spotlight effect",
+       "status": "offen"
+      },
+      {
+       "titel": "Die Falle der versunkenen Kosten",
+       "en": "The sunk cost trap",
+       "status": "offen"
+      },
+      {
+       "titel": "Die Negativitätsverzerrung",
+       "en": "The negativity bias",
+       "status": "offen"
+      },
+      {
+       "titel": "Der Dunning-Kruger-Effekt",
+       "en": "The Dunning-Kruger effect",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Selbsttest",
+   "saeule": "Karussell 15 Uhr",
+   "en": "Self Check",
+   "laenge": "6 bis 8 Folien",
+   "spur": "Karussell 15:00",
+   "beschreibung": "Karussell jeden Donnerstag 15:00. 6 bis 8 Fragen zum Mitzählen, Auflösung auf der letzten Folie, Ergebnis in die Kommentare.",
+   "unterformate": [
+    {
+     "name": "Selbsttest",
+     "en": "Self Check",
+     "videos": [
+      {
+       "titel": "Bist du ein People Pleaser?",
+       "en": "Are you a people pleaser?",
+       "status": "offen"
+      },
+      {
+       "titel": "Ist deine Freundschaft toxisch?",
+       "en": "Is your friendship toxic?",
+       "status": "offen"
+      },
+      {
+       "titel": "Ausgebrannt oder nur müde?",
+       "en": "Burned out or just tired?",
+       "status": "offen"
+      },
+      {
+       "titel": "Bist du ein Grübler?",
+       "en": "Are you an overthinker?",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sätze-Sammlung",
+   "saeule": "Karussell 15 Uhr",
+   "en": "Say This Instead",
+   "laenge": "6 bis 8 Folien",
+   "spur": "Karussell 15:00",
+   "beschreibung": "Karussell jeden Freitag 15:00. 5 bis 7 bessere Sätze zu einer Lage, zum Speichern. Grundstock für „100 Sätze“.",
+   "unterformate": [
+    {
+     "name": "Sätze-Sammlung",
+     "en": "Say This Instead",
+     "videos": [
+      {
+       "titel": "7 Sätze für schwierige Gespräche",
+       "en": "7 phrases for difficult conversations",
+       "status": "offen"
+      },
+      {
+       "titel": "6 Arten, Nein zu sagen ohne schlechtes Gewissen",
+       "en": "6 ways to say no without guilt",
+       "status": "offen"
+      },
+      {
+       "titel": "5 Sätze statt „Es tut mir leid“",
+       "en": "5 things to say instead of \"I'm sorry\"",
+       "status": "offen"
+      },
+      {
+       "titel": "6 Sätze, die einen Streit beenden",
+       "en": "6 phrases that end an argument",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gesund gegen toxisch",
+   "saeule": "Karussell 15 Uhr",
+   "en": "Healthy vs Toxic",
+   "laenge": "6 bis 8 Folien",
+   "spur": "Karussell 15:00",
+   "beschreibung": "Karussell jeden Samstag 15:00. Links gesund, rechts toxisch, je Folie ein Punkt, letzte Folie Frage an die Kommentare.",
+   "unterformate": [
+    {
+     "name": "Gesund gegen toxisch",
+     "en": "Healthy vs Toxic",
+     "videos": [
+      {
+       "titel": "Gesunde gegen toxische Liebe",
+       "en": "Healthy vs toxic love",
+       "status": "offen"
+      },
+      {
+       "titel": "Gesunde gegen toxische Freundschaft",
+       "en": "Healthy vs toxic friendship",
+       "status": "offen"
+      },
+      {
+       "titel": "Gesunde gegen toxische Familie",
+       "en": "Healthy vs toxic family",
+       "status": "offen"
+      },
+      {
+       "titel": "Guter gegen toxischer Chef",
+       "en": "Healthy vs toxic boss",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Zitat erklärt",
+   "saeule": "Karussell 15 Uhr",
+   "en": "Quote Decoded",
+   "laenge": "6 bis 8 Folien",
+   "spur": "Karussell 15:00",
+   "beschreibung": "Karussell jeden Sonntag 15:00. Ein belegtes Zitat, Bedeutung in 4 Folien, Alltagsbeispiel. Zitat vor Verwendung an der Quelle prüfen.",
+   "unterformate": [
+    {
+     "name": "Zitat erklärt",
+     "en": "Quote Decoded",
+     "videos": [
+      {
+       "titel": "Carl Jung: „Solange du das Unbewusste nicht bewusst machst …“",
+       "en": "Carl Jung: \"Until you make the unconscious conscious …\"",
+       "status": "offen"
+      },
+      {
+       "titel": "Viktor Frankl: der Raum zwischen Reiz und Reaktion",
+       "en": "Viktor Frankl: the space between stimulus and response",
+       "status": "offen"
+      },
+      {
+       "titel": "Epiktet: Nicht was passiert, sondern wie du reagierst",
+       "en": "Epictetus: it's not what happens, it's how you react",
+       "status": "offen"
+      },
+      {
+       "titel": "Brené Brown: Verletzlichkeit ist keine Schwäche",
+       "en": "Brené Brown: vulnerability is not weakness",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "reihenfolge": [
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Liebe",
+   "thema": "Warum vermisse ich jemanden, der mich schlecht behandelt hat?",
+   "titel": "Karussell: Warum vermisse ich jemanden, der mich schlecht behandelt hat?",
+   "en": "Why do I miss someone who treated me badly?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I miss someone who treated me badly?",
+   "datum": "2026-11-09",
+   "zeit": "10:00",
+   "nr": 1
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Niemals so",
+   "unterformat": "Niemals so",
+   "thema": "Entschuldige dich nie wie ein Fußabtreter",
+   "titel": "Karussell: Entschuldige dich nie wie ein Fußabtreter",
+   "en": "Never apologize like a doormat",
+   "status": "offen",
+   "key": "EM|Niemals so|Never apologize like a doormat",
+   "datum": "2026-11-09",
+   "zeit": "15:00",
+   "nr": 2
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Ursache in der Kindheit",
+   "thema": "Warum manche Menschen sich für alles entschuldigen",
+   "titel": "Reel: Warum manche Menschen sich für alles entschuldigen",
+   "en": "Why some people apologize for everything",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people apologize for everything",
+   "datum": "2026-11-09",
+   "zeit": "20:00",
+   "nr": 3
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Manipulation",
+   "thema": "Woran merke ich, dass ich manipuliert werde?",
+   "titel": "Karussell: Woran merke ich, dass ich manipuliert werde?",
+   "en": "How do I know if I'm being gaslit?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|How do I know if I'm being gaslit?",
+   "datum": "2026-11-10",
+   "zeit": "10:00",
+   "nr": 4
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Satz entlarvt",
+   "unterformat": "Satz entlarvt",
+   "thema": "„Darum hab ich dich nie gebeten“",
+   "titel": "Karussell: „Darum hab ich dich nie gebeten“",
+   "en": "\"I never asked you to\"",
+   "status": "offen",
+   "key": "EM|Satz entlarvt|\"I never asked you to\"",
+   "datum": "2026-11-10",
+   "zeit": "15:00",
+   "nr": 5
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Respektlosigkeit",
+   "thema": "Wenn dich jemand unterbricht, sag das",
+   "titel": "Reel: Wenn dich jemand unterbricht, sag das",
+   "en": "If someone interrupts you, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone interrupts you, say this",
+   "datum": "2026-11-10",
+   "zeit": "20:00",
+   "nr": 6
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Freundschaft",
+   "thema": "Warum fühle ich mich nach Treffen mit manchen Menschen leer?",
+   "titel": "Karussell: Warum fühle ich mich nach Treffen mit manchen Menschen leer?",
+   "en": "Why do I feel empty after seeing certain people?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I feel empty after seeing certain people?",
+   "datum": "2026-11-11",
+   "zeit": "10:00",
+   "nr": 7
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Denkfehler",
+   "unterformat": "Denkfehler",
+   "thema": "Der Spotlight-Effekt",
+   "titel": "Karussell: Der Spotlight-Effekt",
+   "en": "The spotlight effect",
+   "status": "offen",
+   "key": "EM|Denkfehler|The spotlight effect",
+   "datum": "2026-11-11",
+   "zeit": "15:00",
+   "nr": 8
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "A gegen B",
+   "thema": "Begrüßung: ignoriert gegen respektiert",
+   "titel": "Reel: Begrüßung: ignoriert gegen respektiert",
+   "en": "Greeting: ignored vs respected",
+   "status": "offen",
+   "key": "EM|Körpersprache|Greeting: ignored vs respected",
+   "datum": "2026-11-11",
+   "zeit": "20:00",
+   "nr": 9
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Selbstwert",
+   "thema": "Warum fühle ich mich wie ein Hochstapler?",
+   "titel": "Karussell: Warum fühle ich mich wie ein Hochstapler?",
+   "en": "Why do I feel like a fraud?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I feel like a fraud?",
+   "datum": "2026-11-12",
+   "zeit": "10:00",
+   "nr": 10
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Selbsttest",
+   "unterformat": "Selbsttest",
+   "thema": "Bist du ein People Pleaser?",
+   "titel": "Karussell: Bist du ein People Pleaser?",
+   "en": "Are you a people pleaser?",
+   "status": "offen",
+   "key": "EM|Selbsttest|Are you a people pleaser?",
+   "datum": "2026-11-12",
+   "zeit": "15:00",
+   "nr": 11
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Harte Wahrheit",
+   "thema": "Das Richtige zu tun wird nicht immer belohnt",
+   "titel": "Reel: Das Richtige zu tun wird nicht immer belohnt",
+   "en": "Doing the right thing isn't always rewarded",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Doing the right thing isn't always rewarded",
+   "datum": "2026-11-12",
+   "zeit": "20:00",
+   "nr": 12
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Arbeit",
+   "thema": "Warum bin ich müde, obwohl ich nichts gemacht habe?",
+   "titel": "Karussell: Warum bin ich müde, obwohl ich nichts gemacht habe?",
+   "en": "Why am I tired even when I did nothing?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why am I tired even when I did nothing?",
+   "datum": "2026-11-13",
+   "zeit": "10:00",
+   "nr": 13
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Sätze-Sammlung",
+   "unterformat": "Sätze-Sammlung",
+   "thema": "7 Sätze für schwierige Gespräche",
+   "titel": "Karussell: 7 Sätze für schwierige Gespräche",
+   "en": "7 phrases for difficult conversations",
+   "status": "offen",
+   "key": "EM|Sätze-Sammlung|7 phrases for difficult conversations",
+   "datum": "2026-11-13",
+   "zeit": "15:00",
+   "nr": 14
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Arbeit",
+   "thema": "Sag nicht „Sorry für die späte Antwort“",
+   "titel": "Reel: Sag nicht „Sorry für die späte Antwort“",
+   "en": "Don't say \"sorry for the late reply\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"sorry for the late reply\"",
+   "datum": "2026-11-13",
+   "zeit": "20:00",
+   "nr": 15
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Familie",
+   "thema": "Warum fühle ich mich bei meinen Eltern wieder wie ein Kind?",
+   "titel": "Karussell: Warum fühle ich mich bei meinen Eltern wieder wie ein Kind?",
+   "en": "Why do I feel like a child again at my parents' house?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I feel like a child again at my parents' house?",
+   "datum": "2026-11-14",
+   "zeit": "10:00",
+   "nr": 16
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Gesund gegen toxisch",
+   "unterformat": "Gesund gegen toxisch",
+   "thema": "Gesunde gegen toxische Liebe",
+   "titel": "Karussell: Gesunde gegen toxische Liebe",
+   "en": "Healthy vs toxic love",
+   "status": "offen",
+   "key": "EM|Gesund gegen toxisch|Healthy vs toxic love",
+   "datum": "2026-11-14",
+   "zeit": "15:00",
+   "nr": 17
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Respekt",
+   "thema": "So respektiert dich jemand, ohne dass du ein Wort sagst",
+   "titel": "Reel: So respektiert dich jemand, ohne dass du ein Wort sagst",
+   "en": "How to make someone respect you without saying a word",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone respect you without saying a word",
+   "datum": "2026-11-14",
+   "zeit": "20:00",
+   "nr": 18
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Introvertierte",
+   "thema": "Warum brauche ich nach einer Party einen Tag für mich?",
+   "titel": "Karussell: Warum brauche ich nach einer Party einen Tag für mich?",
+   "en": "Why do I need a day alone after a party?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I need a day alone after a party?",
+   "datum": "2026-11-15",
+   "zeit": "10:00",
+   "nr": 19
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Zitat erklärt",
+   "unterformat": "Zitat erklärt",
+   "thema": "Carl Jung: „Solange du das Unbewusste nicht bewusst machst …“",
+   "titel": "Karussell: Carl Jung: „Solange du das Unbewusste nicht bewusst machst …“",
+   "en": "Carl Jung: \"Until you make the unconscious conscious …\"",
+   "status": "offen",
+   "key": "EM|Zitat erklärt|Carl Jung: \"Until you make the unconscious conscious …\"",
+   "datum": "2026-11-15",
+   "zeit": "15:00",
+   "nr": 20
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Geschwisterposition",
+   "thema": "Das älteste Kind: der versteckte Druck",
+   "titel": "Reel: Das älteste Kind: der versteckte Druck",
+   "en": "The oldest child: the hidden pressure",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|The oldest child: the hidden pressure",
+   "datum": "2026-11-15",
+   "zeit": "20:00",
+   "nr": 21
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Liebe",
+   "thema": "Warum verliere ich das Interesse, wenn mich jemand zurückmag?",
+   "titel": "Karussell: Warum verliere ich das Interesse, wenn mich jemand zurückmag?",
+   "en": "Why do I lose interest when someone likes me back?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I lose interest when someone likes me back?",
+   "datum": "2026-11-16",
+   "zeit": "10:00",
+   "nr": 22
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Niemals so",
+   "unterformat": "Niemals so",
+   "thema": "Rechtfertige dich nie zu viel",
+   "titel": "Karussell: Rechtfertige dich nie zu viel",
+   "en": "Never over-explain yourself",
+   "status": "offen",
+   "key": "EM|Niemals so|Never over-explain yourself",
+   "datum": "2026-11-16",
+   "zeit": "15:00",
+   "nr": 23
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Schutzmechanismus",
+   "thema": "Warum manche Menschen verstummen, wenn sie verletzt sind",
+   "titel": "Reel: Warum manche Menschen verstummen, wenn sie verletzt sind",
+   "en": "Why some people go quiet when they're hurt",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people go quiet when they're hurt",
+   "datum": "2026-11-16",
+   "zeit": "20:00",
+   "nr": 24
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Manipulation",
+   "thema": "Warum fühle ich mich schuldig, wenn er/sie mich verletzt?",
+   "titel": "Karussell: Warum fühle ich mich schuldig, wenn er/sie mich verletzt?",
+   "en": "Why do I feel guilty when they hurt me?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I feel guilty when they hurt me?",
+   "datum": "2026-11-17",
+   "zeit": "10:00",
+   "nr": 25
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Satz entlarvt",
+   "unterformat": "Satz entlarvt",
+   "thema": "„Du bist zu empfindlich“",
+   "titel": "Karussell: „Du bist zu empfindlich“",
+   "en": "\"You're too sensitive\"",
+   "status": "offen",
+   "key": "EM|Satz entlarvt|\"You're too sensitive\"",
+   "datum": "2026-11-17",
+   "zeit": "15:00",
+   "nr": 26
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Manipulation",
+   "thema": "Wenn jemand sagt „Du bist zu empfindlich“, sag das",
+   "titel": "Reel: Wenn jemand sagt „Du bist zu empfindlich“, sag das",
+   "en": "If someone says \"you're too sensitive\", say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone says \"you're too sensitive\", say this",
+   "datum": "2026-11-17",
+   "zeit": "20:00",
+   "nr": 27
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Freundschaft",
+   "thema": "Warum melden sich meine Freunde nur, wenn sie etwas brauchen?",
+   "titel": "Karussell: Warum melden sich meine Freunde nur, wenn sie etwas brauchen?",
+   "en": "Why do my friends only call when they need something?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do my friends only call when they need something?",
+   "datum": "2026-11-18",
+   "zeit": "10:00",
+   "nr": 28
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Denkfehler",
+   "unterformat": "Denkfehler",
+   "thema": "Die Falle der versunkenen Kosten",
+   "titel": "Karussell: Die Falle der versunkenen Kosten",
+   "en": "The sunk cost trap",
+   "status": "offen",
+   "key": "EM|Denkfehler|The sunk cost trap",
+   "datum": "2026-11-18",
+   "zeit": "15:00",
+   "nr": 29
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "In 3 Sekunden lesen",
+   "thema": "Füße zeigen zur Tür",
+   "titel": "Reel: Füße zeigen zur Tür",
+   "en": "Feet pointing to the door",
+   "status": "offen",
+   "key": "EM|Körpersprache|Feet pointing to the door",
+   "datum": "2026-11-18",
+   "zeit": "20:00",
+   "nr": 30
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Selbstwert",
+   "thema": "Warum kann ich kein Kompliment annehmen?",
+   "titel": "Karussell: Warum kann ich kein Kompliment annehmen?",
+   "en": "Why can't I take a compliment?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why can't I take a compliment?",
+   "datum": "2026-11-19",
+   "zeit": "10:00",
+   "nr": 31
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Selbsttest",
+   "unterformat": "Selbsttest",
+   "thema": "Ist deine Freundschaft toxisch?",
+   "titel": "Karussell: Ist deine Freundschaft toxisch?",
+   "en": "Is your friendship toxic?",
+   "status": "offen",
+   "key": "EM|Selbsttest|Is your friendship toxic?",
+   "datum": "2026-11-19",
+   "zeit": "15:00",
+   "nr": 32
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Stille Stärke",
+   "thema": "Der Ruhigste im Raum hat die Macht",
+   "titel": "Reel: Der Ruhigste im Raum hat die Macht",
+   "en": "The calmest person in the room has the power",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|The calmest person in the room has the power",
+   "datum": "2026-11-19",
+   "zeit": "20:00",
+   "nr": 33
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Arbeit",
+   "thema": "Warum schiebe ich gerade das auf, was mir wichtig ist?",
+   "titel": "Karussell: Warum schiebe ich gerade das auf, was mir wichtig ist?",
+   "en": "Why do I procrastinate on things I care about?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I procrastinate on things I care about?",
+   "datum": "2026-11-20",
+   "zeit": "10:00",
+   "nr": 34
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Sätze-Sammlung",
+   "unterformat": "Sätze-Sammlung",
+   "thema": "6 Arten, Nein zu sagen ohne schlechtes Gewissen",
+   "titel": "Karussell: 6 Arten, Nein zu sagen ohne schlechtes Gewissen",
+   "en": "6 ways to say no without guilt",
+   "status": "offen",
+   "key": "EM|Sätze-Sammlung|6 ways to say no without guilt",
+   "datum": "2026-11-20",
+   "zeit": "15:00",
+   "nr": 35
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Beziehung",
+   "thema": "Sag nicht „Du hörst nie zu“",
+   "titel": "Reel: Sag nicht „Du hörst nie zu“",
+   "en": "Don't say \"you never listen\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"you never listen\"",
+   "datum": "2026-11-20",
+   "zeit": "20:00",
+   "nr": 36
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Familie",
+   "thema": "Warum tun die Worte meiner Eltern immer noch weh?",
+   "titel": "Karussell: Warum tun die Worte meiner Eltern immer noch weh?",
+   "en": "Why do my parents' words still hurt?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do my parents' words still hurt?",
+   "datum": "2026-11-21",
+   "zeit": "10:00",
+   "nr": 37
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Gesund gegen toxisch",
+   "unterformat": "Gesund gegen toxisch",
+   "thema": "Gesunde gegen toxische Freundschaft",
+   "titel": "Karussell: Gesunde gegen toxische Freundschaft",
+   "en": "Healthy vs toxic friendship",
+   "status": "offen",
+   "key": "EM|Gesund gegen toxisch|Healthy vs toxic friendship",
+   "datum": "2026-11-21",
+   "zeit": "15:00",
+   "nr": 38
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Vertrauen",
+   "thema": "So öffnet sich jemand dir gegenüber",
+   "titel": "Reel: So öffnet sich jemand dir gegenüber",
+   "en": "How to make someone open up to you",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone open up to you",
+   "datum": "2026-11-21",
+   "zeit": "20:00",
+   "nr": 39
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Introvertierte",
+   "thema": "Warum übe ich Telefonate vorher im Kopf?",
+   "titel": "Karussell: Warum übe ich Telefonate vorher im Kopf?",
+   "en": "Why do I rehearse phone calls?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I rehearse phone calls?",
+   "datum": "2026-11-22",
+   "zeit": "10:00",
+   "nr": 40
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Zitat erklärt",
+   "unterformat": "Zitat erklärt",
+   "thema": "Viktor Frankl: der Raum zwischen Reiz und Reaktion",
+   "titel": "Karussell: Viktor Frankl: der Raum zwischen Reiz und Reaktion",
+   "en": "Viktor Frankl: the space between stimulus and response",
+   "status": "offen",
+   "key": "EM|Zitat erklärt|Viktor Frankl: the space between stimulus and response",
+   "datum": "2026-11-22",
+   "zeit": "15:00",
+   "nr": 41
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Wähle eins",
+   "thema": "Wähle eine Tür",
+   "titel": "Reel: Wähle eine Tür",
+   "en": "Pick a door",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Pick a door",
+   "datum": "2026-11-22",
+   "zeit": "20:00",
+   "nr": 42
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Liebe",
+   "thema": "Woran merke ich, dass jemand mich wirklich liebt?",
+   "titel": "Karussell: Woran merke ich, dass jemand mich wirklich liebt?",
+   "en": "How do I know they really love me?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|How do I know they really love me?",
+   "datum": "2026-11-23",
+   "zeit": "10:00",
+   "nr": 43
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Niemals so",
+   "unterformat": "Niemals so",
+   "thema": "Zeig nie alle deine Karten",
+   "titel": "Karussell: Zeig nie alle deine Karten",
+   "en": "Never show all your cards",
+   "status": "offen",
+   "key": "EM|Niemals so|Never show all your cards",
+   "datum": "2026-11-23",
+   "zeit": "15:00",
+   "nr": 44
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Was es wirklich bedeutet",
+   "thema": "Warum manche Menschen immer zu spät kommen",
+   "titel": "Reel: Warum manche Menschen immer zu spät kommen",
+   "en": "Why some people are always late",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people are always late",
+   "datum": "2026-11-23",
+   "zeit": "20:00",
+   "nr": 45
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Manipulation",
+   "thema": "Warum gehe ich immer wieder zurück?",
+   "titel": "Karussell: Warum gehe ich immer wieder zurück?",
+   "en": "Why do I keep going back?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I keep going back?",
+   "datum": "2026-11-24",
+   "zeit": "10:00",
+   "nr": 46
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Satz entlarvt",
+   "unterformat": "Satz entlarvt",
+   "thema": "„Ich bin halt ehrlich“",
+   "titel": "Karussell: „Ich bin halt ehrlich“",
+   "en": "\"I'm just being honest\"",
+   "status": "offen",
+   "key": "EM|Satz entlarvt|\"I'm just being honest\"",
+   "datum": "2026-11-24",
+   "zeit": "15:00",
+   "nr": 47
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Alltag",
+   "thema": "Wenn jemand eine Frage stellt, die ihn nichts angeht, sag das",
+   "titel": "Reel: Wenn jemand eine Frage stellt, die ihn nichts angeht, sag das",
+   "en": "If someone asks a question that's none of their business, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone asks a question that's none of their business, say this",
+   "datum": "2026-11-24",
+   "zeit": "20:00",
+   "nr": 48
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Freundschaft",
+   "thema": "Ist es normal, aus Freundschaften herauszuwachsen?",
+   "titel": "Karussell: Ist es normal, aus Freundschaften herauszuwachsen?",
+   "en": "Is it normal to outgrow friends?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Is it normal to outgrow friends?",
+   "datum": "2026-11-25",
+   "zeit": "10:00",
+   "nr": 49
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Denkfehler",
+   "unterformat": "Denkfehler",
+   "thema": "Die Negativitätsverzerrung",
+   "titel": "Karussell: Die Negativitätsverzerrung",
+   "en": "The negativity bias",
+   "status": "offen",
+   "key": "EM|Denkfehler|The negativity bias",
+   "datum": "2026-11-25",
+   "zeit": "15:00",
+   "nr": 50
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "Stress-Signale",
+   "thema": "Zu viele Details",
+   "titel": "Reel: Zu viele Details",
+   "en": "Too many details",
+   "status": "offen",
+   "key": "EM|Körpersprache|Too many details",
+   "datum": "2026-11-25",
+   "zeit": "20:00",
+   "nr": 51
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Selbstwert",
+   "thema": "Warum vergleiche ich mich mit allen?",
+   "titel": "Karussell: Warum vergleiche ich mich mit allen?",
+   "en": "Why do I compare myself to everyone?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I compare myself to everyone?",
+   "datum": "2026-11-26",
+   "zeit": "10:00",
+   "nr": 52
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Selbsttest",
+   "unterformat": "Selbsttest",
+   "thema": "Ausgebrannt oder nur müde?",
+   "titel": "Karussell: Ausgebrannt oder nur müde?",
+   "en": "Burned out or just tired?",
+   "status": "offen",
+   "key": "EM|Selbsttest|Burned out or just tired?",
+   "datum": "2026-11-26",
+   "zeit": "15:00",
+   "nr": 53
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Beziehungen",
+   "thema": "Liebe zeigt sich in kleinen Dingen",
+   "titel": "Reel: Liebe zeigt sich in kleinen Dingen",
+   "en": "Love shows in small things",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Love shows in small things",
+   "datum": "2026-11-26",
+   "zeit": "20:00",
+   "nr": 54
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Arbeit",
+   "thema": "Warum macht mir „Wir müssen reden“ Angst?",
+   "titel": "Karussell: Warum macht mir „Wir müssen reden“ Angst?",
+   "en": "Why does \"we need to talk\" scare me?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why does \"we need to talk\" scare me?",
+   "datum": "2026-11-27",
+   "zeit": "10:00",
+   "nr": 55
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Sätze-Sammlung",
+   "unterformat": "Sätze-Sammlung",
+   "thema": "5 Sätze statt „Es tut mir leid“",
+   "titel": "Karussell: 5 Sätze statt „Es tut mir leid“",
+   "en": "5 things to say instead of \"I'm sorry\"",
+   "status": "offen",
+   "key": "EM|Sätze-Sammlung|5 things to say instead of \"I'm sorry\"",
+   "datum": "2026-11-27",
+   "zeit": "15:00",
+   "nr": 56
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Streit",
+   "thema": "Sag nicht „Du liegst falsch“",
+   "titel": "Reel: Sag nicht „Du liegst falsch“",
+   "en": "Don't say \"you're wrong\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"you're wrong\"",
+   "datum": "2026-11-27",
+   "zeit": "20:00",
+   "nr": 57
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Familie",
+   "thema": "Warum fühle ich mich für die Laune aller verantwortlich?",
+   "titel": "Karussell: Warum fühle ich mich für die Laune aller verantwortlich?",
+   "en": "Why do I feel responsible for everyone's mood?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I feel responsible for everyone's mood?",
+   "datum": "2026-11-28",
+   "zeit": "10:00",
+   "nr": 58
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Gesund gegen toxisch",
+   "unterformat": "Gesund gegen toxisch",
+   "thema": "Gesunde gegen toxische Familie",
+   "titel": "Karussell: Gesunde gegen toxische Familie",
+   "en": "Healthy vs toxic family",
+   "status": "offen",
+   "key": "EM|Gesund gegen toxisch|Healthy vs toxic family",
+   "datum": "2026-11-28",
+   "zeit": "15:00",
+   "nr": 59
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Sympathie",
+   "thema": "So mag dich jemand in 30 Sekunden",
+   "titel": "Reel: So mag dich jemand in 30 Sekunden",
+   "en": "How to make someone like you in 30 seconds",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone like you in 30 seconds",
+   "datum": "2026-11-28",
+   "zeit": "20:00",
+   "nr": 60
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Introvertierte",
+   "thema": "Warum hasse ich Smalltalk?",
+   "titel": "Karussell: Warum hasse ich Smalltalk?",
+   "en": "Why do I hate small talk?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I hate small talk?",
+   "datum": "2026-11-29",
+   "zeit": "10:00",
+   "nr": 61
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Zitat erklärt",
+   "unterformat": "Zitat erklärt",
+   "thema": "Epiktet: Nicht was passiert, sondern wie du reagierst",
+   "titel": "Karussell: Epiktet: Nicht was passiert, sondern wie du reagierst",
+   "en": "Epictetus: it's not what happens, it's how you react",
+   "status": "offen",
+   "key": "EM|Zitat erklärt|Epictetus: it's not what happens, it's how you react",
+   "datum": "2026-11-29",
+   "zeit": "15:00",
+   "nr": 62
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Typen",
+   "thema": "Introvertiert, ambivertiert, extrovertiert auf einer Party",
+   "titel": "Reel: Introvertiert, ambivertiert, extrovertiert auf einer Party",
+   "en": "Introvert, ambivert, extrovert at a party",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Introvert, ambivert, extrovert at a party",
+   "datum": "2026-11-29",
+   "zeit": "20:00",
+   "nr": 63
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Liebe",
+   "thema": "Warum zerdenke ich jede Nachricht?",
+   "titel": "Karussell: Warum zerdenke ich jede Nachricht?",
+   "en": "Why do I overthink every text?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I overthink every text?",
+   "datum": "2026-11-30",
+   "zeit": "10:00",
+   "nr": 64
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Niemals so",
+   "unterformat": "Niemals so",
+   "thema": "Lauf nie jemandem hinterher, der geht",
+   "titel": "Karussell: Lauf nie jemandem hinterher, der geht",
+   "en": "Never chase someone who is leaving",
+   "status": "offen",
+   "key": "EM|Niemals so|Never chase someone who is leaving",
+   "datum": "2026-11-30",
+   "zeit": "15:00",
+   "nr": 65
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Ursache in der Kindheit",
+   "thema": "Warum manche Menschen keine Komplimente annehmen können",
+   "titel": "Reel: Warum manche Menschen keine Komplimente annehmen können",
+   "en": "Why some people can't accept compliments",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people can't accept compliments",
+   "datum": "2026-11-30",
+   "zeit": "20:00",
+   "nr": 66
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Manipulation",
+   "thema": "Warum ist er/sie nur vor anderen nett?",
+   "titel": "Karussell: Warum ist er/sie nur vor anderen nett?",
+   "en": "Why are they only nice in public?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why are they only nice in public?",
+   "datum": "2026-12-01",
+   "zeit": "10:00",
+   "nr": 67
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Satz entlarvt",
+   "unterformat": "Satz entlarvt",
+   "thema": "„Wenn du mich lieben würdest, würdest du …“",
+   "titel": "Karussell: „Wenn du mich lieben würdest, würdest du …“",
+   "en": "\"If you loved me, you would …\"",
+   "status": "offen",
+   "key": "EM|Satz entlarvt|\"If you loved me, you would …\"",
+   "datum": "2026-12-01",
+   "zeit": "15:00",
+   "nr": 68
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Respektlosigkeit",
+   "thema": "Wenn jemand von oben herab mit dir redet, sag das",
+   "titel": "Reel: Wenn jemand von oben herab mit dir redet, sag das",
+   "en": "If someone talks down to you, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone talks down to you, say this",
+   "datum": "2026-12-01",
+   "zeit": "20:00",
+   "nr": 69
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Freundschaft",
+   "thema": "Warum schreibe immer ich zuerst?",
+   "titel": "Karussell: Warum schreibe immer ich zuerst?",
+   "en": "Why am I always the one who texts first?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why am I always the one who texts first?",
+   "datum": "2026-12-02",
+   "zeit": "10:00",
+   "nr": 70
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Denkfehler",
+   "unterformat": "Denkfehler",
+   "thema": "Der Dunning-Kruger-Effekt",
+   "titel": "Karussell: Der Dunning-Kruger-Effekt",
+   "en": "The Dunning-Kruger effect",
+   "status": "offen",
+   "key": "EM|Denkfehler|The Dunning-Kruger effect",
+   "datum": "2026-12-02",
+   "zeit": "15:00",
+   "nr": 71
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "A gegen B",
+   "thema": "Am Tisch: unsicher gegen selbstsicher",
+   "titel": "Reel: Am Tisch: unsicher gegen selbstsicher",
+   "en": "At the table: insecure vs confident",
+   "status": "offen",
+   "key": "EM|Körpersprache|At the table: insecure vs confident",
+   "datum": "2026-12-02",
+   "zeit": "20:00",
+   "nr": 72
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Selbstwert",
+   "thema": "Warum fühle ich mich schuldig, wenn ich Nein sage?",
+   "titel": "Karussell: Warum fühle ich mich schuldig, wenn ich Nein sage?",
+   "en": "Why do I feel guilty saying no?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I feel guilty saying no?",
+   "datum": "2026-12-03",
+   "zeit": "10:00",
+   "nr": 73
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Selbsttest",
+   "unterformat": "Selbsttest",
+   "thema": "Bist du ein Grübler?",
+   "titel": "Karussell: Bist du ein Grübler?",
+   "en": "Are you an overthinker?",
+   "status": "offen",
+   "key": "EM|Selbsttest|Are you an overthinker?",
+   "datum": "2026-12-03",
+   "zeit": "15:00",
+   "nr": 74
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Harte Wahrheit",
+   "thema": "Menschen behandeln dich so, wie du es zulässt",
+   "titel": "Reel: Menschen behandeln dich so, wie du es zulässt",
+   "en": "People treat you the way you allow",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|People treat you the way you allow",
+   "datum": "2026-12-03",
+   "zeit": "20:00",
+   "nr": 75
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Arbeit",
+   "thema": "Warum arbeite ich nachts besser?",
+   "titel": "Karussell: Warum arbeite ich nachts besser?",
+   "en": "Why do I work better at night?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I work better at night?",
+   "datum": "2026-12-04",
+   "zeit": "10:00",
+   "nr": 76
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Sätze-Sammlung",
+   "unterformat": "Sätze-Sammlung",
+   "thema": "6 Sätze, die einen Streit beenden",
+   "titel": "Karussell: 6 Sätze, die einen Streit beenden",
+   "en": "6 phrases that end an argument",
+   "status": "offen",
+   "key": "EM|Sätze-Sammlung|6 phrases that end an argument",
+   "datum": "2026-12-04",
+   "zeit": "15:00",
+   "nr": 77
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Arbeit",
+   "thema": "Sag nicht „Ich glaube“ im Meeting",
+   "titel": "Reel: Sag nicht „Ich glaube“ im Meeting",
+   "en": "Don't say \"I think\" in meetings",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"I think\" in meetings",
+   "datum": "2026-12-04",
+   "zeit": "20:00",
+   "nr": 78
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Familie",
+   "thema": "Warum kann ich mit meiner Familie nicht über Gefühle reden?",
+   "titel": "Karussell: Warum kann ich mit meiner Familie nicht über Gefühle reden?",
+   "en": "Why can't I talk to my family about feelings?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why can't I talk to my family about feelings?",
+   "datum": "2026-12-05",
+   "zeit": "10:00",
+   "nr": 79
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Gesund gegen toxisch",
+   "unterformat": "Gesund gegen toxisch",
+   "thema": "Guter gegen toxischer Chef",
+   "titel": "Karussell: Guter gegen toxischer Chef",
+   "en": "Healthy vs toxic boss",
+   "status": "offen",
+   "key": "EM|Gesund gegen toxisch|Healthy vs toxic boss",
+   "datum": "2026-12-05",
+   "zeit": "15:00",
+   "nr": 80
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Respekt",
+   "thema": "So nimmt dich jemand ernst",
+   "titel": "Reel: So nimmt dich jemand ernst",
+   "en": "How to make someone take you seriously",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone take you seriously",
+   "datum": "2026-12-05",
+   "zeit": "20:00",
+   "nr": 81
+  },
+  {
+   "runde": 1,
+   "saeule": "Frage und Antwort",
+   "format": "Frage und Antwort",
+   "unterformat": "Introvertierte",
+   "thema": "Warum bin ich erleichtert, wenn Pläne abgesagt werden?",
+   "titel": "Karussell: Warum bin ich erleichtert, wenn Pläne abgesagt werden?",
+   "en": "Why do I feel relieved when plans get cancelled?",
+   "status": "offen",
+   "key": "EM|Frage und Antwort|Why do I feel relieved when plans get cancelled?",
+   "datum": "2026-12-06",
+   "zeit": "10:00",
+   "nr": 82
+  },
+  {
+   "runde": 1,
+   "saeule": "Karussell 15 Uhr",
+   "format": "Zitat erklärt",
+   "unterformat": "Zitat erklärt",
+   "thema": "Brené Brown: Verletzlichkeit ist keine Schwäche",
+   "titel": "Karussell: Brené Brown: Verletzlichkeit ist keine Schwäche",
+   "en": "Brené Brown: vulnerability is not weakness",
+   "status": "offen",
+   "key": "EM|Zitat erklärt|Brené Brown: vulnerability is not weakness",
+   "datum": "2026-12-06",
+   "zeit": "15:00",
+   "nr": 83
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Geschwisterposition",
+   "thema": "Das mittlere Kind: warum du dich unsichtbar fühlst",
+   "titel": "Reel: Das mittlere Kind: warum du dich unsichtbar fühlst",
+   "en": "The middle child: why you feel invisible",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|The middle child: why you feel invisible",
+   "datum": "2026-12-06",
+   "zeit": "20:00",
+   "nr": 84
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Schutzmechanismus",
+   "thema": "Warum manche Menschen in ernsten Momenten lachen",
+   "titel": "Reel: Warum manche Menschen in ernsten Momenten lachen",
+   "en": "Why some people laugh in serious moments",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people laugh in serious moments",
+   "datum": "2026-12-07",
+   "zeit": "20:00",
+   "nr": 85
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Manipulation",
+   "thema": "Wenn jemand sagt „War doch nur Spaß“, sag das",
+   "titel": "Reel: Wenn jemand sagt „War doch nur Spaß“, sag das",
+   "en": "If someone says \"I was just joking\", say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone says \"I was just joking\", say this",
+   "datum": "2026-12-08",
+   "zeit": "20:00",
+   "nr": 86
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "In 3 Sekunden lesen",
+   "thema": "Verschränkte Arme heißen nicht immer Abwehr",
+   "titel": "Reel: Verschränkte Arme heißen nicht immer Abwehr",
+   "en": "Crossed arms don't always mean defensive",
+   "status": "offen",
+   "key": "EM|Körpersprache|Crossed arms don't always mean defensive",
+   "datum": "2026-12-09",
+   "zeit": "20:00",
+   "nr": 87
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Stille Stärke",
+   "thema": "Weggehen ist auch eine Antwort",
+   "titel": "Reel: Weggehen ist auch eine Antwort",
+   "en": "Walking away is also an answer",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Walking away is also an answer",
+   "datum": "2026-12-10",
+   "zeit": "20:00",
+   "nr": 88
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Beziehung",
+   "thema": "Sag nicht „Beruhig dich“",
+   "titel": "Reel: Sag nicht „Beruhig dich“",
+   "en": "Don't say \"calm down\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"calm down\"",
+   "datum": "2026-12-11",
+   "zeit": "20:00",
+   "nr": 89
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Vertrauen",
+   "thema": "So sagt dir jemand die Wahrheit",
+   "titel": "Reel: So sagt dir jemand die Wahrheit",
+   "en": "How to make someone tell you the truth",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone tell you the truth",
+   "datum": "2026-12-12",
+   "zeit": "20:00",
+   "nr": 90
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Wähle eins",
+   "thema": "Wähle einen Stuhl",
+   "titel": "Reel: Wähle einen Stuhl",
+   "en": "Pick a chair",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Pick a chair",
+   "datum": "2026-12-13",
+   "zeit": "20:00",
+   "nr": 91
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Was es wirklich bedeutet",
+   "thema": "Warum manche Menschen nur mit „ok“ antworten",
+   "titel": "Reel: Warum manche Menschen nur mit „ok“ antworten",
+   "en": "Why some people reply with just \"k\"",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people reply with just \"k\"",
+   "datum": "2026-12-14",
+   "zeit": "20:00",
+   "nr": 92
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Alltag",
+   "thema": "Wenn jemand fragt, was du verdienst, sag das",
+   "titel": "Reel: Wenn jemand fragt, was du verdienst, sag das",
+   "en": "If someone asks how much you earn, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone asks how much you earn, say this",
+   "datum": "2026-12-15",
+   "zeit": "20:00",
+   "nr": 93
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "Stress-Signale",
+   "thema": "Die Frage wiederholen",
+   "titel": "Reel: Die Frage wiederholen",
+   "en": "Repeating your question",
+   "status": "offen",
+   "key": "EM|Körpersprache|Repeating your question",
+   "datum": "2026-12-16",
+   "zeit": "20:00",
+   "nr": 94
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Beziehungen",
+   "thema": "Wer sich weniger kümmert, bestimmt die Beziehung",
+   "titel": "Reel: Wer sich weniger kümmert, bestimmt die Beziehung",
+   "en": "The one who cares less controls the relationship",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|The one who cares less controls the relationship",
+   "datum": "2026-12-17",
+   "zeit": "20:00",
+   "nr": 95
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Streit",
+   "thema": "Sag nicht „Ist mir egal“",
+   "titel": "Reel: Sag nicht „Ist mir egal“",
+   "en": "Don't say \"I don't care\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"I don't care\"",
+   "datum": "2026-12-18",
+   "zeit": "20:00",
+   "nr": 96
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Sympathie",
+   "thema": "So erinnert sich jemand an dich",
+   "titel": "Reel: So erinnert sich jemand an dich",
+   "en": "How to make someone remember you",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone remember you",
+   "datum": "2026-12-19",
+   "zeit": "20:00",
+   "nr": 97
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Typen",
+   "thema": "Introvertiert, ambivertiert, extrovertiert beim Schreiben",
+   "titel": "Reel: Introvertiert, ambivertiert, extrovertiert beim Schreiben",
+   "en": "Introvert, ambivert, extrovert when texting",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Introvert, ambivert, extrovert when texting",
+   "datum": "2026-12-20",
+   "zeit": "20:00",
+   "nr": 98
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Ursache in der Kindheit",
+   "thema": "Warum manche Menschen sich ständig rechtfertigen",
+   "titel": "Reel: Warum manche Menschen sich ständig rechtfertigen",
+   "en": "Why some people over-explain everything",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people over-explain everything",
+   "datum": "2026-12-21",
+   "zeit": "20:00",
+   "nr": 99
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Respektlosigkeit",
+   "thema": "Wenn jemand einen Witz auf deine Kosten macht, sag das",
+   "titel": "Reel: Wenn jemand einen Witz auf deine Kosten macht, sag das",
+   "en": "If someone makes a joke at your expense, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone makes a joke at your expense, say this",
+   "datum": "2026-12-22",
+   "zeit": "20:00",
+   "nr": 100
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "A gegen B",
+   "thema": "Einen Raum betreten: unsichtbar gegen anziehend",
+   "titel": "Reel: Einen Raum betreten: unsichtbar gegen anziehend",
+   "en": "Entering a room: invisible vs magnetic",
+   "status": "offen",
+   "key": "EM|Körpersprache|Entering a room: invisible vs magnetic",
+   "datum": "2026-12-23",
+   "zeit": "20:00",
+   "nr": 101
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Harte Wahrheit",
+   "thema": "Nicht jeder, der dich anlächelt, ist dein Freund",
+   "titel": "Reel: Nicht jeder, der dich anlächelt, ist dein Freund",
+   "en": "Not everyone who smiles at you is your friend",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Not everyone who smiles at you is your friend",
+   "datum": "2026-12-24",
+   "zeit": "20:00",
+   "nr": 102
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Arbeit",
+   "thema": "Sag nicht „Ist das okay?“",
+   "titel": "Reel: Sag nicht „Ist das okay?“",
+   "en": "Don't say \"is that okay?\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"is that okay?\"",
+   "datum": "2026-12-25",
+   "zeit": "20:00",
+   "nr": 103
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Respekt",
+   "thema": "So hört jemand auf, dich zu unterbrechen",
+   "titel": "Reel: So hört jemand auf, dich zu unterbrechen",
+   "en": "How to make someone stop interrupting you",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone stop interrupting you",
+   "datum": "2026-12-26",
+   "zeit": "20:00",
+   "nr": 104
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Geschwisterposition",
+   "thema": "Das jüngste Kind: mehr als das Nesthäkchen",
+   "titel": "Reel: Das jüngste Kind: mehr als das Nesthäkchen",
+   "en": "The youngest child: more than the baby",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|The youngest child: more than the baby",
+   "datum": "2026-12-27",
+   "zeit": "20:00",
+   "nr": 105
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Schutzmechanismus",
+   "thema": "Warum manche Menschen die wegstoßen, die sie lieben",
+   "titel": "Reel: Warum manche Menschen die wegstoßen, die sie lieben",
+   "en": "Why some people push away the people they love",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people push away the people they love",
+   "datum": "2026-12-28",
+   "zeit": "20:00",
+   "nr": 106
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Manipulation",
+   "thema": "Wenn dich jemand anschweigt, mach das",
+   "titel": "Reel: Wenn dich jemand anschweigt, mach das",
+   "en": "If someone gives you the silent treatment, do this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone gives you the silent treatment, do this",
+   "datum": "2026-12-29",
+   "zeit": "20:00",
+   "nr": 107
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "In 3 Sekunden lesen",
+   "thema": "Echtes gegen falsches Lächeln",
+   "titel": "Reel: Echtes gegen falsches Lächeln",
+   "en": "Real smile vs fake smile",
+   "status": "offen",
+   "key": "EM|Körpersprache|Real smile vs fake smile",
+   "datum": "2026-12-30",
+   "zeit": "20:00",
+   "nr": 108
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Stille Stärke",
+   "thema": "Du musst dich nicht jedem erklären",
+   "titel": "Reel: Du musst dich nicht jedem erklären",
+   "en": "You don't owe everyone an explanation",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|You don't owe everyone an explanation",
+   "datum": "2026-12-31",
+   "zeit": "20:00",
+   "nr": 109
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Beziehung",
+   "thema": "Sag nicht „Mir geht's gut“",
+   "titel": "Reel: Sag nicht „Mir geht's gut“",
+   "en": "Don't say \"I'm fine\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"I'm fine\"",
+   "datum": "2027-01-01",
+   "zeit": "20:00",
+   "nr": 110
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Vertrauen",
+   "thema": "So fühlt sich jemand bei dir sicher",
+   "titel": "Reel: So fühlt sich jemand bei dir sicher",
+   "en": "How to make someone feel safe with you",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone feel safe with you",
+   "datum": "2027-01-02",
+   "zeit": "20:00",
+   "nr": 111
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Wähle eins",
+   "thema": "Wähle einen Weg im Wald",
+   "titel": "Reel: Wähle einen Weg im Wald",
+   "en": "Pick a path in the forest",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Pick a path in the forest",
+   "datum": "2027-01-03",
+   "zeit": "20:00",
+   "nr": 112
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Was es wirklich bedeutet",
+   "thema": "Warum manche Menschen aufs Handy schauen, während du redest",
+   "titel": "Reel: Warum manche Menschen aufs Handy schauen, während du redest",
+   "en": "Why some people check their phone while you talk",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people check their phone while you talk",
+   "datum": "2027-01-04",
+   "zeit": "20:00",
+   "nr": 113
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Alltag",
+   "thema": "Wenn jemand sagt „Du hast dich verändert“, sag das",
+   "titel": "Reel: Wenn jemand sagt „Du hast dich verändert“, sag das",
+   "en": "If someone says \"you've changed\", say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone says \"you've changed\", say this",
+   "datum": "2027-01-05",
+   "zeit": "20:00",
+   "nr": 114
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "Stress-Signale",
+   "thema": "Plötzliches Erstarren",
+   "titel": "Reel: Plötzliches Erstarren",
+   "en": "The sudden freeze",
+   "status": "offen",
+   "key": "EM|Körpersprache|The sudden freeze",
+   "datum": "2027-01-06",
+   "zeit": "20:00",
+   "nr": 115
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Beziehungen",
+   "thema": "Echte Freunde freuen sich, wenn du gewinnst",
+   "titel": "Reel: Echte Freunde freuen sich, wenn du gewinnst",
+   "en": "Real friends are happy when you win",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Real friends are happy when you win",
+   "datum": "2027-01-07",
+   "zeit": "20:00",
+   "nr": 116
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Streit",
+   "thema": "Sag nicht „Das ist dumm“",
+   "titel": "Reel: Sag nicht „Das ist dumm“",
+   "en": "Don't say \"that's stupid\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"that's stupid\"",
+   "datum": "2027-01-08",
+   "zeit": "20:00",
+   "nr": 117
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Sympathie",
+   "thema": "So vermisst dich jemand",
+   "titel": "Reel: So vermisst dich jemand",
+   "en": "How to make someone miss you",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone miss you",
+   "datum": "2027-01-09",
+   "zeit": "20:00",
+   "nr": 118
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Typen",
+   "thema": "Welcher Bindungstyp bist du?",
+   "titel": "Reel: Welcher Bindungstyp bist du?",
+   "en": "Which attachment style are you?",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Which attachment style are you?",
+   "datum": "2027-01-10",
+   "zeit": "20:00",
+   "nr": 119
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Ursache in der Kindheit",
+   "thema": "Warum manche Menschen nie um Hilfe bitten",
+   "titel": "Reel: Warum manche Menschen nie um Hilfe bitten",
+   "en": "Why some people never ask for help",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people never ask for help",
+   "datum": "2027-01-11",
+   "zeit": "20:00",
+   "nr": 120
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Respektlosigkeit",
+   "thema": "Wenn jemand deine Nachricht tagelang ignoriert, mach das",
+   "titel": "Reel: Wenn jemand deine Nachricht tagelang ignoriert, mach das",
+   "en": "If someone ignores your message for days, do this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone ignores your message for days, do this",
+   "datum": "2027-01-12",
+   "zeit": "20:00",
+   "nr": 121
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "A gegen B",
+   "thema": "Zuhören: gelangweilt gegen interessiert",
+   "titel": "Reel: Zuhören: gelangweilt gegen interessiert",
+   "en": "Listening: bored vs interested",
+   "status": "offen",
+   "key": "EM|Körpersprache|Listening: bored vs interested",
+   "datum": "2027-01-13",
+   "zeit": "20:00",
+   "nr": 122
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Harte Wahrheit",
+   "thema": "Du heilst nicht dort, wo du verletzt wurdest",
+   "titel": "Reel: Du heilst nicht dort, wo du verletzt wurdest",
+   "en": "You can't heal in the place that hurt you",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|You can't heal in the place that hurt you",
+   "datum": "2027-01-14",
+   "zeit": "20:00",
+   "nr": 123
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Arbeit",
+   "thema": "Sag nicht „Ich wollte nur mal nachhaken“",
+   "titel": "Reel: Sag nicht „Ich wollte nur mal nachhaken“",
+   "en": "Don't say \"just checking in\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"just checking in\"",
+   "datum": "2027-01-15",
+   "zeit": "20:00",
+   "nr": 124
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Respekt",
+   "thema": "So schätzt jemand deine Zeit",
+   "titel": "Reel: So schätzt jemand deine Zeit",
+   "en": "How to make someone value your time",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone value your time",
+   "datum": "2027-01-16",
+   "zeit": "20:00",
+   "nr": 125
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Geschwisterposition",
+   "thema": "Das Einzelkind: was alle falsch verstehen",
+   "titel": "Reel: Das Einzelkind: was alle falsch verstehen",
+   "en": "The only child: what people get wrong",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|The only child: what people get wrong",
+   "datum": "2027-01-17",
+   "zeit": "20:00",
+   "nr": 126
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Schutzmechanismus",
+   "thema": "Warum manche Menschen immer das Schlimmste erwarten",
+   "titel": "Reel: Warum manche Menschen immer das Schlimmste erwarten",
+   "en": "Why some people always expect the worst",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people always expect the worst",
+   "datum": "2027-01-18",
+   "zeit": "20:00",
+   "nr": 127
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Manipulation",
+   "thema": "Wenn dir jemand Schuldgefühle macht, sag das",
+   "titel": "Reel: Wenn dir jemand Schuldgefühle macht, sag das",
+   "en": "If someone guilt-trips you, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone guilt-trips you, say this",
+   "datum": "2027-01-19",
+   "zeit": "20:00",
+   "nr": 128
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "In 3 Sekunden lesen",
+   "thema": "Der Griff an den Hals",
+   "titel": "Reel: Der Griff an den Hals",
+   "en": "Touching the neck",
+   "status": "offen",
+   "key": "EM|Körpersprache|Touching the neck",
+   "datum": "2027-01-20",
+   "zeit": "20:00",
+   "nr": 129
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Stille Stärke",
+   "thema": "Freundlichkeit ist keine Schwäche",
+   "titel": "Reel: Freundlichkeit ist keine Schwäche",
+   "en": "Kindness is not weakness",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Kindness is not weakness",
+   "datum": "2027-01-21",
+   "zeit": "20:00",
+   "nr": 130
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Beziehung",
+   "thema": "Sag nicht „Egal“",
+   "titel": "Reel: Sag nicht „Egal“",
+   "en": "Don't say \"whatever\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"whatever\"",
+   "datum": "2027-01-22",
+   "zeit": "20:00",
+   "nr": 131
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Vertrauen",
+   "thema": "So vertraut dir jemand schnell",
+   "titel": "Reel: So vertraut dir jemand schnell",
+   "en": "How to make someone trust you quickly",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone trust you quickly",
+   "datum": "2027-01-23",
+   "zeit": "20:00",
+   "nr": 132
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Wähle eins",
+   "thema": "Wähle ein Fenster",
+   "titel": "Reel: Wähle ein Fenster",
+   "en": "Pick a window",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Pick a window",
+   "datum": "2027-01-24",
+   "zeit": "20:00",
+   "nr": 133
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Was es wirklich bedeutet",
+   "thema": "Warum manche Menschen über alle lästern",
+   "titel": "Reel: Warum manche Menschen über alle lästern",
+   "en": "Why some people gossip about everyone",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people gossip about everyone",
+   "datum": "2027-01-25",
+   "zeit": "20:00",
+   "nr": 134
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Alltag",
+   "thema": "Wenn sich jemand immer etwas leiht und nie zurückgibt, sag das",
+   "titel": "Reel: Wenn sich jemand immer etwas leiht und nie zurückgibt, sag das",
+   "en": "If someone always borrows and never gives back, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone always borrows and never gives back, say this",
+   "datum": "2027-01-26",
+   "zeit": "20:00",
+   "nr": 135
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "Stress-Signale",
+   "thema": "Ständig „ehrlich gesagt“",
+   "titel": "Reel: Ständig „ehrlich gesagt“",
+   "en": "Saying \"honestly\" a lot",
+   "status": "offen",
+   "key": "EM|Körpersprache|Saying \"honestly\" a lot",
+   "datum": "2027-01-27",
+   "zeit": "20:00",
+   "nr": 136
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Beziehungen",
+   "thema": "Du kannst niemanden zwingen zu bleiben",
+   "titel": "Reel: Du kannst niemanden zwingen zu bleiben",
+   "en": "You can't make someone stay",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|You can't make someone stay",
+   "datum": "2027-01-28",
+   "zeit": "20:00",
+   "nr": 137
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Streit",
+   "thema": "Sag nicht „Du hast mich wütend gemacht“",
+   "titel": "Reel: Sag nicht „Du hast mich wütend gemacht“",
+   "en": "Don't say \"you made me angry\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"you made me angry\"",
+   "datum": "2027-01-29",
+   "zeit": "20:00",
+   "nr": 138
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Sympathie",
+   "thema": "So bringst du jeden zum Lächeln",
+   "titel": "Reel: So bringst du jeden zum Lächeln",
+   "en": "How to make anyone smile",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make anyone smile",
+   "datum": "2027-01-30",
+   "zeit": "20:00",
+   "nr": 139
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Typen",
+   "thema": "Grübler gegen Bauchmensch",
+   "titel": "Reel: Grübler gegen Bauchmensch",
+   "en": "Overthinker vs gut feeling",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Overthinker vs gut feeling",
+   "datum": "2027-01-31",
+   "zeit": "20:00",
+   "nr": 140
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Ursache in der Kindheit",
+   "thema": "Warum manche Menschen sich beim Ausruhen schuldig fühlen",
+   "titel": "Reel: Warum manche Menschen sich beim Ausruhen schuldig fühlen",
+   "en": "Why some people feel guilty when they rest",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people feel guilty when they rest",
+   "datum": "2027-02-01",
+   "zeit": "20:00",
+   "nr": 141
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Respektlosigkeit",
+   "thema": "Wenn sich jemand mit deiner Arbeit schmückt, sag das",
+   "titel": "Reel: Wenn sich jemand mit deiner Arbeit schmückt, sag das",
+   "en": "If someone takes credit for your work, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone takes credit for your work, say this",
+   "datum": "2027-02-02",
+   "zeit": "20:00",
+   "nr": 142
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "A gegen B",
+   "thema": "Händedruck: schwach gegen stark",
+   "titel": "Reel: Händedruck: schwach gegen stark",
+   "en": "Handshake: weak vs strong",
+   "status": "offen",
+   "key": "EM|Körpersprache|Handshake: weak vs strong",
+   "datum": "2027-02-03",
+   "zeit": "20:00",
+   "nr": 143
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Harte Wahrheit",
+   "thema": "Gebraucht werden ist nicht dasselbe wie geliebt werden",
+   "titel": "Reel: Gebraucht werden ist nicht dasselbe wie geliebt werden",
+   "en": "Being needed is not the same as being loved",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Being needed is not the same as being loved",
+   "datum": "2027-02-04",
+   "zeit": "20:00",
+   "nr": 144
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Arbeit",
+   "thema": "Sag nicht „Ich versuche es“",
+   "titel": "Reel: Sag nicht „Ich versuche es“",
+   "en": "Don't say \"I'll try\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"I'll try\"",
+   "datum": "2027-02-05",
+   "zeit": "20:00",
+   "nr": 145
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Respekt",
+   "thema": "So hört jemand auf, dich aufzuziehen",
+   "titel": "Reel: So hört jemand auf, dich aufzuziehen",
+   "en": "How to make someone stop teasing you",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone stop teasing you",
+   "datum": "2027-02-06",
+   "zeit": "20:00",
+   "nr": 146
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Geschwisterposition",
+   "thema": "Das Älteste-Tochter-Syndrom",
+   "titel": "Reel: Das Älteste-Tochter-Syndrom",
+   "en": "Oldest daughter syndrome",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Oldest daughter syndrome",
+   "datum": "2027-02-07",
+   "zeit": "20:00",
+   "nr": 147
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Schutzmechanismus",
+   "thema": "Warum manche Menschen in einem stillen Haus nicht entspannen können",
+   "titel": "Reel: Warum manche Menschen in einem stillen Haus nicht entspannen können",
+   "en": "Why some people can't relax in a quiet house",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people can't relax in a quiet house",
+   "datum": "2027-02-08",
+   "zeit": "20:00",
+   "nr": 148
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Manipulation",
+   "thema": "Wenn jemand sagt „Nach allem, was ich für dich getan habe“, sag das",
+   "titel": "Reel: Wenn jemand sagt „Nach allem, was ich für dich getan habe“, sag das",
+   "en": "If someone says \"after everything I've done for you\", say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone says \"after everything I've done for you\", say this",
+   "datum": "2027-02-09",
+   "zeit": "20:00",
+   "nr": 149
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "In 3 Sekunden lesen",
+   "thema": "Der kurze Augenbrauen-Gruß",
+   "titel": "Reel: Der kurze Augenbrauen-Gruß",
+   "en": "The eyebrow flash",
+   "status": "offen",
+   "key": "EM|Körpersprache|The eyebrow flash",
+   "datum": "2027-02-10",
+   "zeit": "20:00",
+   "nr": 150
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Stille Stärke",
+   "thema": "Nicht reagieren ist die stärkste Reaktion",
+   "titel": "Reel: Nicht reagieren ist die stärkste Reaktion",
+   "en": "Not reacting is the strongest reaction",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Not reacting is the strongest reaction",
+   "datum": "2027-02-11",
+   "zeit": "20:00",
+   "nr": 151
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Beziehung",
+   "thema": "Sag nicht „Das machst du immer“",
+   "titel": "Reel: Sag nicht „Das machst du immer“",
+   "en": "Don't say \"you always do this\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"you always do this\"",
+   "datum": "2027-02-12",
+   "zeit": "20:00",
+   "nr": 152
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Vertrauen",
+   "thema": "So kommt eine schüchterne Person ins Reden",
+   "titel": "Reel: So kommt eine schüchterne Person ins Reden",
+   "en": "How to make a shy person talk",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make a shy person talk",
+   "datum": "2027-02-13",
+   "zeit": "20:00",
+   "nr": 153
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Wähle eins",
+   "thema": "Wähle eine Tasse",
+   "titel": "Reel: Wähle eine Tasse",
+   "en": "Pick a cup",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Pick a cup",
+   "datum": "2027-02-14",
+   "zeit": "20:00",
+   "nr": 154
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Was es wirklich bedeutet",
+   "thema": "Warum manche Menschen nie zugeben, dass sie falsch liegen",
+   "titel": "Reel: Warum manche Menschen nie zugeben, dass sie falsch liegen",
+   "en": "Why some people never admit they're wrong",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people never admit they're wrong",
+   "datum": "2027-02-15",
+   "zeit": "20:00",
+   "nr": 155
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Alltag",
+   "thema": "Wenn dich jemand mit anderen vergleicht, sag das",
+   "titel": "Reel: Wenn dich jemand mit anderen vergleicht, sag das",
+   "en": "If someone compares you to others, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone compares you to others, say this",
+   "datum": "2027-02-16",
+   "zeit": "20:00",
+   "nr": 156
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "Stress-Signale",
+   "thema": "Eine Geschichte perfekt der Reihe nach",
+   "titel": "Reel: Eine Geschichte perfekt der Reihe nach",
+   "en": "A story told perfectly in order",
+   "status": "offen",
+   "key": "EM|Körpersprache|A story told perfectly in order",
+   "datum": "2027-02-17",
+   "zeit": "20:00",
+   "nr": 157
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Beziehungen",
+   "thema": "Liebe ändert niemanden, der sich nicht ändern will",
+   "titel": "Reel: Liebe ändert niemanden, der sich nicht ändern will",
+   "en": "Love can't change someone who doesn't want to change",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Love can't change someone who doesn't want to change",
+   "datum": "2027-02-18",
+   "zeit": "20:00",
+   "nr": 158
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Streit",
+   "thema": "Sag nicht „Gut, mach doch“",
+   "titel": "Reel: Sag nicht „Gut, mach doch“",
+   "en": "Don't say \"fine, do what you want\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"fine, do what you want\"",
+   "datum": "2027-02-19",
+   "zeit": "20:00",
+   "nr": 159
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Sympathie",
+   "thema": "So fühlt sich jemand wichtig",
+   "titel": "Reel: So fühlt sich jemand wichtig",
+   "en": "How to make someone feel important",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone feel important",
+   "datum": "2027-02-20",
+   "zeit": "20:00",
+   "nr": 160
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Typen",
+   "thema": "Introvertiert, ambivertiert, extrovertiert nach der Arbeit",
+   "titel": "Reel: Introvertiert, ambivertiert, extrovertiert nach der Arbeit",
+   "en": "Introvert, ambivert, extrovert after work",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Introvert, ambivert, extrovert after work",
+   "datum": "2027-02-21",
+   "zeit": "20:00",
+   "nr": 161
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Ursache in der Kindheit",
+   "thema": "Warum manche Menschen immer beschäftigt sein müssen",
+   "titel": "Reel: Warum manche Menschen immer beschäftigt sein müssen",
+   "en": "Why some people always need to be busy",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people always need to be busy",
+   "datum": "2027-02-22",
+   "zeit": "20:00",
+   "nr": 162
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Respektlosigkeit",
+   "thema": "Wenn dich jemand vor anderen kritisiert, sag das",
+   "titel": "Reel: Wenn dich jemand vor anderen kritisiert, sag das",
+   "en": "If someone criticizes you in front of others, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone criticizes you in front of others, say this",
+   "datum": "2027-02-23",
+   "zeit": "20:00",
+   "nr": 163
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "A gegen B",
+   "thema": "Blickkontakt: nervös gegen ruhig",
+   "titel": "Reel: Blickkontakt: nervös gegen ruhig",
+   "en": "Eye contact: nervous vs calm",
+   "status": "offen",
+   "key": "EM|Körpersprache|Eye contact: nervous vs calm",
+   "datum": "2027-02-24",
+   "zeit": "20:00",
+   "nr": 164
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Harte Wahrheit",
+   "thema": "Schweigen ist auch eine Antwort",
+   "titel": "Reel: Schweigen ist auch eine Antwort",
+   "en": "Silence is also an answer",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Silence is also an answer",
+   "datum": "2027-02-25",
+   "zeit": "20:00",
+   "nr": 165
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Arbeit",
+   "thema": "Sag nicht „Das ist nicht meine Aufgabe“",
+   "titel": "Reel: Sag nicht „Das ist nicht meine Aufgabe“",
+   "en": "Don't say \"that's not my job\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"that's not my job\"",
+   "datum": "2027-02-26",
+   "zeit": "20:00",
+   "nr": 166
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Respekt",
+   "thema": "So hören dir Menschen zu, wenn du sprichst",
+   "titel": "Reel: So hören dir Menschen zu, wenn du sprichst",
+   "en": "How to make people listen when you speak",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make people listen when you speak",
+   "datum": "2027-02-27",
+   "zeit": "20:00",
+   "nr": 167
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Geschwisterposition",
+   "thema": "Welches Geschwisterkind bist du im Streit?",
+   "titel": "Reel: Welches Geschwisterkind bist du im Streit?",
+   "en": "Which sibling are you in an argument?",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Which sibling are you in an argument?",
+   "datum": "2027-02-28",
+   "zeit": "20:00",
+   "nr": 168
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Schutzmechanismus",
+   "thema": "Warum manche Menschen mit laufendem Fernseher schlafen",
+   "titel": "Reel: Warum manche Menschen mit laufendem Fernseher schlafen",
+   "en": "Why some people sleep with the TV on",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people sleep with the TV on",
+   "datum": "2027-03-01",
+   "zeit": "20:00",
+   "nr": 169
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Manipulation",
+   "thema": "Wenn dir jemand die Worte im Mund umdreht, sag das",
+   "titel": "Reel: Wenn dir jemand die Worte im Mund umdreht, sag das",
+   "en": "If someone twists your words, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone twists your words, say this",
+   "datum": "2027-03-02",
+   "zeit": "20:00",
+   "nr": 170
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "In 3 Sekunden lesen",
+   "thema": "Wenn jemand deine Haltung spiegelt",
+   "titel": "Reel: Wenn jemand deine Haltung spiegelt",
+   "en": "When someone mirrors your posture",
+   "status": "offen",
+   "key": "EM|Körpersprache|When someone mirrors your posture",
+   "datum": "2027-03-03",
+   "zeit": "20:00",
+   "nr": 171
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Stille Stärke",
+   "thema": "Kleine Siege jeden Tag",
+   "titel": "Reel: Kleine Siege jeden Tag",
+   "en": "Small wins every day",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Small wins every day",
+   "datum": "2027-03-04",
+   "zeit": "20:00",
+   "nr": 172
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Beziehung",
+   "thema": "Sag nicht „Tut mir leid, dass du so fühlst“",
+   "titel": "Reel: Sag nicht „Tut mir leid, dass du so fühlst“",
+   "en": "Don't say \"I'm sorry you feel that way\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"I'm sorry you feel that way\"",
+   "datum": "2027-03-05",
+   "zeit": "20:00",
+   "nr": 173
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Vertrauen",
+   "thema": "So fühlt sich jemand verstanden",
+   "titel": "Reel: So fühlt sich jemand verstanden",
+   "en": "How to make someone feel understood",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone feel understood",
+   "datum": "2027-03-06",
+   "zeit": "20:00",
+   "nr": 174
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Wähle eins",
+   "thema": "Wähle einen Schlüssel",
+   "titel": "Reel: Wähle einen Schlüssel",
+   "en": "Pick a key",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Pick a key",
+   "datum": "2027-03-07",
+   "zeit": "20:00",
+   "nr": 175
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Was es wirklich bedeutet",
+   "thema": "Warum manche Menschen immer das letzte Wort brauchen",
+   "titel": "Reel: Warum manche Menschen immer das letzte Wort brauchen",
+   "en": "Why some people always need the last word",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people always need the last word",
+   "datum": "2027-03-08",
+   "zeit": "20:00",
+   "nr": 176
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Alltag",
+   "thema": "Wenn jemand fragt „Warum bist du noch Single?“, sag das",
+   "titel": "Reel: Wenn jemand fragt „Warum bist du noch Single?“, sag das",
+   "en": "If someone asks \"why are you still single?\", say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone asks \"why are you still single?\", say this",
+   "datum": "2027-03-09",
+   "zeit": "20:00",
+   "nr": 177
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "Stress-Signale",
+   "thema": "Eine andere Frage beantworten",
+   "titel": "Reel: Eine andere Frage beantworten",
+   "en": "Answering a different question",
+   "status": "offen",
+   "key": "EM|Körpersprache|Answering a different question",
+   "datum": "2027-03-10",
+   "zeit": "20:00",
+   "nr": 178
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Beziehungen",
+   "thema": "Beständigkeit schlägt große Gesten",
+   "titel": "Reel: Beständigkeit schlägt große Gesten",
+   "en": "Consistency beats grand gestures",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Consistency beats grand gestures",
+   "datum": "2027-03-11",
+   "zeit": "20:00",
+   "nr": 179
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Streit",
+   "thema": "Sag nicht „Du übertreibst“",
+   "titel": "Reel: Sag nicht „Du übertreibst“",
+   "en": "Don't say \"you're overreacting\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"you're overreacting\"",
+   "datum": "2027-03-12",
+   "zeit": "20:00",
+   "nr": 180
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Sympathie",
+   "thema": "So lachen Menschen über deine Witze",
+   "titel": "Reel: So lachen Menschen über deine Witze",
+   "en": "How to make people laugh at your jokes",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make people laugh at your jokes",
+   "datum": "2027-03-13",
+   "zeit": "20:00",
+   "nr": 181
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Typen",
+   "thema": "Welcher Zuhörer bist du?",
+   "titel": "Reel: Welcher Zuhörer bist du?",
+   "en": "Which listener are you?",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Which listener are you?",
+   "datum": "2027-03-14",
+   "zeit": "20:00",
+   "nr": 182
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Ursache in der Kindheit",
+   "thema": "Warum manche Menschen nicht Nein sagen können",
+   "titel": "Reel: Warum manche Menschen nicht Nein sagen können",
+   "en": "Why some people can't say no",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people can't say no",
+   "datum": "2027-03-15",
+   "zeit": "20:00",
+   "nr": 183
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Respektlosigkeit",
+   "thema": "Wenn jemand „Beruhig dich“ sagt, sag das",
+   "titel": "Reel: Wenn jemand „Beruhig dich“ sagt, sag das",
+   "en": "If someone tells you to \"calm down\", say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone tells you to \"calm down\", say this",
+   "datum": "2027-03-16",
+   "zeit": "20:00",
+   "nr": 184
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "A gegen B",
+   "thema": "In der Gruppe: Außenseiter gegen Anführer",
+   "titel": "Reel: In der Gruppe: Außenseiter gegen Anführer",
+   "en": "In a group: outsider vs leader",
+   "status": "offen",
+   "key": "EM|Körpersprache|In a group: outsider vs leader",
+   "datum": "2027-03-17",
+   "zeit": "20:00",
+   "nr": 185
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Harte Wahrheit",
+   "thema": "Manche melden sich nur, wenn sie etwas brauchen",
+   "titel": "Reel: Manche melden sich nur, wenn sie etwas brauchen",
+   "en": "Some people only call when they need something",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Some people only call when they need something",
+   "datum": "2027-03-18",
+   "zeit": "20:00",
+   "nr": 186
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Arbeit",
+   "thema": "Sag nicht „Ich weiß nicht“",
+   "titel": "Reel: Sag nicht „Ich weiß nicht“",
+   "en": "Don't say \"I don't know\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"I don't know\"",
+   "datum": "2027-03-19",
+   "zeit": "20:00",
+   "nr": 187
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Respekt",
+   "thema": "So entschuldigt sich jemand bei dir",
+   "titel": "Reel: So entschuldigt sich jemand bei dir",
+   "en": "How to make someone apologize",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone apologize",
+   "datum": "2027-03-20",
+   "zeit": "20:00",
+   "nr": 188
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Geschwisterposition",
+   "thema": "Geschwisterposition in der Liebe",
+   "titel": "Reel: Geschwisterposition in der Liebe",
+   "en": "Birth order in love",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Birth order in love",
+   "datum": "2027-03-21",
+   "zeit": "20:00",
+   "nr": 189
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Schutzmechanismus",
+   "thema": "Warum manche Menschen nie vor anderen weinen",
+   "titel": "Reel: Warum manche Menschen nie vor anderen weinen",
+   "en": "Why some people never cry in front of others",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people never cry in front of others",
+   "datum": "2027-03-22",
+   "zeit": "20:00",
+   "nr": 190
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Manipulation",
+   "thema": "Wenn dich jemand drängt, sofort zu entscheiden, sag das",
+   "titel": "Reel: Wenn dich jemand drängt, sofort zu entscheiden, sag das",
+   "en": "If someone pressures you to decide right now, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone pressures you to decide right now, say this",
+   "datum": "2027-03-23",
+   "zeit": "20:00",
+   "nr": 191
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "In 3 Sekunden lesen",
+   "thema": "Wen jemand anschaut, wenn die Gruppe lacht",
+   "titel": "Reel: Wen jemand anschaut, wenn die Gruppe lacht",
+   "en": "Who they look at when the group laughs",
+   "status": "offen",
+   "key": "EM|Körpersprache|Who they look at when the group laughs",
+   "datum": "2027-03-24",
+   "zeit": "20:00",
+   "nr": 192
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Stille Stärke",
+   "thema": "Allein ist nicht einsam",
+   "titel": "Reel: Allein ist nicht einsam",
+   "en": "Alone is not lonely",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Alone is not lonely",
+   "datum": "2027-03-25",
+   "zeit": "20:00",
+   "nr": 193
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Beziehung",
+   "thema": "Sag nicht „Warum hast du nichts gesagt?“",
+   "titel": "Reel: Sag nicht „Warum hast du nichts gesagt?“",
+   "en": "Don't say \"why didn't you tell me?\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"why didn't you tell me?\"",
+   "datum": "2027-03-26",
+   "zeit": "20:00",
+   "nr": 194
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Vertrauen",
+   "thema": "So hilfst du jemandem, sich zu beruhigen",
+   "titel": "Reel: So hilfst du jemandem, sich zu beruhigen",
+   "en": "How to help someone calm down",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to help someone calm down",
+   "datum": "2027-03-27",
+   "zeit": "20:00",
+   "nr": 195
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Wähle eins",
+   "thema": "Wähle ein Haus",
+   "titel": "Reel: Wähle ein Haus",
+   "en": "Pick a house",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Pick a house",
+   "datum": "2027-03-28",
+   "zeit": "20:00",
+   "nr": 196
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Was es wirklich bedeutet",
+   "thema": "Warum manche Menschen Fremden zu viel erzählen",
+   "titel": "Reel: Warum manche Menschen Fremden zu viel erzählen",
+   "en": "Why some people overshare with strangers",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people overshare with strangers",
+   "datum": "2027-03-29",
+   "zeit": "20:00",
+   "nr": 197
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Alltag",
+   "thema": "Wenn jemand dein Geheimnis weitererzählt, mach das",
+   "titel": "Reel: Wenn jemand dein Geheimnis weitererzählt, mach das",
+   "en": "If someone tells your secret, do this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone tells your secret, do this",
+   "datum": "2027-03-30",
+   "zeit": "20:00",
+   "nr": 198
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "Stress-Signale",
+   "thema": "Von „ich“ zu „man“ wechseln",
+   "titel": "Reel: Von „ich“ zu „man“ wechseln",
+   "en": "Switching from \"I\" to \"you\"",
+   "status": "offen",
+   "key": "EM|Körpersprache|Switching from \"I\" to \"you\"",
+   "datum": "2027-03-31",
+   "zeit": "20:00",
+   "nr": 199
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Beziehungen",
+   "thema": "Wie jemand streitet, zeigt, wer er ist",
+   "titel": "Reel: Wie jemand streitet, zeigt, wer er ist",
+   "en": "The way someone argues shows who they are",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|The way someone argues shows who they are",
+   "datum": "2027-04-01",
+   "zeit": "20:00",
+   "nr": 200
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Streit",
+   "thema": "Sag nicht „Hab ich doch gesagt“",
+   "titel": "Reel: Sag nicht „Hab ich doch gesagt“",
+   "en": "Don't say \"I told you so\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"I told you so\"",
+   "datum": "2027-04-02",
+   "zeit": "20:00",
+   "nr": 201
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Sympathie",
+   "thema": "So will dich jemand wiedersehen",
+   "titel": "Reel: So will dich jemand wiedersehen",
+   "en": "How to make someone want to see you again",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone want to see you again",
+   "datum": "2027-04-03",
+   "zeit": "20:00",
+   "nr": 202
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Typen",
+   "thema": "Welche Rolle hast du in deiner Clique?",
+   "titel": "Reel: Welche Rolle hast du in deiner Clique?",
+   "en": "Which friend are you in the group?",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Which friend are you in the group?",
+   "datum": "2027-04-04",
+   "zeit": "20:00",
+   "nr": 203
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Ursache in der Kindheit",
+   "thema": "Warum manche Menschen jede Stimmungsänderung sofort bemerken",
+   "titel": "Reel: Warum manche Menschen jede Stimmungsänderung sofort bemerken",
+   "en": "Why some people notice every mood change",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people notice every mood change",
+   "datum": "2027-04-05",
+   "zeit": "20:00",
+   "nr": 204
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Respektlosigkeit",
+   "thema": "Wenn dich jemand immer warten lässt, mach das",
+   "titel": "Reel: Wenn dich jemand immer warten lässt, mach das",
+   "en": "If someone always keeps you waiting, do this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone always keeps you waiting, do this",
+   "datum": "2027-04-06",
+   "zeit": "20:00",
+   "nr": 205
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "A gegen B",
+   "thema": "Beim Date: kein Interesse gegen Interesse",
+   "titel": "Reel: Beim Date: kein Interesse gegen Interesse",
+   "en": "On a date: not interested vs interested",
+   "status": "offen",
+   "key": "EM|Körpersprache|On a date: not interested vs interested",
+   "datum": "2027-04-07",
+   "zeit": "20:00",
+   "nr": 206
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Harte Wahrheit",
+   "thema": "Wer immer verfügbar ist, wird weniger geschätzt",
+   "titel": "Reel: Wer immer verfügbar ist, wird weniger geschätzt",
+   "en": "Always available means less valued",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Always available means less valued",
+   "datum": "2027-04-08",
+   "zeit": "20:00",
+   "nr": 207
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Arbeit",
+   "thema": "Sag nicht „Kein Problem“",
+   "titel": "Reel: Sag nicht „Kein Problem“",
+   "en": "Don't say \"no problem\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"no problem\"",
+   "datum": "2027-04-09",
+   "zeit": "20:00",
+   "nr": 208
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Respekt",
+   "thema": "So hält dich niemand mehr für selbstverständlich",
+   "titel": "Reel: So hält dich niemand mehr für selbstverständlich",
+   "en": "How to make someone stop taking you for granted",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone stop taking you for granted",
+   "datum": "2027-04-10",
+   "zeit": "20:00",
+   "nr": 209
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Geschwisterposition",
+   "thema": "Geschwisterposition im Job",
+   "titel": "Reel: Geschwisterposition im Job",
+   "en": "Birth order at work",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Birth order at work",
+   "datum": "2027-04-11",
+   "zeit": "20:00",
+   "nr": 210
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Schutzmechanismus",
+   "thema": "Warum manche Menschen Witze über ihren Schmerz machen",
+   "titel": "Reel: Warum manche Menschen Witze über ihren Schmerz machen",
+   "en": "Why some people joke about their pain",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people joke about their pain",
+   "datum": "2027-04-12",
+   "zeit": "20:00",
+   "nr": 211
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Manipulation",
+   "thema": "Wenn jemand sagt „Das sehen alle so“, sag das",
+   "titel": "Reel: Wenn jemand sagt „Das sehen alle so“, sag das",
+   "en": "If someone says \"everyone agrees with me\", say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone says \"everyone agrees with me\", say this",
+   "datum": "2027-04-13",
+   "zeit": "20:00",
+   "nr": 212
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "In 3 Sekunden lesen",
+   "thema": "Hände in den Taschen",
+   "titel": "Reel: Hände in den Taschen",
+   "en": "Hands hidden in pockets",
+   "status": "offen",
+   "key": "EM|Körpersprache|Hands hidden in pockets",
+   "datum": "2027-04-14",
+   "zeit": "20:00",
+   "nr": 213
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Stille Stärke",
+   "thema": "Pause ist keine Faulheit",
+   "titel": "Reel: Pause ist keine Faulheit",
+   "en": "Rest is not laziness",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Rest is not laziness",
+   "datum": "2027-04-15",
+   "zeit": "20:00",
+   "nr": 214
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Beziehung",
+   "thema": "Sag nicht „Wir müssen reden“",
+   "titel": "Reel: Sag nicht „Wir müssen reden“",
+   "en": "Don't say \"we need to talk\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"we need to talk\"",
+   "datum": "2027-04-16",
+   "zeit": "20:00",
+   "nr": 215
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Vertrauen",
+   "thema": "So hält jemand sein Versprechen",
+   "titel": "Reel: So hält jemand sein Versprechen",
+   "en": "How to make someone keep their promise",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone keep their promise",
+   "datum": "2027-04-17",
+   "zeit": "20:00",
+   "nr": 216
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Wähle eins",
+   "thema": "Wähle ein Licht",
+   "titel": "Reel: Wähle ein Licht",
+   "en": "Pick a light",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Pick a light",
+   "datum": "2027-04-18",
+   "zeit": "20:00",
+   "nr": 217
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Was es wirklich bedeutet",
+   "thema": "Warum manche Menschen ghosten, statt sich zu verabschieden",
+   "titel": "Reel: Warum manche Menschen ghosten, statt sich zu verabschieden",
+   "en": "Why some people ghost instead of saying goodbye",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people ghost instead of saying goodbye",
+   "datum": "2027-04-19",
+   "zeit": "20:00",
+   "nr": 218
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Alltag",
+   "thema": "Wenn dein Chef sagt „Hast du kurz Zeit?“, mach das",
+   "titel": "Reel: Wenn dein Chef sagt „Hast du kurz Zeit?“, mach das",
+   "en": "If your boss says \"do you have a minute?\", do this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If your boss says \"do you have a minute?\", do this",
+   "datum": "2027-04-20",
+   "zeit": "20:00",
+   "nr": 219
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "Stress-Signale",
+   "thema": "Übertriebener Blickkontakt",
+   "titel": "Reel: Übertriebener Blickkontakt",
+   "en": "Too much eye contact",
+   "status": "offen",
+   "key": "EM|Körpersprache|Too much eye contact",
+   "datum": "2027-04-21",
+   "zeit": "20:00",
+   "nr": 220
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Beziehungen",
+   "thema": "Erst geht der Respekt, dann die Liebe",
+   "titel": "Reel: Erst geht der Respekt, dann die Liebe",
+   "en": "Respect fades before love does",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Respect fades before love does",
+   "datum": "2027-04-22",
+   "zeit": "20:00",
+   "nr": 221
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Streit",
+   "thema": "Sag nicht „Nichts für ungut, aber“",
+   "titel": "Reel: Sag nicht „Nichts für ungut, aber“",
+   "en": "Don't say \"no offense, but\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"no offense, but\"",
+   "datum": "2027-04-23",
+   "zeit": "20:00",
+   "nr": 222
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Sympathie",
+   "thema": "So redet jemand gern mit dir",
+   "titel": "Reel: So redet jemand gern mit dir",
+   "en": "How to make someone enjoy talking to you",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone enjoy talking to you",
+   "datum": "2027-04-24",
+   "zeit": "20:00",
+   "nr": 223
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Typen",
+   "thema": "Wie du mit Stress umgehst: 4 Typen",
+   "titel": "Reel: Wie du mit Stress umgehst: 4 Typen",
+   "en": "How you handle stress: 4 types",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|How you handle stress: 4 types",
+   "datum": "2027-04-25",
+   "zeit": "20:00",
+   "nr": 224
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Ursache in der Kindheit",
+   "thema": "Warum manche Menschen Angst bekommen, wenn alles gut läuft",
+   "titel": "Reel: Warum manche Menschen Angst bekommen, wenn alles gut läuft",
+   "en": "Why some people panic when things go well",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people panic when things go well",
+   "datum": "2027-04-26",
+   "zeit": "20:00",
+   "nr": 225
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Respektlosigkeit",
+   "thema": "Wenn jemand deinen Traum belächelt, sag das",
+   "titel": "Reel: Wenn jemand deinen Traum belächelt, sag das",
+   "en": "If someone laughs at your dream, say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone laughs at your dream, say this",
+   "datum": "2027-04-27",
+   "zeit": "20:00",
+   "nr": 226
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "A gegen B",
+   "thema": "Im Streit: verliert die Kontrolle gegen behält sie",
+   "titel": "Reel: Im Streit: verliert die Kontrolle gegen behält sie",
+   "en": "In an argument: losing control vs in control",
+   "status": "offen",
+   "key": "EM|Körpersprache|In an argument: losing control vs in control",
+   "datum": "2027-04-28",
+   "zeit": "20:00",
+   "nr": 227
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Harte Wahrheit",
+   "thema": "Deine Komfortzone wird langsam kleiner",
+   "titel": "Reel: Deine Komfortzone wird langsam kleiner",
+   "en": "Your comfort zone is slowly shrinking",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Your comfort zone is slowly shrinking",
+   "datum": "2027-04-29",
+   "zeit": "20:00",
+   "nr": 228
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Arbeit",
+   "thema": "Sag nicht „Sorry, dass ich störe“",
+   "titel": "Reel: Sag nicht „Sorry, dass ich störe“",
+   "en": "Don't say \"sorry to bother you\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"sorry to bother you\"",
+   "datum": "2027-04-30",
+   "zeit": "20:00",
+   "nr": 229
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Respekt",
+   "thema": "So hört jemand auf zu schreien",
+   "titel": "Reel: So hört jemand auf zu schreien",
+   "en": "How to make someone stop yelling",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone stop yelling",
+   "datum": "2027-05-01",
+   "zeit": "20:00",
+   "nr": 230
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Geschwisterposition",
+   "thema": "Geschwisterposition und Geld",
+   "titel": "Reel: Geschwisterposition und Geld",
+   "en": "Birth order and money",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Birth order and money",
+   "datum": "2027-05-02",
+   "zeit": "20:00",
+   "nr": 231
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Schutzmechanismus",
+   "thema": "Warum manche Menschen in toxischen Beziehungen bleiben",
+   "titel": "Reel: Warum manche Menschen in toxischen Beziehungen bleiben",
+   "en": "Why some people stay in toxic relationships",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people stay in toxic relationships",
+   "datum": "2027-05-03",
+   "zeit": "20:00",
+   "nr": 232
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Manipulation",
+   "thema": "Wenn jemand sagt „Du übertreibst“, sag das",
+   "titel": "Reel: Wenn jemand sagt „Du übertreibst“, sag das",
+   "en": "If someone says \"you're overreacting\", say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone says \"you're overreacting\", say this",
+   "datum": "2027-05-04",
+   "zeit": "20:00",
+   "nr": 233
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "In 3 Sekunden lesen",
+   "thema": "Plötzliches Zurücklehnen",
+   "titel": "Reel: Plötzliches Zurücklehnen",
+   "en": "Suddenly leaning back",
+   "status": "offen",
+   "key": "EM|Körpersprache|Suddenly leaning back",
+   "datum": "2027-05-05",
+   "zeit": "20:00",
+   "nr": 234
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Stille Stärke",
+   "thema": "Dein Frieden ist mehr wert als Recht zu haben",
+   "titel": "Reel: Dein Frieden ist mehr wert als Recht zu haben",
+   "en": "Your peace is worth more than being right",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Your peace is worth more than being right",
+   "datum": "2027-05-06",
+   "zeit": "20:00",
+   "nr": 235
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Beziehung",
+   "thema": "Sag nicht „Ist doch nicht schlimm“",
+   "titel": "Reel: Sag nicht „Ist doch nicht schlimm“",
+   "en": "Don't say \"it's not a big deal\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"it's not a big deal\"",
+   "datum": "2027-05-07",
+   "zeit": "20:00",
+   "nr": 236
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Vertrauen",
+   "thema": "So verzeiht dir jemand",
+   "titel": "Reel: So verzeiht dir jemand",
+   "en": "How to make someone forgive you",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to make someone forgive you",
+   "datum": "2027-05-08",
+   "zeit": "20:00",
+   "nr": 237
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Wähle eins",
+   "thema": "Wähle eine Bank",
+   "titel": "Reel: Wähle eine Bank",
+   "en": "Pick a bench",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Pick a bench",
+   "datum": "2027-05-09",
+   "zeit": "20:00",
+   "nr": 238
+  },
+  {
+   "runde": 1,
+   "saeule": "Warum Menschen …",
+   "format": "Warum Menschen …",
+   "unterformat": "Was es wirklich bedeutet",
+   "thema": "Warum manche Menschen zu dir nett, aber zur Bedienung unhöflich sind",
+   "titel": "Reel: Warum manche Menschen zu dir nett, aber zur Bedienung unhöflich sind",
+   "en": "Why some people are nice to you but rude to waiters",
+   "status": "offen",
+   "key": "EM|Warum Menschen …|Why some people are nice to you but rude to waiters",
+   "datum": "2027-05-10",
+   "zeit": "20:00",
+   "nr": 239
+  },
+  {
+   "runde": 1,
+   "saeule": "Konter-Satz",
+   "format": "Konter-Satz",
+   "unterformat": "Alltag",
+   "thema": "Wenn jemand sagt „Tut mir leid, dass du dich so fühlst“, sag das",
+   "titel": "Reel: Wenn jemand sagt „Tut mir leid, dass du dich so fühlst“, sag das",
+   "en": "If someone says \"sorry you feel that way\", say this",
+   "status": "offen",
+   "key": "EM|Konter-Satz|If someone says \"sorry you feel that way\", say this",
+   "datum": "2027-05-11",
+   "zeit": "20:00",
+   "nr": 240
+  },
+  {
+   "runde": 1,
+   "saeule": "Körpersprache",
+   "format": "Körpersprache",
+   "unterformat": "Stress-Signale",
+   "thema": "Erleichterung beim Themenwechsel",
+   "titel": "Reel: Erleichterung beim Themenwechsel",
+   "en": "Relief when the topic changes",
+   "status": "offen",
+   "key": "EM|Körpersprache|Relief when the topic changes",
+   "datum": "2027-05-12",
+   "zeit": "20:00",
+   "nr": 241
+  },
+  {
+   "runde": 1,
+   "saeule": "Lektion als Szene",
+   "format": "Lektion als Szene",
+   "unterformat": "Beziehungen",
+   "thema": "Achte darauf, wie jemand dich behandelt, wenn du krank bist",
+   "titel": "Reel: Achte darauf, wie jemand dich behandelt, wenn du krank bist",
+   "en": "Watch how they treat you when you're sick",
+   "status": "offen",
+   "key": "EM|Lektion als Szene|Watch how they treat you when you're sick",
+   "datum": "2027-05-13",
+   "zeit": "20:00",
+   "nr": 242
+  },
+  {
+   "runde": 1,
+   "saeule": "Sag das statt das",
+   "format": "Sag das statt das",
+   "unterformat": "Streit",
+   "thema": "Sag nicht „Du bist schuld“",
+   "titel": "Reel: Sag nicht „Du bist schuld“",
+   "en": "Don't say \"it's your fault\"",
+   "status": "offen",
+   "key": "EM|Sag das statt das|Don't say \"it's your fault\"",
+   "datum": "2027-05-14",
+   "zeit": "20:00",
+   "nr": 243
+  },
+  {
+   "runde": 1,
+   "saeule": "So bringst du jemanden dazu …",
+   "format": "So bringst du jemanden dazu …",
+   "unterformat": "Sympathie",
+   "thema": "So bleibst du jemandem im Kopf",
+   "titel": "Reel: So bleibst du jemandem im Kopf",
+   "en": "How to stay on someone's mind",
+   "status": "offen",
+   "key": "EM|So bringst du jemanden dazu …|How to stay on someone's mind",
+   "datum": "2027-05-15",
+   "zeit": "20:00",
+   "nr": 244
+  },
+  {
+   "runde": 1,
+   "saeule": "Welcher bist du?",
+   "format": "Welcher bist du?",
+   "unterformat": "Typen",
+   "thema": "Welche Liebessprache sprichst du?",
+   "titel": "Reel: Welche Liebessprache sprichst du?",
+   "en": "Which love language are you?",
+   "status": "offen",
+   "key": "EM|Welcher bist du?|Which love language are you?",
+   "datum": "2027-05-16",
+   "zeit": "20:00",
+   "nr": 245
+  }
+ ]
 }
