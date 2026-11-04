@@ -412,7 +412,10 @@ function sendeplanEintragen(p, r) {
     }
     Object.assign(e, { titel, datum: v.datum, formatId: fm?.id || null, reiheNr: v.nr, ...(v.zeit ? { zeit: v.zeit } : {}) });
     if (v.status === "fertig" && ["idee", "skript", "gedreht", "schnitt"].includes(e.status)) e.status = "fertig";
-    if (!e.notiz || e.notiz.startsWith("Nr. ")) e.notiz = `Nr. ${v.nr} · ${v.saeule} · ${v.unterformat}${v.lang ? " · mit Langvideo" : ""}${v.id ? ` · ${v.id}` : ""}`;
+    if (!e.notiz || e.notiz.startsWith("Nr. ")) e.notiz = `Nr. ${v.nr} · ${v.saeule} · ${v.unterformat}${v.lang ? " · mit Langvideo" : ""}${v.id ? ` · ${v.id}` : ""}`
+      + (v.skriptText ? `\n\n${v.skriptText}` : "");
+    // Caption aus dem Plan (EmpaMind), solange der User sie nicht selbst geändert hat
+    if (v.caption && (!e.caption || e.caption === e.planCaption)) { e.caption = v.caption; e.planCaption = v.caption; }
     v.eintragId = e.id;
   }
   // Gepostete Videos mit Postdatum bleiben im Kalender, als veröffentlicht am echten Tag
