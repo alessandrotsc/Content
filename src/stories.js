@@ -2,7 +2,7 @@
  * Stories (User 27.10.2026): je Tag und Kanal drei Stories, getrennt von den Videos.
  * Morgen 9 Uhr, Mittag 13 Uhr, Abend 19 Uhr. Bild herunterladen/teilen wie bei den Covern, Haken = gepostet.
  *
- * Kultas (03.11.2026): morgens "Wusstest du?", mittags "Mythos oder Fakt", abends 19:15 "Heute neu".
+ * Kultas (03.11.2026): morgens "Wusstest du?", mittags "Mythos oder Fakt", abends "Heute neu". Zeiten Kultas seit 04.11.2026: 10, 15, 20 Uhr.
  * Liegt in der Ablage (Ordner stories-kultas, erzeugt am Mac mit tools/stories.py, 14 Tage im Voraus).
  * Instagram + Facebook gehen über Metricool automatisch raus, TikTok lädt der User selbst hoch (Bild speichern).
  * Ansicht "Formate": alle Einträge des Pools mit Vorschau, Quelle und wann sie zuletzt/als nächstes kommen.
@@ -24,7 +24,7 @@ const SLOTS = [
 ];
 const ASTRO = { morgen: ["tagesenergie", "Mondkalender"], mittag: ["wissen", "Wissen"], abend: ["abend", "Planeten und Häuser"] };
 const HINWEIS = {};
-const ZEIT = { "Kultas|abend": "19:15" };
+const ZEIT = { "Kultas|morgen": "10:00", "Kultas|mittag": "15:00", "Kultas|abend": "20:00" };
 const KULTAS_HINWEIS = "Instagram und Facebook gehen automatisch raus. TikTok: Bild speichern und dort als Story hochladen.";
 
 let tag = null;
