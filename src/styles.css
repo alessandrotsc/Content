@@ -625,3 +625,20 @@ select.eingabe { -webkit-appearance: none; appearance: none; }
 .kommentar-karte.kopiert { background: #E8F6EE; box-shadow: 0 3px 0 #1E9E5A, 0 10px 24px -14px rgba(6, 26, 47, .35); }
 .kommentar-karte.kopiert .kommentar-knopf { color: #1E9E5A; }
 .bereich-kommentare .wahl { margin-bottom: 10px; }
+.engagement-modus { margin-bottom: 12px; }
+.suchfeld {
+  width: 100%; height: 44px; padding: 0 14px; border-radius: 12px; border: 1px solid var(--linie);
+  background: var(--weiss); font-size: 16px; color: var(--navy-tief); margin-bottom: 4px;
+}
+.themen-raster { display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0; }
+.thema-knopf {
+  display: flex; align-items: center; gap: 8px; padding: 10px 14px; border-radius: 12px;
+  background: var(--weiss); box-shadow: var(--karten-schatten); color: var(--navy-tief); font-size: 14px;
+}
+.thema-knopf small { color: var(--ink-3); font-size: 12px; }
+.zurueck-knopf { display: inline-flex; align-items: center; gap: 4px; color: var(--blau); font-weight: 600; font-size: 14px; padding: 6px 0; }
+.thema-titel { font-size: 22px; margin: 6px 0 2px; color: var(--navy-tief); }
+.kommentar-art { display: block; font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--blau); margin-bottom: 3px; }
+.segment.engagement-modus { background: #F2EEE6; border-color: var(--linie); margin: 10px 0 12px; }
+.segment.engagement-modus button { color: var(--ink-2); }
+.segment.engagement-modus button.an { background: var(--navy); color: #fff; }

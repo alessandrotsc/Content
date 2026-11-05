@@ -27,7 +27,7 @@ const app = document.getElementById("app");
 const BEREICHE = [
   { id: "kalender", name: "Kalender", ikon: "kalender", kicker: "Contentplan" },
   { id: "stories", name: "Stories", ikon: "story", kicker: "Stories" },
-  { id: "kommentare", name: "Kommentare", ikon: "sprechblase", kicker: "Interagieren" },
+  { id: "kommentare", name: "Engagement", ikon: "sprechblase", kicker: "Engagement" },
   { id: "formate", name: "Formate", ikon: "stapel", kicker: "Bibliothek" },
   { id: "analytics", name: "Analytics", ikon: "chart", kicker: "Zahlen" },
   { id: "mehr", name: "Mehr", ikon: "mehr", kicker: "Einstellungen" },
