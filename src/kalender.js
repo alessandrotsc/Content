@@ -7,7 +7,7 @@ import * as S from "./store.js";
 import * as D from "./datum.js";
 import { Z, neu, eintragPasst } from "./zustand.js";
 import { el, ikon, ikonKnopf, dialog, feld, pillen } from "./ui.js";
-import { zuEintrag, postenDialog, istErledigt, geplanteZeiten, zeitText } from "./posten.js";
+import { zuEintrag, postenDialog, bilderDialog, istErledigt, geplanteZeiten, zeitText } from "./posten.js";
 
 function anTag(tag) {
   return S.eintraege()
@@ -172,7 +172,8 @@ function plattformIcons(e) {
 /** Liegt das fertige Video auf dem Server, zuerst die Posten-Ansicht, sonst gleich bearbeiten. */
 function oeffnen(e, tag) {
   const v = zuEintrag(e);
-  if (v) postenDialog(e, v, () => eintragDialog(e, tag));
+  if (e.bilder?.length) bilderDialog(e, () => eintragDialog(e, tag));
+  else if (v) postenDialog(e, v, () => eintragDialog(e, tag));
   else eintragDialog(e, tag);
 }
 
@@ -193,6 +194,7 @@ function karte(e, tag) {
   if (erledigt && vid) meta.append(el("span", { class: "video-bereit erledigt", text: "✓ Veröffentlicht" }));
   else if (geplant) meta.append(el("span", { class: "video-bereit", text: `Eingeplant ${zeitText(geplant.zeit, false)}` }));
   else if (vid) meta.append(el("span", { class: "video-bereit", text: "▶ Video bereit" }));
+  else if (e.bilder?.length) meta.append(el("span", { class: "video-bereit", text: "▣ Bilder bereit" }));
   const serie = e.wiederholung && e.wiederholung.art !== "einmal"
     ? el("div", { class: "karte-meta" }, el("span", { text: D.regelText(e.wiederholung) })) : null;
 

@@ -120,3 +120,34 @@ export function postenDialog(e, v, beiBearbeiten) {
     el("button", { class: "posten-zu", text: "Schließen", onclick: () => d.zu() }),
   ].filter(Boolean));
 }
+
+/** Karussell ohne Metricool (EmpaMind, User 05.11.2026): Bilder aufs Handy speichern, Caption kopieren, selbst posten. */
+export function bilderDialog(e, beiBearbeiten) {
+  const d = dialog(e.titel);
+  const urls = e.bilder;
+  let dateien = null;
+  const text = el("span", { text: `${urls.length} Bilder speichern` });
+  const speichern = el("button", { class: "teilen", onclick: async (ev) => {
+    ev.preventDefault();
+    try {
+      // Erst laden, dann teilen: iOS erlaubt das Teilen nur direkt nach einem Tipp
+      if (!dateien) { text.textContent = "Lädt …"; dateien = await Promise.all(urls.map((u) => laden(u, () => {}))); text.textContent = "Jetzt teilen / sichern"; speichern.classList.add("bereit"); return; }
+      if (navigator.canShare?.({ files: dateien })) await navigator.share({ files: dateien });
+      else dateien.forEach((f) => { const a = el("a", { href: URL.createObjectURL(f), download: f.name }); document.body.append(a); a.click(); a.remove(); });
+    } catch (err) {
+      if (err.name !== "AbortError") { urls.forEach((u) => window.open(u, "_blank")); text.textContent = `${urls.length} Bilder speichern`; }
+    }
+  } }, ikon("pfeil_hoch"), text);
+  const kopieren = el("button", { class: "zufuegen", text: "Caption kopieren", onclick: async (ev) => {
+    ev.preventDefault();
+    try { await navigator.clipboard.writeText(e.caption || ""); ev.target.textContent = "✓ Kopiert"; } catch { ev.target.textContent = "Kopieren ging nicht"; }
+  } });
+  d.inhalt.append(...[
+    el("div", { class: "bilder-reihe", style: { display: "flex", gap: "8px", overflowX: "auto" } },
+      urls.map((u) => el("img", { src: u, alt: "", style: { width: "70%", flex: "none", borderRadius: "8px" } }))),
+    speichern,
+    textBlock("Caption", e.caption), kopieren,
+    el("button", { class: "zufuegen", text: "Eintrag bearbeiten", onclick: () => { d.zu(); beiBearbeiten(); } }),
+    el("button", { class: "posten-zu", text: "Schließen", onclick: () => d.zu() }),
+  ].filter(Boolean));
+}
