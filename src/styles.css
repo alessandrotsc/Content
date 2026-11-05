@@ -612,3 +612,16 @@ select.eingabe { -webkit-appearance: none; appearance: none; }
 .pool-info small { font-size: 11px; color: var(--ink-3); }
 .pool-text { font-size: 14px; line-height: 1.45; margin: 0 0 6px; }
 .pool-zitat { font-size: 13px; line-height: 1.45; color: var(--ink-2); font-style: italic; margin: 4px 0; }
+
+/* Kommentare zum Interagieren */
+.kommentar-liste { display: flex; flex-direction: column; gap: 10px; margin: 12px 0; }
+.kommentar-karte {
+  display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; padding: 14px;
+  background: var(--weiss); border-radius: 14px; box-shadow: var(--karten-schatten); color: var(--navy-tief);
+}
+.kommentar-text { flex: 1; font-size: 15px; line-height: 1.4; }
+.kommentar-knopf { display: flex; flex-direction: column; align-items: center; gap: 2px; min-width: 58px; color: var(--blau); font-weight: 600; }
+.kommentar-knopf small { font-size: 11px; }
+.kommentar-karte.kopiert { background: #E8F6EE; box-shadow: 0 3px 0 #1E9E5A, 0 10px 24px -14px rgba(6, 26, 47, .35); }
+.kommentar-karte.kopiert .kommentar-knopf { color: #1E9E5A; }
+.bereich-kommentare .wahl { margin-bottom: 10px; }

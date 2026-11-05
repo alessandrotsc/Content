@@ -20,12 +20,14 @@ import { allesAbgleichen } from "./quellen.js";
 import * as Server from "./server.js";
 import { ablageLaden } from "./posten.js";
 import { storiesBereich } from "./stories.js";
+import { kommentareBereich } from "./kommentare.js";
 
 const app = document.getElementById("app");
 
 const BEREICHE = [
   { id: "kalender", name: "Kalender", ikon: "kalender", kicker: "Contentplan" },
   { id: "stories", name: "Stories", ikon: "story", kicker: "Stories" },
+  { id: "kommentare", name: "Kommentare", ikon: "sprechblase", kicker: "Interagieren" },
   { id: "formate", name: "Formate", ikon: "stapel", kicker: "Bibliothek" },
   { id: "analytics", name: "Analytics", ikon: "chart", kicker: "Zahlen" },
   { id: "mehr", name: "Mehr", ikon: "mehr", kicker: "Einstellungen" },
@@ -100,6 +102,7 @@ function zeichnen() {
   const inhalt = el("main", { class: "inhalt bereich-" + Z.bereich });
   const ansicht = Z.bereich === "kalender" ? kalender()
                 : Z.bereich === "stories" ? storiesBereich()
+                : Z.bereich === "kommentare" ? kommentareBereich()
                 : Z.bereich === "formate" ? formateBereich()
                 : Z.bereich === "analytics" ? analyticsBereich()
                 : mehrBereich();
