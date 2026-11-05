@@ -123,7 +123,8 @@ export function postenDialog(e, v, beiBearbeiten) {
 
 /** Bilder laden und teilen (iOS: „Bilder sichern“). Erster Tipp lädt, zweiter teilt: iOS erlaubt Teilen nur direkt nach einem Tipp. */
 function bilderKnopf(name, urls) {
-  const start = name ? `${name}: ${urls.length} Bilder speichern` : `${urls.length} Bilder speichern`;
+  const was = urls.every((u) => u.endsWith(".mp4")) ? (urls.length > 1 ? "Videos" : "Video") : "Bilder";
+  const start = `${name ? name + ": " : ""}${urls.length > 1 ? urls.length + " " : ""}${was} speichern`;
   const text = el("span", { text: start });
   let dateien = null;
   const b = el("button", { class: "teilen", onclick: async (ev) => {
@@ -151,7 +152,9 @@ export function bilderDialog(e, beiBearbeiten) {
   } });
   d.inhalt.append(...[
     el("div", { style: { display: "flex", gap: "8px", overflowX: "auto" } },
-      vorschau.map((u) => el("img", { src: u, alt: "", style: { width: "60%", flex: "none", borderRadius: "8px" } }))),
+      vorschau.map((u) => u.endsWith(".mp4")
+        ? el("video", { src: u, controls: true, playsinline: true, preload: "metadata", style: { width: "60%", flex: "none", borderRadius: "8px" } })
+        : el("img", { src: u, alt: "", style: { width: "60%", flex: "none", borderRadius: "8px" } }))),
     ...Object.entries(gruppen).map(([name, urls]) => bilderKnopf(name, urls)),
     textBlock("Titel (TikTok)", e.postTitel), kopieren("Titel", e.postTitel),
     textBlock("Caption / Beschreibung", e.caption), kopieren("Caption", e.caption),
