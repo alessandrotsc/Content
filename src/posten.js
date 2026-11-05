@@ -145,15 +145,16 @@ export function bilderDialog(e, beiBearbeiten) {
   const d = dialog(e.titel);
   const gruppen = Array.isArray(e.bilder) ? { Bilder: e.bilder } : e.bilder;
   const vorschau = Object.values(gruppen)[0];
-  const kopieren = el("button", { class: "zufuegen", text: "Caption kopieren", onclick: async (ev) => {
+  const kopieren = (was, wert) => wert && el("button", { class: "zufuegen", text: `${was} kopieren`, onclick: async (ev) => {
     ev.preventDefault();
-    try { await navigator.clipboard.writeText(e.caption || ""); ev.target.textContent = "✓ Kopiert"; } catch { ev.target.textContent = "Kopieren ging nicht"; }
+    try { await navigator.clipboard.writeText(wert); ev.target.textContent = `✓ ${was} kopiert`; } catch { ev.target.textContent = "Kopieren ging nicht"; }
   } });
   d.inhalt.append(...[
     el("div", { style: { display: "flex", gap: "8px", overflowX: "auto" } },
       vorschau.map((u) => el("img", { src: u, alt: "", style: { width: "60%", flex: "none", borderRadius: "8px" } }))),
     ...Object.entries(gruppen).map(([name, urls]) => bilderKnopf(name, urls)),
-    textBlock("Caption", e.caption), kopieren,
+    textBlock("Titel (TikTok)", e.postTitel), kopieren("Titel", e.postTitel),
+    textBlock("Caption / Beschreibung", e.caption), kopieren("Caption", e.caption),
     el("button", { class: "zufuegen", text: "Eintrag bearbeiten", onclick: () => { d.zu(); beiBearbeiten(); } }),
     el("button", { class: "posten-zu", text: "Schließen", onclick: () => d.zu() }),
   ].filter(Boolean));
