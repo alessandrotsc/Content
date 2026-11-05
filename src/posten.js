@@ -123,13 +123,13 @@ export function postenDialog(e, v, beiBearbeiten) {
 
 /** Bilder laden und teilen (iOS: „Bilder sichern“). Erster Tipp lädt, zweiter teilt: iOS erlaubt Teilen nur direkt nach einem Tipp. */
 function bilderKnopf(name, urls) {
-  const start = `${name}: ${urls.length} Bilder speichern`;
+  const start = name ? `${name}: ${urls.length} Bilder speichern` : `${urls.length} Bilder speichern`;
   const text = el("span", { text: start });
   let dateien = null;
   const b = el("button", { class: "teilen", onclick: async (ev) => {
     ev.preventDefault();
     try {
-      if (!dateien) { text.textContent = "Lädt …"; dateien = await Promise.all(urls.map((u) => laden(u, () => {}))); text.textContent = `${name}: jetzt teilen / sichern`; b.classList.add("bereit"); return; }
+      if (!dateien) { text.textContent = "Lädt …"; dateien = await Promise.all(urls.map((u) => laden(u, () => {}))); text.textContent = "Jetzt teilen / sichern"; b.classList.add("bereit"); return; }
       if (navigator.canShare?.({ files: dateien })) await navigator.share({ files: dateien });
       else dateien.forEach((f) => { const a = el("a", { href: URL.createObjectURL(f), download: f.name }); document.body.append(a); a.click(); a.remove(); });
     } catch (err) {
@@ -143,7 +143,7 @@ function bilderKnopf(name, urls) {
  *  e.bilder: Liste von URLs oder { "TikTok": [...], "Instagram + Facebook": [...] }. */
 export function bilderDialog(e, beiBearbeiten) {
   const d = dialog(e.titel);
-  const gruppen = Array.isArray(e.bilder) ? { Bilder: e.bilder } : e.bilder;
+  const gruppen = Array.isArray(e.bilder) ? { "": e.bilder } : e.bilder;
   const vorschau = Object.values(gruppen)[0];
   const kopieren = (was, wert) => wert && el("button", { class: "zufuegen", text: `${was} kopieren`, onclick: async (ev) => {
     ev.preventDefault();
