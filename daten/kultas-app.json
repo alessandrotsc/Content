@@ -16,7 +16,7 @@
    "handle": "Kultas"
   }
  ],
- "stand": "2026-11-05",
+ "stand": "2026-11-06",
  "saeulen": [
   {
    "name": "Gut vs Schlecht",
@@ -350,7 +350,8 @@
       },
       {
        "titel": "Fasten",
-       "status": "offen"
+       "status": "online",
+       "id": "K14_Fasten"
       },
       {
        "titel": "Stress",
@@ -402,11 +403,11 @@
       }
      ],
      "anzahl": 16,
-     "fertig": 1
+     "fertig": 2
     }
    ],
    "anzahl": 16,
-   "fertig": 1
+   "fertig": 2
   },
   {
    "name": "Top 3",
@@ -429,7 +430,8 @@
       },
       {
        "titel": "Top 3: Mehr Energie",
-       "status": "offen"
+       "status": "online",
+       "id": "K15_MehrEnergie"
       },
       {
        "titel": "Top 3: Mehr Testosteron",
@@ -485,11 +487,11 @@
       }
      ],
      "anzahl": 16,
-     "fertig": 1
+     "fertig": 2
     }
    ],
    "anzahl": 16,
-   "fertig": 1
+   "fertig": 2
   },
   {
    "name": "Was passiert, wenn …",
@@ -906,11 +908,25 @@
    "lang": true,
    "thema": "Fasten",
    "titel": "Fasten",
-   "status": "offen",
+   "status": "online",
    "key": "KU|Zurück zum Ursprung|Fasten",
+   "id": "K14_Fasten",
+   "gepostet_am": "2026-11-07",
+   "nr": 18
+  },
+  {
+   "runde": 1,
+   "saeule": "Zurück zum Ursprung",
+   "format": "Zurück zum Ursprung",
+   "unterformat": "Zurück zum Ursprung",
+   "lang": true,
+   "thema": "Stress",
+   "titel": "Stress",
+   "status": "offen",
+   "key": "KU|Zurück zum Ursprung|Stress",
    "datum": "2026-11-07",
    "zeit": "20:00",
-   "nr": 18
+   "nr": 19
   },
   {
    "runde": 1,
@@ -920,11 +936,25 @@
    "lang": true,
    "thema": "Top 3: Mehr Energie",
    "titel": "Top 3: Mehr Energie",
-   "status": "offen",
+   "status": "online",
    "key": "KU|Top 3|Top 3: Mehr Energie",
+   "id": "K15_MehrEnergie",
+   "gepostet_am": "2026-11-08",
+   "nr": 20
+  },
+  {
+   "runde": 1,
+   "saeule": "Top 3",
+   "format": "Top 3",
+   "unterformat": "Top 3",
+   "lang": true,
+   "thema": "Top 3: Mehr Testosteron",
+   "titel": "Top 3: Mehr Testosteron",
+   "status": "offen",
+   "key": "KU|Top 3|Top 3: Mehr Testosteron",
    "datum": "2026-11-08",
    "zeit": "20:00",
-   "nr": 19
+   "nr": 21
   },
   {
    "runde": 1,
@@ -938,7 +968,7 @@
    "key": "KU|Was passiert, wenn …|Was passiert, wenn du täglich Karotten isst?",
    "datum": "2026-11-09",
    "zeit": "20:00",
-   "nr": 20
+   "nr": 22
   },
   {
    "runde": 1,
@@ -952,7 +982,7 @@
    "key": "KU|Wahrheit oder Mythos|Eier Cholesterin",
    "datum": "2026-11-10",
    "zeit": "20:00",
-   "nr": 21
+   "nr": 23
   },
   {
    "runde": 1,
@@ -966,7 +996,7 @@
    "key": "KU|Gut vs Schlecht|Protein Shake gegen Eier",
    "datum": "2026-11-11",
    "zeit": "20:00",
-   "nr": 22
+   "nr": 24
   },
   {
    "runde": 1,
@@ -980,7 +1010,7 @@
    "key": "KU|Supplemente|Kreatin",
    "datum": "2026-11-12",
    "zeit": "20:00",
-   "nr": 23
+   "nr": 25
   },
   {
    "runde": 1,
@@ -994,7 +1024,7 @@
    "key": "KU|Tee Sorten|Blue pia Tee",
    "datum": "2026-11-13",
    "zeit": "20:00",
-   "nr": 24
+   "nr": 26
   },
   {
    "runde": 1,
@@ -1002,13 +1032,13 @@
    "format": "Zurück zum Ursprung",
    "unterformat": "Zurück zum Ursprung",
    "lang": true,
-   "thema": "Stress",
-   "titel": "Stress",
+   "thema": "Zimmerpflanzen",
+   "titel": "Zimmerpflanzen",
    "status": "offen",
-   "key": "KU|Zurück zum Ursprung|Stress",
+   "key": "KU|Zurück zum Ursprung|Zimmerpflanzen",
    "datum": "2026-11-14",
    "zeit": "20:00",
-   "nr": 25
+   "nr": 27
   },
   {
    "runde": 1,
@@ -1016,13 +1046,13 @@
    "format": "Top 3",
    "unterformat": "Top 3",
    "lang": true,
-   "thema": "Top 3: Mehr Testosteron",
-   "titel": "Top 3: Mehr Testosteron",
+   "thema": "Top 3: Gegen Haarausfall",
+   "titel": "Top 3: Gegen Haarausfall",
    "status": "offen",
-   "key": "KU|Top 3|Top 3: Mehr Testosteron",
+   "key": "KU|Top 3|Top 3: Gegen Haarausfall",
    "datum": "2026-11-15",
    "zeit": "20:00",
-   "nr": 26
+   "nr": 28
   },
   {
    "runde": 1,
@@ -1036,7 +1066,7 @@
    "key": "KU|Was passiert, wenn …|Was passiert, wenn du täglich Pornos schaust?",
    "datum": "2026-11-16",
    "zeit": "20:00",
-   "nr": 27
+   "nr": 29
   },
   {
    "runde": 1,
@@ -1050,7 +1080,7 @@
    "key": "KU|Wahrheit oder Mythos|Weisheitszähne",
    "datum": "2026-11-17",
    "zeit": "20:00",
-   "nr": 28
+   "nr": 30
   },
   {
    "runde": 1,
@@ -1064,7 +1094,7 @@
    "key": "KU|Gut vs Schlecht|Deo gegen Eigenes Deo",
    "datum": "2026-11-18",
    "zeit": "20:00",
-   "nr": 29
+   "nr": 31
   },
   {
    "runde": 1,
@@ -1078,7 +1108,7 @@
    "key": "KU|Supplemente|Kollagen",
    "datum": "2026-11-19",
    "zeit": "20:00",
-   "nr": 30
+   "nr": 32
   },
   {
    "runde": 1,
@@ -1092,7 +1122,7 @@
    "key": "KU|Tee Sorten|Schwarzer Tee",
    "datum": "2026-11-20",
    "zeit": "20:00",
-   "nr": 31
+   "nr": 33
   },
   {
    "runde": 1,
@@ -1100,13 +1130,13 @@
    "format": "Zurück zum Ursprung",
    "unterformat": "Zurück zum Ursprung",
    "lang": true,
-   "thema": "Zimmerpflanzen",
-   "titel": "Zimmerpflanzen",
+   "thema": "Blau-, Rotlicht-Brille",
+   "titel": "Blau-, Rotlicht-Brille",
    "status": "offen",
-   "key": "KU|Zurück zum Ursprung|Zimmerpflanzen",
+   "key": "KU|Zurück zum Ursprung|Blau-, Rotlicht-Brille",
    "datum": "2026-11-21",
    "zeit": "20:00",
-   "nr": 32
+   "nr": 34
   },
   {
    "runde": 1,
@@ -1114,13 +1144,13 @@
    "format": "Top 3",
    "unterformat": "Top 3",
    "lang": true,
-   "thema": "Top 3: Gegen Haarausfall",
-   "titel": "Top 3: Gegen Haarausfall",
+   "thema": "Top 3: Gegen Stress",
+   "titel": "Top 3: Gegen Stress",
    "status": "offen",
-   "key": "KU|Top 3|Top 3: Gegen Haarausfall",
+   "key": "KU|Top 3|Top 3: Gegen Stress",
    "datum": "2026-11-22",
    "zeit": "20:00",
-   "nr": 33
+   "nr": 35
   },
   {
    "runde": 1,
@@ -1134,7 +1164,7 @@
    "key": "KU|Was passiert, wenn …|Was passiert, wenn du täglich Knoblauch isst?",
    "datum": "2026-11-23",
    "zeit": "20:00",
-   "nr": 34
+   "nr": 36
   },
   {
    "runde": 1,
@@ -1148,7 +1178,7 @@
    "key": "KU|Wahrheit oder Mythos|Brille kann man nicht heilen",
    "datum": "2026-11-24",
    "zeit": "20:00",
-   "nr": 35
+   "nr": 37
   },
   {
    "runde": 1,
@@ -1162,7 +1192,7 @@
    "key": "KU|Gut vs Schlecht|Sonnenblumenöl gegen Weidenrute, Ghee",
    "datum": "2026-11-25",
    "zeit": "20:00",
-   "nr": 36
+   "nr": 38
   },
   {
    "runde": 1,
@@ -1176,7 +1206,7 @@
    "key": "KU|Supplemente|Jod",
    "datum": "2026-11-26",
    "zeit": "20:00",
-   "nr": 37
+   "nr": 39
   },
   {
    "runde": 1,
@@ -1190,7 +1220,7 @@
    "key": "KU|Tee Sorten|Pfefferminztee",
    "datum": "2026-11-27",
    "zeit": "20:00",
-   "nr": 38
+   "nr": 40
   },
   {
    "runde": 1,
@@ -1202,7 +1232,7 @@
    "titel": "Weizennudeln gegen Buchweizennudeln",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Weizennudeln gegen Buchweizennudeln",
-   "nr": 39
+   "nr": 41
   },
   {
    "runde": 1,
@@ -1214,7 +1244,7 @@
    "titel": "Jegliche Softdrinks gegen Wasser mit Zitrone",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Jegliche Softdrinks gegen Wasser mit Zitrone",
-   "nr": 40
+   "nr": 42
   },
   {
    "runde": 1,
@@ -1226,7 +1256,7 @@
    "titel": "Margarine, Butter gegen Weidebutter",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Margarine, Butter gegen Weidebutter",
-   "nr": 41
+   "nr": 43
   },
   {
    "runde": 1,
@@ -1238,7 +1268,7 @@
    "titel": "Weizenbrot gegen Sauerteigbrot",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Weizenbrot gegen Sauerteigbrot",
-   "nr": 42
+   "nr": 44
   },
   {
    "runde": 1,
@@ -1251,7 +1281,7 @@
    "status": "fertig",
    "key": "KU|Gut vs Schlecht|Teflonpfanne gegen Edelstahlpfanne",
    "id": "K05_Teflon",
-   "nr": 43
+   "nr": 45
   },
   {
    "runde": 1,
@@ -1263,7 +1293,7 @@
    "titel": "Duftkerze gegen Duftlampe",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Duftkerze gegen Duftlampe",
-   "nr": 44
+   "nr": 46
   },
   {
    "runde": 1,
@@ -1275,7 +1305,7 @@
    "titel": "Duschgel gegen Aleppo-Seife",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Duschgel gegen Aleppo-Seife",
-   "nr": 45
+   "nr": 47
   },
   {
    "runde": 1,
@@ -1287,7 +1317,7 @@
    "titel": "Kulturheidelbeeren gegen Wildheidelbeeren",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Kulturheidelbeeren gegen Wildheidelbeeren",
-   "nr": 46
+   "nr": 48
   },
   {
    "runde": 1,
@@ -1299,7 +1329,7 @@
    "titel": "Jodsalz gegen Ursalz",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Jodsalz gegen Ursalz",
-   "nr": 47
+   "nr": 49
   },
   {
    "runde": 1,
@@ -1311,7 +1341,7 @@
    "titel": "Leitungswasser gegen Quellwasser",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Leitungswasser gegen Quellwasser",
-   "nr": 48
+   "nr": 50
   },
   {
    "runde": 1,
@@ -1323,7 +1353,7 @@
    "titel": "Sonnencreme gegen Selbst gemacht",
    "status": "offen",
    "key": "KU|Gut vs Schlecht|Sonnencreme gegen Selbst gemacht",
-   "nr": 49
+   "nr": 51
   },
   {
    "runde": 1,
@@ -1335,7 +1365,7 @@
    "titel": "OPC",
    "status": "offen",
    "key": "KU|Supplemente|OPC",
-   "nr": 50
+   "nr": 52
   },
   {
    "runde": 1,
@@ -1347,7 +1377,7 @@
    "titel": "Vitamin C",
    "status": "offen",
    "key": "KU|Supplemente|Vitamin C",
-   "nr": 51
+   "nr": 53
   },
   {
    "runde": 1,
@@ -1359,7 +1389,7 @@
    "titel": "MSM",
    "status": "offen",
    "key": "KU|Supplemente|MSM",
-   "nr": 52
+   "nr": 54
   },
   {
    "runde": 1,
@@ -1371,7 +1401,7 @@
    "titel": "Schwarzkümmelöl",
    "status": "offen",
    "key": "KU|Supplemente|Schwarzkümmelöl",
-   "nr": 53
+   "nr": 55
   },
   {
    "runde": 1,
@@ -1383,7 +1413,7 @@
    "titel": "Vitamin B12",
    "status": "offen",
    "key": "KU|Supplemente|Vitamin B12",
-   "nr": 54
+   "nr": 56
   },
   {
    "runde": 1,
@@ -1395,7 +1425,7 @@
    "titel": "Oregano-Öl",
    "status": "offen",
    "key": "KU|Supplemente|Oregano-Öl",
-   "nr": 55
+   "nr": 57
   },
   {
    "runde": 1,
@@ -1407,7 +1437,7 @@
    "titel": "Shilajit",
    "status": "offen",
    "key": "KU|Supplemente|Shilajit",
-   "nr": 56
+   "nr": 58
   },
   {
    "runde": 1,
@@ -1419,7 +1449,7 @@
    "titel": "Kurkuma",
    "status": "offen",
    "key": "KU|Supplemente|Kurkuma",
-   "nr": 57
+   "nr": 59
   },
   {
    "runde": 1,
@@ -1431,7 +1461,7 @@
    "titel": "Vitamin D3 K2",
    "status": "offen",
    "key": "KU|Supplemente|Vitamin D3 K2",
-   "nr": 58
+   "nr": 60
   },
   {
    "runde": 1,
@@ -1443,7 +1473,7 @@
    "titel": "Zink",
    "status": "offen",
    "key": "KU|Supplemente|Zink",
-   "nr": 59
+   "nr": 61
   },
   {
    "runde": 1,
@@ -1455,7 +1485,7 @@
    "titel": "Fencheltee",
    "status": "offen",
    "key": "KU|Tee Sorten|Fencheltee",
-   "nr": 60
+   "nr": 62
   },
   {
    "runde": 1,
@@ -1467,7 +1497,7 @@
    "titel": "Löwenzahntee",
    "status": "offen",
    "key": "KU|Tee Sorten|Löwenzahntee",
-   "nr": 61
+   "nr": 63
   },
   {
    "runde": 1,
@@ -1479,7 +1509,7 @@
    "titel": "Kurkuma",
    "status": "offen",
    "key": "KU|Tee Sorten|Kurkuma",
-   "nr": 62
+   "nr": 64
   },
   {
    "runde": 1,
@@ -1491,7 +1521,7 @@
    "titel": "Hagebutte",
    "status": "offen",
    "key": "KU|Tee Sorten|Hagebutte",
-   "nr": 63
+   "nr": 65
   },
   {
    "runde": 1,
@@ -1503,7 +1533,7 @@
    "titel": "Hibiskus",
    "status": "offen",
    "key": "KU|Tee Sorten|Hibiskus",
-   "nr": 64
+   "nr": 66
   },
   {
    "runde": 1,
@@ -1515,7 +1545,7 @@
    "titel": "Kamillentee",
    "status": "offen",
    "key": "KU|Tee Sorten|Kamillentee",
-   "nr": 65
+   "nr": 67
   },
   {
    "runde": 1,
@@ -1527,7 +1557,7 @@
    "titel": "Zitronenmelisse",
    "status": "offen",
    "key": "KU|Tee Sorten|Zitronenmelisse",
-   "nr": 66
+   "nr": 68
   },
   {
    "runde": 1,
@@ -1539,7 +1569,7 @@
    "titel": "Salbei",
    "status": "offen",
    "key": "KU|Tee Sorten|Salbei",
-   "nr": 67
+   "nr": 69
   },
   {
    "runde": 1,
@@ -1551,7 +1581,7 @@
    "titel": "Brennnesseltee",
    "status": "offen",
    "key": "KU|Tee Sorten|Brennnesseltee",
-   "nr": 68
+   "nr": 70
   },
   {
    "runde": 1,
@@ -1563,7 +1593,7 @@
    "titel": "Oolong Tee",
    "status": "offen",
    "key": "KU|Tee Sorten|Oolong Tee",
-   "nr": 69
+   "nr": 71
   },
   {
    "runde": 1,
@@ -1575,19 +1605,7 @@
    "titel": "Ingwer",
    "status": "offen",
    "key": "KU|Tee Sorten|Ingwer",
-   "nr": 70
-  },
-  {
-   "runde": 1,
-   "saeule": "Zurück zum Ursprung",
-   "format": "Zurück zum Ursprung",
-   "unterformat": "Zurück zum Ursprung",
-   "lang": true,
-   "thema": "Blau-, Rotlicht-Brille",
-   "titel": "Blau-, Rotlicht-Brille",
-   "status": "offen",
-   "key": "KU|Zurück zum Ursprung|Blau-, Rotlicht-Brille",
-   "nr": 71
+   "nr": 72
   },
   {
    "runde": 1,
@@ -1599,7 +1617,7 @@
    "titel": "Ölziehen",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Ölziehen",
-   "nr": 72
+   "nr": 73
   },
   {
    "runde": 1,
@@ -1611,7 +1629,7 @@
    "titel": "Rotlicht",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Rotlicht",
-   "nr": 73
+   "nr": 74
   },
   {
    "runde": 1,
@@ -1623,7 +1641,7 @@
    "titel": "Essen vorm Schlafen",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Essen vorm Schlafen",
-   "nr": 74
+   "nr": 75
   },
   {
    "runde": 1,
@@ -1635,7 +1653,7 @@
    "titel": "Toilettenhocker",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Toilettenhocker",
-   "nr": 75
+   "nr": 76
   },
   {
    "runde": 1,
@@ -1647,7 +1665,7 @@
    "titel": "Klamotten",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Klamotten",
-   "nr": 76
+   "nr": 77
   },
   {
    "runde": 1,
@@ -1659,7 +1677,7 @@
    "titel": "Nasenatmung",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Nasenatmung",
-   "nr": 77
+   "nr": 78
   },
   {
    "runde": 1,
@@ -1671,7 +1689,7 @@
    "titel": "Manifestieren",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Manifestieren",
-   "nr": 78
+   "nr": 79
   },
   {
    "runde": 1,
@@ -1683,7 +1701,7 @@
    "titel": "Sonne",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Sonne",
-   "nr": 79
+   "nr": 80
   },
   {
    "runde": 1,
@@ -1695,7 +1713,7 @@
    "titel": "Sauna",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Sauna",
-   "nr": 80
+   "nr": 81
   },
   {
    "runde": 1,
@@ -1707,18 +1725,6 @@
    "titel": "Haut / Darm",
    "status": "offen",
    "key": "KU|Zurück zum Ursprung|Haut / Darm",
-   "nr": 81
-  },
-  {
-   "runde": 1,
-   "saeule": "Top 3",
-   "format": "Top 3",
-   "unterformat": "Top 3",
-   "lang": true,
-   "thema": "Top 3: Gegen Stress",
-   "titel": "Top 3: Gegen Stress",
-   "status": "offen",
-   "key": "KU|Top 3|Top 3: Gegen Stress",
    "nr": 82
   },
   {
