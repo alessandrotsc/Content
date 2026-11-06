@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-05",
+ "stand": "2026-11-06",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -78,6 +78,12 @@
    "name": "Karussell 15 Uhr",
    "muster": [
     "Karussell 15 Uhr"
+   ]
+  },
+  {
+   "name": "Das Gespräch",
+   "muster": [
+    "Das Gespräch"
    ]
   }
  ],
@@ -3213,6 +3219,52 @@
       {
        "titel": "Khalil Gibran: Schmerz bricht die Schale",
        "en": "Kahlil Gibran: pain breaks the shell",
+       "status": "offen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Das Gespräch",
+   "saeule": "Das Gespräch",
+   "en": "The Conversation",
+   "laenge": "8 bis 12 Folien",
+   "spur": "Karussell, Sendeplatz offen",
+   "beschreibung": "Zwei mystische EmpaMind-Figuren reden abwechselnd, ein kurzer Satz je Folie. Jede Antwort führt zur nächsten Frage, letzte Folie dreht sich auf dich. Vorbilder auf TikTok 5,8 und 11,7 Mio. Aufrufe.",
+   "unterformate": [
+    {
+     "name": "Das Gespräch",
+     "en": "The Conversation",
+     "videos": [
+      {
+       "titel": "Woraus bist du wirklich gemacht? (Vorbild Sternenstaub)",
+       "en": "What are you really made of?",
+       "status": "offen"
+      },
+      {
+       "titel": "Ist ein Herz sicherer, wenn es verschlossen bleibt? (Vorbild Flugzeug)",
+       "en": "Is a heart safer when it stays closed?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum vermisst du jemanden, der dich verletzt hat?",
+       "en": "Why do you miss someone who hurt you?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum entschuldigst du dich so oft?",
+       "en": "Why do you apologize so much?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum fühlst du dich schuldig, wenn du dich ausruhst?",
+       "en": "Why does rest make you feel guilty?",
+       "status": "offen"
+      },
+      {
+       "titel": "Warum stößt du Menschen weg, die gut zu dir sind?",
+       "en": "Why do you push away people who are kind to you?",
        "status": "offen"
       }
      ]
