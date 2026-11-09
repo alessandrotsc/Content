@@ -16,7 +16,7 @@
    "handle": "Kultas"
   }
  ],
- "stand": "2026-11-06",
+ "stand": "2026-11-09",
  "saeulen": [
   {
    "name": "Gut vs Schlecht",
@@ -510,7 +510,8 @@
       },
       {
        "titel": "Was passiert, wenn du täglich Karotten isst?",
-       "status": "offen"
+       "status": "fertig",
+       "id": "K16_Karotten"
       },
       {
        "titel": "Was passiert, wenn du täglich Pornos schaust?",
@@ -570,11 +571,11 @@
       }
      ],
      "anzahl": 16,
-     "fertig": 1
+     "fertig": 2
     }
    ],
    "anzahl": 16,
-   "fertig": 1
+   "fertig": 2
   },
   {
    "name": "Wahrheit oder Mythos",
@@ -964,8 +965,9 @@
    "lang": true,
    "thema": "Was passiert, wenn du täglich Karotten isst?",
    "titel": "Was passiert, wenn du täglich Karotten isst?",
-   "status": "offen",
+   "status": "fertig",
    "key": "KU|Was passiert, wenn …|Was passiert, wenn du täglich Karotten isst?",
+   "id": "K16_Karotten",
    "datum": "2026-11-09",
    "zeit": "20:00",
    "nr": 22

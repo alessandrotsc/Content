@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-07",
+ "stand": "2026-11-09",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -3503,14 +3503,18 @@
    "thema": "Warum fühle ich mich nicht liebenswert?",
    "titel": "Karussell: Warum fühle ich mich nicht liebenswert?",
    "en": "Why do I feel unlovable?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Frage und Antwort|Why do I feel unlovable?",
    "datum": "2026-11-09",
    "zeit": "10:00",
    "nr": 11,
    "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Warum fühle ich mich nicht liebenswert?\n2. Dieses Gefühl ist eine Erinnerung, keine Messung. Es zeigt, wie man dich behandelt hat, nicht was du wert bist.\nCaption: Ein Gefühl zu verstehen ist der erste Schritt hinaus. Kennst du das?\n\nENGLISCH (wird produziert)\n1. Why do I feel unlovable?\n2. That feeling is a memory, not a measurement. It shows how you were treated, not what you're worth.\n\nQuelle: Beck 1979, Kognitives Modell (Grundüberzeugungen); Young 2003, Schematherapie",
    "caption": "Understanding a feeling is the first step out of it. Have you felt this?\n\n#psychology #relationshippsychology #lovepsychology #relationship #relatable",
-   "postTitel": "Why do I feel unlovable?"
+   "postTitel": "Why do I feel unlovable?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/QA004/folie-1.jpg",
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/QA004/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
@@ -3520,14 +3524,24 @@
    "thema": "Entschuldige dich nie wie ein Fußabtreter",
    "titel": "Karussell: Entschuldige dich nie wie ein Fußabtreter",
    "en": "Never apologize like a doormat",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Niemals so|Never apologize like a doormat",
    "datum": "2026-11-09",
    "zeit": "15:00",
    "nr": 12,
    "skriptText": "8 Folien\n\nDEUTSCH (zum Prüfen)\n1. Entschuldige dich nie wie ein Fußabtreter.\nEntschuldige dich wie ein Erwachsener.\n2. Taktik 1: Steh dazu\n„Ich habe die Frist verpasst. Das geht auf mich.“\nEin Sorry. Nicht fünf.\n3. Taktik 2: Lass das „aber“ weg\n„Es tut mir leid, dass ich dich angefahren habe.“\nEin aber löscht die Entschuldigung.\n4. Taktik 3: Nenn die Wirkung\n„Ich weiß, du hast dich dadurch übergangen gefühlt.“\nZeig, dass du es verstanden hast.\n5. Taktik 4: Biete Wiedergutmachung\n„Nächstes Mal schreibe ich dir, bevor ich zu spät komme.“\nWorte plus Taten.\n6. Taktik 5: Bettle nicht\n„Nimm dir die Zeit, die du brauchst.“\nVergebung lässt sich nicht erzwingen.\n7. Dein Spielplan:\n1. Steh dazu\n2. Lass das „aber“ weg\n3. Nenn die Wirkung\n4. Biete Wiedergutmachung\n5. Bettle nicht\n8. Ein Sorry. Eine Lösung. Dann loslassen.\nKommentiere OWN und speichere das für später.\nCaption: Entschuldige dich wie ein Erwachsener. Ein Sorry. Eine Lösung. Dann loslassen. Womit tust du dich am schwersten?\n\nENGLISCH (wird produziert)\n1. Never apologize like a doormat.\nApologize like an adult.\n2. Tactic 1: Own it\n\"I missed the deadline. That's on me.\"\nOne sorry. Not five.\n3. Tactic 2: Skip the \"but\"\n\"I'm sorry I snapped at you.\"\nA but erases the apology.\n4. Tactic 3: Name the impact\n\"I know that made you feel ignored.\"\nShow that you understood.\n5. Tactic 4: Offer repair\n\"Next time I'll text you before I'm late.\"\nWords plus action.\n6. Tactic 5: Don't beg\n\"Take the time you need.\"\nForgiveness can't be forced.\n7. Your playbook:\n1. Own it\n2. Skip the \"but\"\n3. Name the impact\n4. Offer repair\n5. Don't beg\n8. One sorry. One fix. Then let it go.\nComment OWN and save this for later.\n\nQuelle: Lewicki, Polin & Lount 2016, components of effective apologies; Lazare 2004, On Apology\nVorbild: https://www.instagram.com/p/DecW3o-DdsB/ (1658 Aufrufe)",
    "caption": "Apologize like an adult. One sorry. One fix. Then let it go. Which one do you struggle with most?\n\n#psychology #respect #lifeadvice #mindset #relatable",
-   "postTitel": "Never apologize like a doormat"
+   "postTitel": "Never apologize like a doormat",
+   "bilder": [
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/K15-004/folie-1.jpg",
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/K15-004/folie-2.jpg",
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/K15-004/folie-3.jpg",
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/K15-004/folie-4.jpg",
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/K15-004/folie-5.jpg",
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/K15-004/folie-6.jpg",
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/K15-004/folie-7.jpg",
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/K15-004/folie-8.jpg"
+   ]
   },
   {
    "runde": 1,
