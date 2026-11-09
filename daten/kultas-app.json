@@ -193,7 +193,8 @@
       },
       {
        "titel": "Kreatin",
-       "status": "offen"
+       "status": "fertig",
+       "id": "K19_Kreatin"
       },
       {
        "titel": "Kollagen",
@@ -237,11 +238,11 @@
       }
      ],
      "anzahl": 16,
-     "fertig": 2
+     "fertig": 3
     }
    ],
    "anzahl": 16,
-   "fertig": 2
+   "fertig": 3
   },
   {
    "name": "Tee Sorten",
@@ -1038,8 +1039,9 @@
    "lang": true,
    "thema": "Kreatin",
    "titel": "Kreatin",
-   "status": "offen",
+   "status": "fertig",
    "key": "KU|Supplemente|Kreatin",
+   "id": "K19_Kreatin",
    "datum": "2026-11-12",
    "zeit": "20:00",
    "nr": 27
