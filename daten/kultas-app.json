@@ -598,7 +598,8 @@
       },
       {
        "titel": "Eier Cholesterin",
-       "status": "offen"
+       "status": "fertig",
+       "id": "K17_EierCholesterin"
       },
       {
        "titel": "Weisheitszähne",
@@ -654,11 +655,11 @@
       }
      ],
      "anzahl": 16,
-     "fertig": 1
+     "fertig": 2
     }
    ],
    "anzahl": 16,
-   "fertig": 1
+   "fertig": 2
   }
  ],
  "reihenfolge": [
@@ -980,8 +981,9 @@
    "lang": true,
    "thema": "Eier Cholesterin",
    "titel": "Eier Cholesterin",
-   "status": "offen",
+   "status": "fertig",
    "key": "KU|Wahrheit oder Mythos|Eier Cholesterin",
+   "id": "K17_EierCholesterin",
    "datum": "2026-11-10",
    "zeit": "20:00",
    "nr": 23
