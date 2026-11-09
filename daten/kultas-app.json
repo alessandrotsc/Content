@@ -120,7 +120,8 @@
       },
       {
        "titel": "Protein Shake gegen Eier",
-       "status": "offen"
+       "status": "fertig",
+       "id": "K18_ProteinShakeEier"
       },
       {
        "titel": "Deo gegen Eigenes Deo",
@@ -152,11 +153,11 @@
       }
      ],
      "anzahl": 16,
-     "fertig": 2
+     "fertig": 3
     }
    ],
    "anzahl": 16,
-   "fertig": 2
+   "fertig": 3
   },
   {
    "name": "Supplemente",
@@ -1022,8 +1023,9 @@
    "lang": true,
    "thema": "Protein Shake gegen Eier",
    "titel": "Protein Shake gegen Eier",
-   "status": "offen",
+   "status": "fertig",
    "key": "KU|Gut vs Schlecht|Protein Shake gegen Eier",
+   "id": "K18_ProteinShakeEier",
    "datum": "2026-11-11",
    "zeit": "20:00",
    "nr": 26
