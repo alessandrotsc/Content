@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-09",
+ "stand": "2026-11-10",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -3664,14 +3664,18 @@
    "thema": "Woran merke ich, dass ich manipuliert werde?",
    "titel": "Karussell: Woran merke ich, dass ich manipuliert werde?",
    "en": "How do I know if I'm being gaslit?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Frage und Antwort|How do I know if I'm being gaslit?",
    "datum": "2026-11-10",
    "zeit": "10:00",
    "nr": 14,
    "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Woran merke ich, dass ich manipuliert werde?\n2. Du gehst aus jedem Gespräch und zweifelst an deiner eigenen Erinnerung und entschuldigst dich für Dinge, die du nicht getan hast. Trau diesem Muster.\nCaption: Das Muster zu erkennen gibt dir deine Kraft zurück. Hast du das erlebt?\n\nENGLISCH (wird produziert)\n1. How do I know if I'm being gaslit?\n2. You leave every talk doubting your own memory and apologizing for things you didn't do. Trust that pattern.\n\nQuelle: Stern 2007, The Gaslight Effect; Sweet 2019, American Sociological Review, The Sociology of Gaslighting",
    "caption": "Seeing the pattern is how you get your power back. Have you experienced this?\n\n#psychology #darkpsychology #manipulation #toxictrait #psychologyfacts",
-   "postTitel": "How do I know if I'm being gaslit?"
+   "postTitel": "How do I know if I'm being gaslit?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/QA005/folie-1.jpg",
+    "https://alessandrotsc.github.io/Contentplaner/medien/empamind/QA005/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
