@@ -31,7 +31,7 @@ let tag = null;
 let ansicht = "tage";          // "tage" | "formate"
 let kernWahl = "";
 let unterWahl = "";
-const ERLEDIGT = "contentplaner.stories.erledigt";
+const ERLEDIGT = "content.stories.erledigt";
 const erledigt = (() => { try { return JSON.parse(localStorage.getItem(ERLEDIGT)) || {}; } catch { return {}; } })();
 function merken() { try { localStorage.setItem(ERLEDIGT, JSON.stringify(erledigt)); } catch { /* egal */ } }
 

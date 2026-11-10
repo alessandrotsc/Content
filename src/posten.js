@@ -13,7 +13,7 @@
 import * as Server from "./server.js";
 import { el, ikon, dialog } from "./ui.js";
 
-const CACHE = "contentplaner.ablage";
+const CACHE = "content.ablage";
 let videos = (() => { try { return JSON.parse(localStorage.getItem(CACHE)) || []; } catch { return []; } })();
 
 /** Holt die Liste vom Server. true, wenn sich etwas geändert hat. */

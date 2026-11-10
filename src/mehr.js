@@ -248,7 +248,7 @@ function datenKarte() {
     datei,
     el("button", { class: "pl-zeile", onclick: () => {
       const blob = new Blob([S.exportieren()], { type: "application/json" });
-      const a = el("a", { href: URL.createObjectURL(blob), download: `contentplaner-${D.heute()}.json` });
+      const a = el("a", { href: URL.createObjectURL(blob), download: `content-${D.heute()}.json` });
       document.body.append(a); a.click(); a.remove();
     } }, ikon("kopieren", 18),
       el("div", {}, el("b", { text: "Backup exportieren" }), el("small", { text: "Alles inklusive Zahlen und Zugangsdaten. Gut aufheben." }))),

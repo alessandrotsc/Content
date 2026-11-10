@@ -11,7 +11,7 @@
 
 import * as S from "./store.js";
 
-const KEY = "contentplaner.server";
+const KEY = "content.server";
 const TAKT = 30_000;
 
 export function einstellung() {
@@ -45,7 +45,7 @@ let seit = 0;   // beim Start einmal alles, danach nur Geaendertes
 
 /* Beitraege (Reels, Videos) und Profile (Zielgruppe, Online-Zeiten) kommen nur vom Server und
    liegen getrennt vom Backup in einem eigenen Zwischenspeicher, nach Server-ID der Plattform. */
-const CACHE = "contentplaner.serverdaten";
+const CACHE = "content.serverdaten";
 let cache = (() => {
   try { return JSON.parse(localStorage.getItem(CACHE)) || { beitraege: {}, profile: {} }; }
   catch { return { beitraege: {}, profile: {} }; }

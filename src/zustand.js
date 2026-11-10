@@ -7,7 +7,7 @@
 import * as S from "./store.js";
 import * as D from "./datum.js";
 
-const KEY = "contentplaner.ansicht";
+const KEY = "content.ansicht";
 
 function gemerkt() {
   try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch { return {}; }

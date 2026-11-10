@@ -1,13 +1,13 @@
 {
-  "name": "Contentplaner",
-  "short_name": "Plan",
-  "description": "Contentplanung für alle Kanäle: Kalender, Formate, Analytics.",
+  "name": "Content",
+  "short_name": "Content",
+  "description": "Contentplanung EmpaMind: Kalender, Formate, Analytics.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#061A2F",
-  "theme_color": "#061A2F",
+  "background_color": "#0A111D",
+  "theme_color": "#0A111D",
   "lang": "de",
   "icons": [
     {

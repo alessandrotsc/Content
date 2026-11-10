@@ -1,23 +1,7 @@
 {
  "projekte": [
-  "Kultas",
   "EmpaMind"
  ],
- "kategorien": [
-  {
-   "projekt": "Astromaster",
-   "kategorie": "YouTube",
-   "datei": "astromaster-youtube-app.json"
-  },
-  {
-   "projekt": "Kultas",
-   "kategorie": "YouTube",
-   "datei": "kultas-youtube-app.json"
-  }
- ],
- "entfernt": [
-  "Astromaster YouTube",
-  "HausRund",
-  "SynCrate"
- ]
+ "kategorien": [],
+ "entfernt": []
 }

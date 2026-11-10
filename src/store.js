@@ -20,8 +20,8 @@
  * Datumsangaben laufen als Text "JJJJ-MM-TT" durch, nie als Date-Objekt.
  */
 
-const KEY = "contentplaner.v2";
-const ALT_KEY = "contentplaner.v1";
+const KEY = "content.v2";
+const ALT_KEY = "content.v1";
 
 const SPEICHER = {
   lesen: (k) => localStorage.getItem(k),
@@ -88,7 +88,7 @@ function startzustand() {
   return {
     version: 2,
     // Nur Astromaster und Kultas (User 25.10.2026), Kultas kommt über daten/projekte.json
-    projekte: [astromaster()],
+    projekte: [],
     formate: [], eintraege: [], reihen: [], messungen: [], einnahmen: [], verbindungen: {},
   };
 }
@@ -135,8 +135,7 @@ function ausV1(v1) {
     eintraege: (v1.eintraege || []).map(({ kanalId, ...e }) => ({ ...e, projektId: kanalId, plattformIds: [] })),
     reihen: [], messungen: [], einnahmen: [], verbindungen: {},
   };
-  if (!d.projekte.some((p) => p.name === "Astromaster")) d.projekte.unshift(astromaster());
-  startwerte(d);
+    startwerte(d);
   return d;
 }
 
