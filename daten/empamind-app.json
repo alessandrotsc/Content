@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-10",
+ "stand": "2026-11-11",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -3300,7 +3300,7 @@
        "status": "offen"
       },
       {
-       "titel": "Du kannst die Wellen nicht aufhalten, aber du kannst surfen lernen",
+       "titel": "Du kannst die Wellen nicht aufhalten",
        "en": "You can't stop the waves",
        "status": "offen"
       },
@@ -3731,14 +3731,18 @@
    "thema": "Warum fühle ich mich in einem Raum voller Freunde einsam?",
    "titel": "Karussell: Warum fühle ich mich in einem Raum voller Freunde einsam?",
    "en": "Why do I feel lonely in a room full of friends?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Frage und Antwort|Why do I feel lonely in a room full of friends?",
    "datum": "2026-11-11",
    "zeit": "10:00",
    "nr": 17,
    "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Warum fühle ich mich in einem Raum voller Freunde einsam?\n2. Weil umgeben sein nicht heißt, verstanden zu werden. Einsamkeit geht um Tiefe, nicht um Anzahl. Ein echtes Gespräch kann viel ändern.\nCaption: Gute Freundschaften fließen in beide Richtungen. Markiere jemanden, der das versteht.\n\nENGLISCH (wird produziert)\n1. Why do I feel lonely in a room full of friends?\n2. Because being surrounded isn't being understood. Loneliness is about depth, not numbers. One real talk can change it.\n\nQuelle: Cacioppo & Patrick 2008, Loneliness; Hawkley & Cacioppo 2010\nVorbild: https://www.tiktok.com/@psychologythought/video/7436840252175633686 (6100000 Aufrufe)",
    "caption": "Good friendships flow both ways. Tag a friend who gets it.\n\n#psychology #friendship #humanbehavior #relatable #psychologyfacts",
-   "postTitel": "Why do I feel lonely in a room full of friends?"
+   "postTitel": "Why do I feel lonely in a room full of friends?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA006/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA006/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
@@ -3748,28 +3752,44 @@
    "thema": "Der Spotlight-Effekt",
    "titel": "Karussell: Der Spotlight-Effekt",
    "en": "The spotlight effect",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Denkfehler|The spotlight effect",
    "datum": "2026-11-11",
    "zeit": "15:00",
    "nr": 18,
    "skriptText": "7 Folien\n\nDEUTSCH (zum Prüfen)\n1. Hör auf, dir Sorgen zu machen, was andere denken.\nNiemand schaut so genau hin.\n2. Du kleckerst Kaffee auf dein Hemd.\nDu glaubst, den ganzen Tag hat es jeder gesehen.\n3. Die Psychologie nennt das den Spotlight-Effekt.\nWir überschätzen, wie sehr andere uns bemerken.\n4. Studierende trugen ein peinliches T-Shirt in einen Raum.\nSie schätzten, etwa die Hälfte merkt es.\nNur etwa jeder Vierte tat es.\n5. Du lebst den ganzen Tag in deinem eigenen Kopf.\nDie anderen sind mit ihrem eigenen Scheinwerfer beschäftigt.\n6. Frag dich: Erinnert sich in einer Woche noch jemand daran?\nDann richte deine Aufmerksamkeit auf dein Gegenüber.\n7. Du stehst nicht auf der Bühne. Jeder steht in seinem eigenen Licht.\nWelchen Moment spielst du immer noch ab? Schreib es unten.\nCaption: Wir glauben, der ganze Raum hat es gesehen. Laut Forschung hat es kaum jemand bemerkt. Welchen Moment spielst du immer noch ab?\n\nENGLISCH (wird produziert)\n1. Stop worrying what people think.\nNobody is watching you that closely.\n2. You spill coffee on your shirt.\nYou feel like everyone saw it all day.\n3. Psychology calls this the spotlight effect.\nWe overestimate how much others notice us.\n4. Students wore an embarrassing T-shirt into a room.\nThey guessed about half would notice.\nOnly about 1 in 4 did.\n5. You live inside your own head all day.\nOthers are busy with their own spotlight.\n6. Ask yourself: Will anyone remember this in a week?\nThen turn your attention to the other person.\n7. You're not on stage. Everyone is in their own light.\nWhat moment do you still replay? Tell me below.\n\nQuelle: Gilovich, Medvec & Savitsky 2000, The spotlight effect in social judgment\nVorbild: https://www.tiktok.com/@encryptedminds/video/7580161039422000406 (30100 Aufrufe)",
    "caption": "We think the whole room noticed. Research says most people barely did. What moment do you still replay?\n\n#psychology #psychologyfacts #humanbehavior #mindset #relatable",
-   "postTitel": "The spotlight effect"
+   "postTitel": "The spotlight effect",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-006/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-006/folie-2.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-006/folie-3.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-006/folie-4.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-006/folie-5.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-006/folie-6.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-006/folie-7.jpg"
+   ]
   },
   {
    "runde": 1,
    "saeule": "Das Zitat",
    "format": "Das Zitat",
    "unterformat": "Das Zitat",
-   "thema": "Du kannst die Wellen nicht aufhalten, aber du kannst surfen lernen",
-   "titel": "Karussell: Du kannst die Wellen nicht aufhalten, aber du kannst surfen lernen",
+   "thema": "Du kannst die Wellen nicht aufhalten",
+   "titel": "Karussell: Du kannst die Wellen nicht aufhalten",
    "en": "You can't stop the waves",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Das Zitat|You can't stop the waves",
    "datum": "2026-11-11",
    "zeit": "20:00",
-   "nr": 19
+   "nr": 19,
+   "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Du kannst die Wellen nicht aufhalten …\n2. … aber du kannst lernen zu surfen.\nCaption: Du kannst nicht steuern, was das Leben dir entgegenwirft. Du kannst üben, wie du damit umgehst. Welche Welle lernst du gerade zu surfen?\n\nENGLISCH (wird produziert)\n1. You can't stop the waves …\n2. … but you can learn to surf.\n\nQuelle: Jon Kabat-Zinn, Wherever You Go, There You Are (1994)",
+   "caption": "You can't control what life throws at you. You can train how you ride it. What wave are you learning to surf right now?\n\n#psychology #quotes #wisdom #deep #lifelessons",
+   "postTitel": "You can't stop the waves",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z003/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z003/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
