@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-11",
+ "stand": "2026-11-12",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -3305,7 +3305,7 @@
        "status": "offen"
       },
       {
-       "titel": "Menschen vergessen, was du gesagt hast, aber nicht, wie du dich angefühlt hast",
+       "titel": "Menschen vergessen vielleicht, was du gesagt hast",
        "en": "People may forget what you said",
        "status": "offen"
       },
@@ -3799,14 +3799,18 @@
    "thema": "Warum überreagiere ich immer?",
    "titel": "Karussell: Warum überreagiere ich immer?",
    "en": "Why do I always overreact?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Frage und Antwort|Why do I always overreact?",
    "datum": "2026-11-12",
    "zeit": "10:00",
    "nr": 20,
    "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Warum überreagiere ich immer?\n2. Vielleicht reagierst du nicht über. Vielleicht ist es alles, was du vorher geschluckt hast, und jetzt kommt es auf einmal raus.\nCaption: Sei zu dir so freundlich wie zu anderen. Wer braucht heute diese Erinnerung?\n\nENGLISCH (wird produziert)\n1. Why do I always overreact?\n2. Maybe you're not overreacting. Maybe it's everything you swallowed before, finally coming out at once.\n\nQuelle: Gross & John 2003, Emotionsunterdrückung und ihre Folgen\nVorbild: https://www.tiktok.com/@psychologythought/video/7460217455785364758 (7800000 Aufrufe)",
    "caption": "Be as kind to yourself as you are to others. Who needs this reminder today?\n\n#psychology #selfworth #selfgrowth #mindset #mentalhealth",
-   "postTitel": "Why do I always overreact?"
+   "postTitel": "Why do I always overreact?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA007/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA007/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
@@ -3816,28 +3820,45 @@
    "thema": "Ist deine Freundschaft toxisch?",
    "titel": "Karussell: Ist deine Freundschaft toxisch?",
    "en": "Is your friendship toxic?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Selbsttest|Is your friendship toxic?",
    "datum": "2026-11-12",
    "zeit": "15:00",
    "nr": 21,
    "skriptText": "8 Folien\n\nDEUTSCH (zum Prüfen)\n1. Tut dir deine Freundschaft gut?\nOder ist sie toxisch?\nZähl beim Wischen jedes Ja.\n2. 1. Fühlst du dich ausgelaugt, nachdem ihr euch gesehen habt?\n3. 2. Machen sie Witze auf deine Kosten und sagen dann „Entspann dich“?\n4. 3. Melden sie sich nur, wenn sie etwas brauchen?\n5. 4. Wirken sie genervt, wenn dir Gutes passiert?\n6. 5. Verstellst du dich, um ihre Reaktion zu vermeiden?\n7. 6. Erzählen sie deine Geheimnisse weiter?\n8. 0 bis 1: Klingt nach einer stabilen Freundschaft.\n2 bis 4: Manche Muster verdienen ein ehrliches Gespräch.\n5 bis 6: Du verdienst Freunde, bei denen du dich sicher fühlst.\nSchreib dein Ergebnis in die Kommentare.\nCaption: Gute Freunde feiern deine Erfolge und behalten deine Geheimnisse. Wie viele Ja hat deine Freundschaft?\n\nENGLISCH (wird produziert)\n1. Is your friendship good for you?\nOr is it toxic?\nCount every yes as you swipe.\n2. 1. Do you feel drained after seeing them?\n3. 2. Do they joke at your expense, then say \"relax\"?\n4. 3. Do they only call when they need something?\n5. 4. Do they seem annoyed when good things happen to you?\n6. 5. Do you edit yourself to avoid their reaction?\n7. 6. Do they share your secrets with others?\n8. 0 to 1: Sounds like a solid friendship.\n2 to 4: Some patterns deserve an honest talk.\n5 to 6: You deserve friends who make you feel safe.\nComment your score below.\n\nQuelle: Uchino et al. 2004 (ambivalente Beziehungen und Stress); Gable, Reis, Impett & Asher 2004, What do you do when things go right?",
    "caption": "Good friends celebrate your wins and keep your secrets. How did your friendship score?\n\n#psychology #personality #psychologyfacts #relatable #selfgrowth",
-   "postTitel": "Is your friendship toxic?"
+   "postTitel": "Is your friendship toxic?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-007/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-007/folie-2.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-007/folie-3.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-007/folie-4.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-007/folie-5.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-007/folie-6.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-007/folie-7.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-007/folie-8.jpg"
+   ]
   },
   {
    "runde": 1,
    "saeule": "Das Zitat",
    "format": "Das Zitat",
    "unterformat": "Das Zitat",
-   "thema": "Menschen vergessen, was du gesagt hast, aber nicht, wie du dich angefühlt hast",
-   "titel": "Karussell: Menschen vergessen, was du gesagt hast, aber nicht, wie du dich angefühlt hast",
+   "thema": "Menschen vergessen vielleicht, was du gesagt hast",
+   "titel": "Karussell: Menschen vergessen vielleicht, was du gesagt hast",
    "en": "People may forget what you said",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Das Zitat|People may forget what you said",
    "datum": "2026-11-12",
    "zeit": "20:00",
-   "nr": 22
+   "nr": 22,
+   "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Menschen vergessen vielleicht, was du gesagt hast …\n2. … aber nie, wie sie sich bei dir gefühlt haben.\nCaption: Worte verblassen. Das Gefühl, das du hinterlässt, bleibt. Wer hat dir Sicherheit gegeben, als du sie am meisten gebraucht hast?\n\nENGLISCH (wird produziert)\n1. People may forget what you said …\n2. … but they will never forget how you made them feel.\n\nQuelle: Carl W. Buehner 1971 (oft Maya Angelou zugeschrieben, laut Quote Investigator älter)",
+   "caption": "Your words fade. The feeling you leave stays. Who made you feel safe when you needed it most?\n\n#psychology #quotes #wisdom #deep #lifelessons",
+   "postTitel": "People may forget what you said",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z004/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z004/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
