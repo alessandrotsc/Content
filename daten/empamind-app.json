@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-12",
+ "stand": "2026-11-13",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -3330,7 +3330,7 @@
        "status": "offen"
       },
       {
-       "titel": "Du kannst die Vergangenheit nicht ändern, aber wie du sie trägst",
+       "titel": "Du kannst die Vergangenheit nicht ändern",
        "en": "You can't change the past",
        "status": "offen"
       },
@@ -3888,14 +3888,18 @@
    "thema": "Warum bin ich müde, obwohl ich nichts gemacht habe?",
    "titel": "Karussell: Warum bin ich müde, obwohl ich nichts gemacht habe?",
    "en": "Why am I tired even when I did nothing?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Frage und Antwort|Why am I tired even when I did nothing?",
    "datum": "2026-11-13",
    "zeit": "10:00",
    "nr": 23,
    "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Warum bin ich müde, obwohl ich nichts gemacht habe?\n2. Sorgen, Scrollen und Entscheiden kosten auch Energie. Dein Kopf hat den ganzen Tag gearbeitet, auch wenn dein Körper still war.\nCaption: Speicher das für deinen nächsten Montag. Was hilft dir beim Abschalten?\n\nENGLISCH (wird produziert)\n1. Why am I tired even when I did nothing?\n2. Worrying, scrolling and deciding drain energy too. Your mind worked all day, even if your body didn't.\n\nQuelle: Boksem & Tops 2008, Mental fatigue: costs and benefits",
    "caption": "Save this for your next Monday. What helps you switch off?\n\n#psychology #psychologyfacts #mindset #lifeadvice #humanbehavior",
-   "postTitel": "Why am I tired even when I did nothing?"
+   "postTitel": "Why am I tired even when I did nothing?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA008/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA008/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
@@ -3934,28 +3938,45 @@
    "thema": "6 Arten, Nein zu sagen ohne schlechtes Gewissen",
    "titel": "Karussell: 6 Arten, Nein zu sagen ohne schlechtes Gewissen",
    "en": "6 ways to say no without guilt",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Sätze-Sammlung|6 ways to say no without guilt",
    "datum": "2026-11-13",
    "zeit": "15:00",
    "nr": 25,
    "skriptText": "8 Folien\n\nDEUTSCH (zum Prüfen)\n1. 6 Arten, Nein zu sagen, ohne schlechtes Gewissen.\n2. „Diesmal geht es nicht, aber danke, dass du fragst.“\nStatt: eine lange Ausrede.\n3. „Das passt für mich nicht.“\nStatt: „Vielleicht ...“, wenn du Nein meinst.\n4. „Ich schaue nach und melde mich.“\nStatt: ein sofortiges Ja.\n5. „Ich würde gern helfen, aber mein Teller ist voll.“\nStatt: Ja sagen und es dann bereuen.\n6. „Diesen Teil kann ich übernehmen, aber nicht alles.“\nStatt: alles oder nichts.\n7. „Nein, danke.“\nEin ganzer Satz. Keine Erklärung nötig.\n8. Nein ist ein vollständiger Satz.\nSpeicher dir das für das nächste Mal, wenn du Nein meinst.\nCaption: Ein freundliches Nein ist besser als ein verbittertes Ja. Welchen Satz nutzt du diese Woche?\n\nENGLISCH (wird produziert)\n1. 6 ways to say no without guilt.\n2. \"I can't this time, but thank you for asking.\"\nInstead of: a long excuse.\n3. \"That doesn't work for me.\"\nInstead of: \"Maybe...\" when you mean no.\n4. \"Let me check and get back to you.\"\nInstead of: an instant yes.\n5. \"I'd love to help, but my plate is full.\"\nInstead of: saying yes and resenting it.\n6. \"I can do this part, but not all of it.\"\nInstead of: all or nothing.\n7. \"No, thank you.\"\nA full sentence. No explanation needed.\n8. No is a complete sentence.\nSave this for the next time you mean no.\n\nQuelle: Ury 2007, The Power of a Positive No; Tawwab 2021, Set Boundaries, Find Peace",
    "caption": "A kind no is better than a resentful yes. Which one will you use this week?\n\n#psychology #respect #lifeadvice #mindset #relatable",
-   "postTitel": "6 ways to say no without guilt"
+   "postTitel": "6 ways to say no without guilt",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-008/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-008/folie-2.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-008/folie-3.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-008/folie-4.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-008/folie-5.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-008/folie-6.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-008/folie-7.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-008/folie-8.jpg"
+   ]
   },
   {
    "runde": 1,
    "saeule": "Das Zitat",
    "format": "Das Zitat",
    "unterformat": "Das Zitat",
-   "thema": "Du kannst die Vergangenheit nicht ändern, aber wie du sie trägst",
-   "titel": "Karussell: Du kannst die Vergangenheit nicht ändern, aber wie du sie trägst",
+   "thema": "Du kannst die Vergangenheit nicht ändern",
+   "titel": "Karussell: Du kannst die Vergangenheit nicht ändern",
    "en": "You can't change the past",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Das Zitat|You can't change the past",
    "datum": "2026-11-13",
    "zeit": "20:00",
-   "nr": 26
+   "nr": 26,
+   "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Du kannst die Vergangenheit nicht ändern …\n2. … aber wie du sie trägst.\nCaption: Was passiert ist, bleibt. Was es für dich bedeutet, kann sich noch ändern. Was bist du bereit, anders zu tragen?\n\nENGLISCH (wird produziert)\n1. You can't change the past …\n2. … but you can change how you carry it.\n\nQuelle: Volksweisheit, angelehnt an Epiktet (Handbüchlein, Kap. 5); Reappraisal-Forschung (Gross 2002)",
+   "caption": "What happened stays. What it means to you can still change. What are you ready to carry differently?\n\n#psychology #quotes #wisdom #deep #lifelessons",
+   "postTitel": "You can't change the past",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z005/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z005/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
