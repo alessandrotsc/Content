@@ -417,6 +417,7 @@ function sendeplanEintragen(p, r) {
     if (v.caption && (!e.caption || e.caption === e.planCaption)) { e.caption = v.caption; e.planCaption = v.caption; }
     if (v.bilder) e.bilder = v.bilder; else delete e.bilder;
     if (v.postTitel) e.postTitel = v.postTitel;
+    if (v.hashtags) e.hashtags = v.hashtags; else delete e.hashtags;
     v.eintragId = e.id;
   }
   // Gepostete Videos mit Postdatum bleiben im Kalender, als veröffentlicht am echten Tag

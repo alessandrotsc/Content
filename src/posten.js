@@ -158,6 +158,7 @@ export function bilderDialog(e, beiBearbeiten) {
     ...Object.entries(gruppen).map(([name, urls]) => bilderKnopf(name, urls)),
     textBlock("Titel (TikTok)", e.postTitel), kopieren("Titel", e.postTitel),
     textBlock("Caption / Beschreibung", e.caption), kopieren("Caption", e.caption),
+    textBlock("Hashtags", e.hashtags), kopieren("Hashtags", e.hashtags),
     el("button", { class: "zufuegen", text: "Eintrag bearbeiten", onclick: () => { d.zu(); beiBearbeiten(); } }),
     el("button", { class: "posten-zu", text: "Schließen", onclick: () => d.zu() }),
   ].filter(Boolean));
