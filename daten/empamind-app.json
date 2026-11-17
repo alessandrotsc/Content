@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-16",
+ "stand": "2026-11-17",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -3350,7 +3350,7 @@
        "status": "offen"
       },
       {
-       "titel": "Du musst nicht perfekt sein, aber da sein",
+       "titel": "Du musst nicht perfekt sein",
        "en": "You don't have to be perfect",
        "status": "offen"
       },
@@ -4157,7 +4157,7 @@
    "thema": "Warum fühle ich mich schuldig, wenn die andere Person mich verletzt?",
    "titel": "Karussell: Warum fühle ich mich schuldig, wenn die andere Person mich verletzt?",
    "en": "Why do I feel guilty when they hurt me?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Frage und Antwort|Why do I feel guilty when they hurt me?",
    "datum": "2026-11-17",
    "zeit": "10:00",
@@ -4165,7 +4165,11 @@
    "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Warum fühle ich mich schuldig, wenn die andere Person mich verletzt?\n2. Weil deine Reaktion zum Problem gemacht wurde, nicht ihr Verhalten. Diese Schuld wurde dir eingepflanzt. Sie gehört nicht dir.\nCaption: Du bist nicht verrückt und nicht zu empfindlich. Wer muss das hören?\n\nENGLISCH (wird produziert)\n1. Why do I feel guilty when they hurt me?\n2. Because they made your reaction the problem, not their action. That guilt was planted. It isn't yours.\n\nQuelle: Freyd 1997, DARVO (Deny, Attack, Reverse Victim and Offender)",
    "caption": "You're not crazy and you're not too sensitive. Who needs to hear this?",
    "hashtags": "#psychology #darkpsychology #manipulation #toxictrait #psychologyfacts",
-   "postTitel": "Why do I feel guilty when they hurt me?"
+   "postTitel": "Why do I feel guilty when they hurt me?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA010/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA010/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
@@ -4175,7 +4179,7 @@
    "thema": "„Du bist zu empfindlich“",
    "titel": "Karussell: „Du bist zu empfindlich“",
    "en": "\"You're too sensitive\"",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Satz entlarvt|\"You're too sensitive\"",
    "datum": "2026-11-17",
    "zeit": "15:00",
@@ -4183,21 +4187,37 @@
    "skriptText": "6 Folien\n\nDEUTSCH (zum Prüfen)\n1. „Du bist zu empfindlich.“\nist einer der schnellsten Wege, ein Gefühl abzutun.\n2. Was er bedeuten kann:\n„Deine Reaktion ist mir unbequem.“\n3. Warum er trifft:\nEr lenkt den Blick von ihrem Verhalten auf deine Gefühle.\n4. Gut zu wissen:\nHochsensibilität ist ein häufiger Wesenszug, kein Fehler. Forschung schätzt ihn auf etwa 15 bis 20 Prozent der Menschen.\n5. Eine gesunde Antwort:\n„Vielleicht. Und es hat trotzdem wehgetan. Können wir darüber reden?“\n6. Deine Gefühle sind Informationen, kein Defekt.\nWer hat dir das früher gesagt? Speichere das.\nCaption: „Du bist zu empfindlich.“ ist einer der schnellsten Wege, ein Gefühl abzutun. Hochsensibilität ist ein häufiger Wesenszug, kein Fehler. Forschung schätzt ihn auf etwa 15 bis 20 Prozent der Menschen. Wer hat dir das früher gesagt?\n\nENGLISCH (wird produziert)\n1. \"You're too sensitive.\"\nis one of the fastest ways to dismiss a feeling.\n2. What it can mean:\n\"Your reaction is inconvenient for me.\"\n3. Why it hits:\nIt moves the focus from their action to your feelings.\n4. Worth knowing:\nHigh sensitivity is a common trait, not a flaw. Research puts it at roughly 15 to 20 percent of people.\n5. A healthy reply:\n\"Maybe. And it still hurt. Can we talk about it?\"\n6. Your feelings are information, not a defect.\nWho used to tell you this? Save this.\n\nQuelle: Aron & Aron 1997, sensory processing sensitivity; Linehan 1993, emotional invalidation",
    "caption": "\"You're too sensitive.\" is one of the fastest ways to dismiss a feeling. High sensitivity is a common trait, not a flaw. Research puts it at roughly 15 to 20 percent of people. Who used to tell you this?",
    "hashtags": "#psychology #darkpsychology #manipulation #toxictrait #psychologyfacts",
-   "postTitel": "\"You're too sensitive\""
+   "postTitel": "\"You're too sensitive\"",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-009/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-009/folie-2.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-009/folie-3.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-009/folie-4.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-009/folie-5.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-009/folie-6.jpg"
+   ]
   },
   {
    "runde": 1,
    "saeule": "Das Zitat",
    "format": "Das Zitat",
    "unterformat": "Das Zitat",
-   "thema": "Du musst nicht perfekt sein, aber da sein",
-   "titel": "Karussell: Du musst nicht perfekt sein, aber da sein",
+   "thema": "Du musst nicht perfekt sein",
+   "titel": "Karussell: Du musst nicht perfekt sein",
    "en": "You don't have to be perfect",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Das Zitat|You don't have to be perfect",
    "datum": "2026-11-17",
    "zeit": "20:00",
-   "nr": 36
+   "nr": 36,
+   "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Du musst nicht perfekt sein …\n2. … aber du musst da sein.\nCaption: Müde, unsicher und unfertig da zu sein zählt trotzdem. Wo bist du heute da?\n\nENGLISCH (wird produziert)\n1. You don't have to be perfect …\n2. … but you do have to show up.\n\nQuelle: Bekannter Gedanke, Urheber unklar",
+   "caption": "Showing up tired, unsure and unready still counts. Where are you showing up today?",
+   "hashtags": "#psychology #quotes #wisdom #deep #lifelessons",
+   "postTitel": "You don't have to be perfect",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z008/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z008/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
