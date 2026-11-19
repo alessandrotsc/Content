@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-18",
+ "stand": "2026-11-19",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -3360,7 +3360,7 @@
        "status": "offen"
       },
       {
-       "titel": "Manche Menschen gehen, aber sie machen Platz",
+       "titel": "Manche Menschen gehen",
        "en": "Some people leave",
        "status": "offen"
       },
@@ -4316,7 +4316,7 @@
    "thema": "Ausgebrannt oder nur müde?",
    "titel": "Karussell: Ausgebrannt oder nur müde?",
    "en": "Burned out or just tired?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Selbsttest|Burned out or just tired?",
    "datum": "2026-11-19",
    "zeit": "15:00",
@@ -4324,21 +4324,39 @@
    "skriptText": "8 Folien\n\nDEUTSCH (zum Prüfen)\n1. Ausgebrannt\noder nur müde?\nZähl beim Wischen jedes Ja.\n2. 1. Erholt dich ein freies Wochenende nicht mehr?\n3. 2. Fühlst du dich leer, bevor der Arbeitstag überhaupt beginnt?\n4. 3. Bist du zynisch geworden bei Arbeit, die dir früher wichtig war?\n5. 4. Wirken kleine Aufgaben wie Berge?\n6. 5. Hast du das Gefühl, deine Arbeit zählt nicht mehr?\n7. 6. Bist du gereizter mit Menschen, die du liebst?\n8. 0 bis 1: Wahrscheinlich normale Müdigkeit. Ruhe hilft.\n2 bis 4: Deine Akkus sind leer. Nimm das ernst.\n5 bis 6: Das klingt nach mehr als Müdigkeit. Sprich mit einem Arzt oder jemandem, dem du vertraust.\nKeine Diagnose. Nur ein Spiegel.\nSchreib dein Ergebnis in die Kommentare.\nCaption: Müdigkeit wird mit Ruhe besser. Burnout oft nicht. Wie viele Ja hast du gezählt?\n\nENGLISCH (wird produziert)\n1. Burned out\nor just tired?\nCount every yes as you swipe.\n2. 1. Does a weekend off no longer recharge you?\n3. 2. Do you feel empty before the workday even starts?\n4. 3. Have you become cynical about work you used to care about?\n5. 4. Do small tasks feel like mountains?\n6. 5. Do you feel your work doesn't matter anymore?\n7. 6. Are you more irritable with people you love?\n8. 0 to 1: Probably normal tiredness. Rest helps.\n2 to 4: Your batteries are low. Take it seriously.\n5 to 6: This sounds like more than tired. Talk to a doctor or someone you trust.\nNot a diagnosis. Just a mirror.\nComment your score below.\n\nQuelle: Maslach & Leiter 2016, Understanding the burnout experience (Erschöpfung, Zynismus, verringerte Wirksamkeit); WHO ICD-11, Burnout als berufsbezogenes Phänomen\nVorbild: https://www.youtube.com/shorts/sOwkQ--isVc (671000 Aufrufe)",
    "caption": "Tired gets better with rest. Burnout often doesn't. How many yeses did you count?",
    "hashtags": "#psychology #personality #psychologyfacts #relatable #selfgrowth",
-   "postTitel": "Burned out or just tired?"
+   "postTitel": "Burned out or just tired?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-011/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-011/folie-2.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-011/folie-3.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-011/folie-4.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-011/folie-5.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-011/folie-6.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-011/folie-7.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-011/folie-8.jpg"
+   ]
   },
   {
    "runde": 1,
    "saeule": "Das Zitat",
    "format": "Das Zitat",
    "unterformat": "Das Zitat",
-   "thema": "Manche Menschen gehen, aber sie machen Platz",
-   "titel": "Karussell: Manche Menschen gehen, aber sie machen Platz",
+   "thema": "Manche Menschen gehen",
+   "titel": "Karussell: Manche Menschen gehen",
    "en": "Some people leave",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Das Zitat|Some people leave",
    "datum": "2026-11-19",
    "zeit": "20:00",
-   "nr": 42
+   "nr": 42,
+   "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Manche Menschen gehen …\n2. … aber sie machen Platz.\nCaption: Nicht jeder Abschied ist ein Verlust. Manche sind Raum. Wofür hat ein Abschied in deinem Leben Platz gemacht?\n\nENGLISCH (wird produziert)\n1. Some people leave …\n2. … but they make room.\n\nQuelle: Bekannter Gedanke, Urheber unklar",
+   "caption": "Not every goodbye is a loss. Some of them are space. What did a goodbye make room for in your life?",
+   "hashtags": "#psychology #quotes #wisdom #deep #lifelessons",
+   "postTitel": "Some people leave",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z010/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z010/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
