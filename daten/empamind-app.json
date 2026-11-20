@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-19",
+ "stand": "2026-11-20",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -3365,7 +3365,7 @@
        "status": "offen"
       },
       {
-       "titel": "Heilung lässt sich nicht beeilen, aber begleiten",
+       "titel": "Heilung lässt sich nicht beeilen",
        "en": "You can't rush healing",
        "status": "offen"
       },
@@ -4366,7 +4366,7 @@
    "thema": "Warum macht mir „Wir müssen reden“ Angst?",
    "titel": "Karussell: Warum macht mir „Wir müssen reden“ Angst?",
    "en": "Why does \"we need to talk\" scare me?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Frage und Antwort|Why does \"we need to talk\" scare me?",
    "datum": "2026-11-20",
    "zeit": "10:00",
@@ -4374,7 +4374,11 @@
    "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Warum macht mir „Wir müssen reden“ Angst?\n2. Ungewissheit fühlt sich schlimmer an als schlechte Nachrichten. Dein Gehirn füllt die Lücke mit dem schlimmsten Fall. Die meisten Gespräche sind harmlos.\nCaption: Arbeit ist, was du tust, nicht wer du bist. Siehst du das auch so?\n\nENGLISCH (wird produziert)\n1. Why does \"we need to talk\" scare me?\n2. Uncertainty feels worse than bad news. Your brain fills the blank with the worst case. Most talks are ordinary.\n\nQuelle: de Berker et al. 2016, Nature Communications, Computations of uncertainty mediate acute stress responses",
    "caption": "Work is what you do, not who you are. Agree?",
    "hashtags": "#psychology #psychologyfacts #mindset #lifeadvice #humanbehavior",
-   "postTitel": "Why does \"we need to talk\" scare me?"
+   "postTitel": "Why does \"we need to talk\" scare me?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA012/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA012/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
@@ -4409,14 +4413,22 @@
    "saeule": "Das Zitat",
    "format": "Das Zitat",
    "unterformat": "Das Zitat",
-   "thema": "Heilung lässt sich nicht beeilen, aber begleiten",
-   "titel": "Karussell: Heilung lässt sich nicht beeilen, aber begleiten",
+   "thema": "Heilung lässt sich nicht beeilen",
+   "titel": "Karussell: Heilung lässt sich nicht beeilen",
    "en": "You can't rush healing",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Das Zitat|You can't rush healing",
    "datum": "2026-11-20",
    "zeit": "20:00",
-   "nr": 45
+   "nr": 45,
+   "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Heilung lässt sich nicht beeilen …\n2. … aber du kannst sie begleiten.\nCaption: Heilung hat keine Frist. Du darfst langsam gehen. Wem oder was gibst du gerade Zeit?\n\nENGLISCH (wird produziert)\n1. You can't rush healing …\n2. … but you can walk beside it.\n\nQuelle: Bekannter Gedanke, Urheber unklar",
+   "caption": "Healing has no deadline. You are allowed to go slowly. What are you giving time right now?",
+   "hashtags": "#psychology #quotes #wisdom #deep #lifelessons",
+   "postTitel": "You can't rush healing",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z011/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z011/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
