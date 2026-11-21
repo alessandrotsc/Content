@@ -24,7 +24,7 @@
    "handle": "enempamind"
   }
  ],
- "stand": "2026-11-20",
+ "stand": "2026-11-21",
  "saeulen": [
   {
    "name": "Warum Menschen …",
@@ -4438,7 +4438,7 @@
    "thema": "Warum fühle ich mich für die Laune aller verantwortlich?",
    "titel": "Karussell: Warum fühle ich mich für die Laune aller verantwortlich?",
    "en": "Why do I feel responsible for everyone's mood?",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Frage und Antwort|Why do I feel responsible for everyone's mood?",
    "datum": "2026-11-21",
    "zeit": "10:00",
@@ -4446,7 +4446,11 @@
    "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Warum fühle ich mich für die Laune aller verantwortlich?\n2. Wenn du als Kind die Stimmung lesen musstest, wurdest du das Barometer der Familie. Ihre Launen waren nie deine Aufgabe.\nCaption: Speicher das für den nächsten Familienbesuch. Was hilft dir, du selbst zu bleiben?\n\nENGLISCH (wird produziert)\n1. Why do I feel responsible for everyone's mood?\n2. If you had to read the room as a child, you became the family's barometer. Their moods were never your job.\n\nQuelle: Jurkovic 1997, Lost Childhoods: The plight of the parentified child",
    "caption": "Save this for your next family visit. What helps you stay yourself?",
    "hashtags": "#psychology #parents #childhood #relatable #psychologyfacts",
-   "postTitel": "Why do I feel responsible for everyone's mood?"
+   "postTitel": "Why do I feel responsible for everyone's mood?",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA013/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/QA013/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
@@ -4478,7 +4482,11 @@
    "key": "EM|Das Zitat|Silence doesn't always mean peace",
    "datum": "2026-11-21",
    "zeit": "20:00",
-   "nr": 48
+   "nr": 48,
+   "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Stille heißt nicht immer Frieden …\n2. … aber manchmal ist sie die Antwort.\nCaption: Nicht jede Ruhe ist friedlich. Und nicht jede Frage braucht Worte. Wann war Stille deine Antwort?\n\nENGLISCH (wird produziert)\n1. Silence doesn't always mean peace …\n2. … but sometimes it is the answer.\n\nQuelle: Bekannter Gedanke, Urheber unklar",
+   "caption": "Not every quiet is calm. And not every question needs words. When was silence your answer?",
+   "hashtags": "#psychology #quotes #wisdom #deep #lifelessons",
+   "postTitel": "Silence doesn't always mean peace"
   },
   {
    "runde": 1,
