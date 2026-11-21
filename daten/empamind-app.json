@@ -4460,7 +4460,7 @@
    "thema": "Gesunde gegen toxische Freundschaft",
    "titel": "Karussell: Gesunde gegen toxische Freundschaft",
    "en": "Healthy vs toxic friendship",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Gesund gegen toxisch|Healthy vs toxic friendship",
    "datum": "2026-11-21",
    "zeit": "15:00",
@@ -4468,7 +4468,16 @@
    "skriptText": "7 Folien\n\nDEUTSCH (zum Prüfen)\n1. Ein echter Freund sorgt nicht dafür, dass du dich kleiner fühlst.\n2. Gesund: Freut sich über deine Erfolge | Toxisch: Wird still, wenn du Erfolg hast\n3. Gesund: Behält deine Geheimnisse für sich | Toxisch: Erzählt deine Angelegenheiten weiter\n4. Gesund: Meldet sich, wenn es dir schlecht geht | Toxisch: Ruft nur an, wenn er etwas braucht\n5. Gesund: Ehrlich zu dir unter vier Augen | Toxisch: Macht sich vor anderen über dich lustig\n6. Gesund: Kommt mit Abstand auch mal klar | Toxisch: Bestraft dich, wenn du beschäftigt bist\n7. Gute Freunde fühlen sich an wie Zuhause. An wen hast du gerade gedacht?\nCaption: Ein echter Freund feiert dich mit. Wer ist dir beim Lesen eingefallen?\n\nENGLISCH (wird produziert)\n1. A real friend doesn't make you feel smaller.\n2. Healthy: Happy for your wins | Toxic: Goes quiet when you succeed\n3. Healthy: Keeps your secrets | Toxic: Shares your business\n4. Healthy: Checks in when you're down | Toxic: Only calls when they need something\n5. Healthy: Honest with you in private | Toxic: Mocks you in public\n6. Healthy: Okay with distance sometimes | Toxic: Punishes you for being busy\n7. Good friends feel like home. Who came to mind?\n\nQuelle: Gable et al. 2004, capitalization: responses to good news predict relationship quality (JPSP)\nVorbild: https://www.youtube.com/shorts/J1wuMPuuJ40 (168000 Aufrufe)",
    "caption": "A real friend celebrates you, even when it costs them nothing to stay quiet. Who came to mind?",
    "hashtags": "#psychology #toxictrait #relationshippsychology #darkpsychology #relatable",
-   "postTitel": "Healthy vs toxic friendship"
+   "postTitel": "Healthy vs toxic friendship",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-012/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-012/folie-2.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-012/folie-3.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-012/folie-4.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-012/folie-5.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-012/folie-6.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/K15-012/folie-7.jpg"
+   ]
   },
   {
    "runde": 1,
@@ -4478,7 +4487,7 @@
    "thema": "Stille heißt nicht immer Frieden, aber manchmal ist sie die Antwort",
    "titel": "Karussell: Stille heißt nicht immer Frieden, aber manchmal ist sie die Antwort",
    "en": "Silence doesn't always mean peace",
-   "status": "offen",
+   "status": "fertig",
    "key": "EM|Das Zitat|Silence doesn't always mean peace",
    "datum": "2026-11-21",
    "zeit": "20:00",
@@ -4486,7 +4495,11 @@
    "skriptText": "2 Folien\n\nDEUTSCH (zum Prüfen)\n1. Stille heißt nicht immer Frieden …\n2. … aber manchmal ist sie die Antwort.\nCaption: Nicht jede Ruhe ist friedlich. Und nicht jede Frage braucht Worte. Wann war Stille deine Antwort?\n\nENGLISCH (wird produziert)\n1. Silence doesn't always mean peace …\n2. … but sometimes it is the answer.\n\nQuelle: Bekannter Gedanke, Urheber unklar",
    "caption": "Not every quiet is calm. And not every question needs words. When was silence your answer?",
    "hashtags": "#psychology #quotes #wisdom #deep #lifelessons",
-   "postTitel": "Silence doesn't always mean peace"
+   "postTitel": "Silence doesn't always mean peace",
+   "bilder": [
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z012/folie-1.jpg",
+    "https://alessandrotsc.github.io/Content/medien/empamind/Z012/folie-2.jpg"
+   ]
   },
   {
    "runde": 1,
